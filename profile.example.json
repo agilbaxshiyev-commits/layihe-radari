@@ -1,0 +1,11 @@
+{
+  "country": "Azerbaijan",
+  "birth_year": 2000,
+  "english_level": "B2",
+  "youth_work_experience": false,
+  "interests": ["environment", "digital", "entrepreneurship"],
+  "preferred_duration_days": [5, 14],
+  "max_fee_eur": 50,
+  "visa_free_countries": ["Türkiye", "Georgia"],
+  "notify_min_score": 50
+}

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="az">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Layihə Radarı</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <div class="topbar">
+        <span class="brand">Layihə Radarı</span>
+        <span id="updated" class="updated"></span>
+      </div>
+      <h1>Xaricdə tam maliyyələşən proqramlar</h1>
+      <p class="lead">Erasmus+ mübadilələri, təlimlər, ESC könüllülük və fellowship-lər — qəbul şansına görə sıralanıb.</p>
+
+      <form id="search" class="search" autocomplete="off">
+        <label class="field field-wide"><span>Açar söz</span>
+          <input id="q" type="search" placeholder="məs. environment, Spain"></label>
+        <label class="field"><span>Hara</span><select id="country"></select></label>
+        <label class="field"><span>Nə vaxt</span><select id="month"></select></label>
+        <label class="field"><span>Növ</span>
+          <select id="type">
+            <option value="">Bütün növlər</option>
+            <option value="youth_exchange">Gənclər mübadiləsi</option>
+            <option value="training_course">Təlim kursu</option>
+            <option value="esc_volunteering">ESC könüllülük</option>
+            <option value="other">Digər proqram</option>
+          </select></label>
+        <label class="field"><span>Müddət</span>
+          <select id="dur">
+            <option value="">İstənilən</option>
+            <option value="7">7 günə qədər</option>
+            <option value="14">8–14 gün</option>
+            <option value="21">15–21 gün</option>
+            <option value="long">21 gündən çox</option>
+          </select></label>
+        <button type="submit" class="go">Tap</button>
+      </form>
+
+      <div class="toggles">
+        <label class="toggle"><input type="checkbox" id="onlyHome" checked><span>Yalnız müraciət edə biləcəklərim</span></label>
+        <label class="toggle"><input type="checkbox" id="noFee"><span>İştirak haqqı olmayanlar</span></label>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="notices"></div>
+    <div class="toolbar">
+      <p id="count" aria-live="polite"></p>
+      <label class="sort">Sıralama
+        <select id="sort">
+          <option value="score">Bal (yüksəkdən)</option>
+          <option value="deadline">Son tarix (yaxın)</option>
+          <option value="start">Başlama tarixi</option>
+          <option value="new">Yeni əlavə olunanlar</option>
+        </select></label>
+    </div>
+    <ol id="results" class="results"></ol>
+    <p class="disclaimer">Bal təxmini sıralama göstəricisidir, real qəbul ehtimalı deyil. Tarix, xərc və şərtləri
+      müraciətdən əvvəl layihənin öz səhifəsində və infopack-ində yoxla.</p>
+  </main>
+
+  <dialog id="detail" aria-labelledby="detail-title"></dialog>
+  <script src="app.js"></script>
+</body>
+</html>
