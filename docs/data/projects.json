@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-15T12:12:53Z"
+  "updated_at": "2026-11-15T12:15:26Z"
  },
  "projects": [
   {
@@ -85,7 +85,7 @@
    "detail": true,
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-15",
-   "notified_at": null,
+   "notified_at": "2026-11-15",
    "reminded": false,
    "analysis": "ai",
    "flashcards": [
@@ -258,7 +258,7 @@
    "detail": true,
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-15",
-   "notified_at": null,
+   "notified_at": "2026-11-15",
    "reminded": false,
    "analysis": "ai",
    "flashcards": [
@@ -373,7 +373,7 @@
    "detail": true,
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-15",
-   "notified_at": null,
+   "notified_at": "2026-11-15",
    "reminded": false,
    "ai": {
     "summary_az": "Bu təlim kursu gənclərlə işdə və qeyri-formal təhsildə rəqəmsal məzmun, süni intellekt və avtomatlaşdırmanın rolunu araşdırır. İştirakçılar süni intellekt vasitəsilə tədris proqramlarının planlaşdırılması, idarə olunması və qiymətləndirilməsini praktiki olaraq öyrənəcəklər. Təlim Bolqarıstanın Bansko şəhərində keçiriləcəkdir.",
@@ -560,7 +560,7 @@
    "detail": true,
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-15",
-   "notified_at": null,
+   "notified_at": "2026-11-15",
    "reminded": false,
    "analysis": "ai",
    "flashcards": [
