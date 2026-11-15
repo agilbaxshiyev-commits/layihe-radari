@@ -79,27 +79,35 @@ def _rank(name):
     return (float(version.group(1)) if version else 0.0, "lite" not in name)
 
 
-_model = None
+_order = None
+_down = set()
+
+
+def _models():
+    """AI_MODEL first (if set), then the key's stable text 'flash' models, newest first."""
+    global _order
+    if _order is None:
+        configured = _cfg()[2]
+        auto = []
+        try:
+            skip = ("image", "tts", "audio", "live", "embed", "omni")
+            names = [n for n in list_models() if "flash" in n and not any(s in n for s in skip)]
+            stable = [n for n in names if "preview" not in n and "exp" not in n] or names
+            auto = sorted(stable, key=_rank, reverse=True)
+        except requests.RequestException:
+            if not configured:
+                raise
+        _order = ([configured] if configured else []) + [n for n in auto if n != configured]
+        if not _order:
+            raise RuntimeError("AI_MODEL is not set and no 'flash' model was found; "
+                               "run `python -m radar models` and set AI_MODEL")
+    return [n for n in _order if n not in _down]
 
 
 def model():
-    """AI_MODEL if set, otherwise the newest stable text 'flash' model the key can use."""
-    global _model
-    if _model:
-        return _model
-    configured = _cfg()[2]
-    if configured:
-        _model = configured
-    else:
-        skip = ("image", "tts", "audio", "live", "embed")
-        names = [n for n in list_models() if "flash" in n and not any(s in n for s in skip)]
-        if not names:
-            raise RuntimeError("AI_MODEL is not set and no 'flash' model was found; "
-                               "run `python -m radar models` and set AI_MODEL")
-        stable = [n for n in names if "preview" not in n and "exp" not in n] or names
-        _model = max(stable, key=_rank)
-        log(f"AI model auto-selected: {_model}")
-    return _model
+    """The model in use: the first candidate that has not failed during this run."""
+    live = _models()
+    return live[0] if live else None
 
 
 def _loads(content):
@@ -166,30 +174,48 @@ def clean(data):
     }
 
 
-def analyze(project, text, home):
+def _ask(name, messages):
+    """One model's answer, or None when that model is overloaded, rate-limited or missing."""
     base, key, _ = _cfg()
-    known = {k: project.get(k) for k in
-             ("title", "type", "host_country", "city", "start_date", "end_date", "deadline",
-              "eligible_countries")}
-    body = {
-        "model": model(), "temperature": 0.2, "response_format": {"type": "json_object"},
-        "messages": [
-            {"role": "system", "content": SYSTEM.replace("{home}", home)},
-            {"role": "user", "content": "KNOWN FIELDS:\n" + json.dumps(known, ensure_ascii=False)
-                                        + "\n\nCALL TEXT:\n" + text[:12000]},
-        ],
-    }
-    for attempt in range(3):
-        resp = requests.post(base + "/chat/completions", json=body, timeout=90,
-                             headers={"Authorization": f"Bearer {key}"})
-        if resp.status_code == 429:
-            if attempt == 2:
-                raise QuotaExceeded()
+    body = {"model": name, "temperature": 0.2, "response_format": {"type": "json_object"},
+            "messages": messages}
+    for attempt in range(2):
+        try:
+            resp = requests.post(base + "/chat/completions", json=body, timeout=60,
+                                 headers={"Authorization": f"Bearer {key}"})
+        except (requests.Timeout, requests.ConnectionError):
+            return None
+        if resp.status_code == 429 and attempt == 0:
             retry_after = resp.headers.get("Retry-After", "")
             time.sleep(min(int(retry_after), 60) if retry_after.isdigit() else 20)
             continue
+        if resp.status_code in (404, 429) or resp.status_code >= 500:
+            return None
         resp.raise_for_status()
-        return clean(_loads(resp.json()["choices"][0]["message"]["content"]))
+        return resp.json()["choices"][0]["message"]["content"]
+    return None
+
+
+def analyze(project, text, home):
+    known = {k: project.get(k) for k in
+             ("title", "type", "host_country", "city", "start_date", "end_date", "deadline",
+              "eligible_countries", "eligible_note")}
+    messages = [
+        {"role": "system", "content": SYSTEM.replace("{home}", home)},
+        {"role": "user", "content": "KNOWN FIELDS:\n" + json.dumps(known, ensure_ascii=False)
+                                    + "\n\nCALL TEXT:\n" + text[:12000]},
+    ]
+    while True:
+        name = model()
+        if name is None:
+            raise QuotaExceeded()
+        content = _ask(name, messages)
+        if content is not None:
+            result = clean(_loads(content))
+            result["model"] = name
+            return result
+        _down.add(name)
+        log(f"AI model {name} is unavailable right now (overload or quota); trying the next one")
 
 
 def apply(project, result):
@@ -217,7 +243,7 @@ def apply(project, result):
     project["ai"] = {key: result[key] for key in (
         "summary_az", "documents", "requirements", "selection_process", "competition",
         "competition_reason", "required_english", "experience_required")}
-    project["ai"]["model"] = _model
+    project["ai"]["model"] = result.get("model")
     project["ai"]["analyzed_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     project["flashcards"] = result["flashcards"] or fallback_cards(project)
     project["analysis"] = "ai"

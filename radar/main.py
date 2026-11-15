@@ -34,7 +34,8 @@ def collect(store, today, home):
             log(f"{name}: collection failed — {type(exc).__name__}: {exc}")
             continue
         listed = {_same_call(p) for p in store.projects.values() if p["source"] != name}
-        items = [p for p in items if p["url"] in store.projects or _same_call(p) not in listed]
+        items = [p for p in items if p["url"] in store.projects
+                 or (_same_call(p) not in listed and Store.fresh(p, today))]
         added = sum(store.upsert(item, today) for item in items)
         log(f"{name}: {added} new")
 
@@ -50,13 +51,17 @@ def analyze(store, today, home, limit):
                 break
             try:
                 text = SOURCES[p["source"]].text_for(p, home)
-                if not text:
-                    continue
+            except Exception as exc:
+                log(f"could not read {p['url']} for analysis: {type(exc).__name__}")
+                continue
+            if not text:
+                continue
+            try:
                 ai.apply(p, ai.analyze(p, text, home))
                 done, failures = done + 1, 0
                 time.sleep(AI_PAUSE_SECONDS)
             except ai.QuotaExceeded:
-                log("AI quota reached; the rest will be analysed on the next run")
+                log("no AI model is available right now (quota or overload); the rest waits for the next run")
                 break
             except Exception as exc:
                 failures += 1

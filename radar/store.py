@@ -43,18 +43,19 @@ class Store:
         prev["last_seen"] = today.isoformat()
         return False
 
-    def prune(self, today):
+    @staticmethod
+    def fresh(p, today):
+        """False once a project is too old to be worth keeping (or adding)."""
         cutoff = today - timedelta(days=KEEP_EXPIRED_DAYS)
+        deadline, end = from_iso(p.get("deadline")), from_iso(p.get("end_date"))
+        if deadline:
+            return deadline >= cutoff
+        if end:
+            return end >= today
+        return (from_iso(p.get("last_seen")) or today) >= cutoff
 
-        def keep(p):
-            deadline, end = from_iso(p.get("deadline")), from_iso(p.get("end_date"))
-            if deadline:
-                return deadline >= cutoff
-            if end:
-                return end >= today
-            return (from_iso(p.get("last_seen")) or today) >= cutoff
-
-        self.projects = {url: p for url, p in self.projects.items() if keep(p)}
+    def prune(self, today):
+        self.projects = {url: p for url, p in self.projects.items() if self.fresh(p, today)}
 
     def save(self, **meta):
         self.meta.update(meta, updated_at=datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))

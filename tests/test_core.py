@@ -1,5 +1,6 @@
 import unittest
 from datetime import date
+from unittest import mock
 
 from radar import ai
 from radar.config import DEFAULT_PROFILE
@@ -98,6 +99,39 @@ class AiOutput(unittest.TestCase):
         self.assertEqual(p["az_eligible"], "yes")
         self.assertEqual(p["costs"]["fee_eur"], 0)
         self.assertTrue(p["flashcards"])
+
+
+class AiFallback(unittest.TestCase):
+    def test_overloaded_model_falls_back_to_next(self):
+        class Reply:
+            def __init__(self, status, content=""):
+                self.status_code, self.headers, self._content = status, {}, content
+
+            def raise_for_status(self):
+                pass
+
+            def json(self):
+                return {"choices": [{"message": {"content": self._content}}]}
+
+        asked = []
+
+        def post(url, json, **_):
+            asked.append(json["model"])
+            if json["model"] == "big-flash":
+                return Reply(503)
+            return Reply(200, '{"applicant_eligible": "yes", "flashcards": []}')
+
+        with mock.patch.object(ai, "_order", ["big-flash", "small-flash"]), \
+                mock.patch.object(ai, "_down", set()), \
+                mock.patch.object(ai.requests, "post", post), \
+                mock.patch.dict("os.environ", {"AI_API_KEY": "test"}):
+            result = ai.analyze(project(), "call text", "Azerbaijan")
+            self.assertEqual(asked, ["big-flash", "small-flash"])
+            self.assertEqual(result["model"], "small-flash")
+            self.assertEqual(ai.model(), "small-flash")
+            ai._down.add("small-flash")
+            with self.assertRaises(ai.QuotaExceeded):
+                ai.analyze(project(), "call text", "Azerbaijan")
 
 
 class Storage(unittest.TestCase):
