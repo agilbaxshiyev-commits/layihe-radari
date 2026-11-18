@@ -3,9 +3,176 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-18T13:30:46Z"
+  "updated_at": "2026-11-18T19:08:09Z"
  },
  "projects": [
+  {
+   "id": "76e7f952a74d",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/generations-together-azerbaijan",
+   "title": "Generations Together – Strengthening Solidarity Through Youth Work",
+   "type": "training_course",
+   "type_label": "Training Course",
+   "host_country": "Azerbaijan",
+   "city": null,
+   "start_date": "2027-05-10",
+   "end_date": "2027-05-15",
+   "duration_days": 6,
+   "deadline": "2026-12-31",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Iceland",
+    "Liechtenstein",
+    "Norway",
+    "North Macedonia",
+    "Serbia",
+    "Türkiye",
+    "Armenia",
+    "Azerbaijan",
+    "Georgia",
+    "Moldova",
+    "Ukraine",
+    "Albania",
+    "Bosnia and Herzegovina",
+    "Montenegro",
+    "Kosovo"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": "Xərclər Milli Agentliklər tərəfindən qarşılanır, lakin onlar öz iştirak haqqlarını tətbiq edə bilərlər."
+   },
+   "spots_per_country": null,
+   "spots_total": 25,
+   "organizer": null,
+   "topics": [
+    "Inclusion & Diversity",
+    "Solidarity & Community"
+   ],
+   "description": "A four-day training course in Azerbaijan (venue to be confirmed) on intergenerational solidarity: how youth workers and other professionals can foster meaningful contact between people of different ages and counter ageism. Participation fee: costs are covered by the National Agencies involved,…",
+   "detail": true,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "notified_at": "2026-11-18",
+   "reminded": false,
+   "analysis": "ai",
+   "flashcards": [
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "31 dekabr 2026-cı il."
+    },
+    {
+     "q": "Layihədə iştirak etmək üçün nə təqdim etməliyəm?",
+     "a": "Onlayn müraciət formasını doldurmaq lazımdır."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və yemək xərcləri qarşılanır, yol xərcləri isə geri ödənilir."
+    },
+    {
+     "q": "Kimlər müraciət edə bilər?",
+     "a": "Siyahıda göstərilən 42 uyğun ölkədən olan gənclərlə işləyən mütəxəssislər."
+    },
+    {
+     "q": "Motivasiya məktubunda nəyə diqqət etməliyəm?",
+     "a": "Nəsillərarası həmrəylik və yaş ayrı-seçkiliyi ilə bağlı təcrübənizi və marağınızı vurğulayın."
+    }
+   ],
+   "score": {
+    "total": 65,
+    "chance": 50,
+    "fit": 93,
+    "label": "Orta",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: Təlim kursu (45)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "42 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 8,
+      "t": "Tələb olunan gənclərlə iş təcrübən var"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: inclusion, solidarity, community"
+     },
+     {
+      "k": "fit",
+      "d": 25,
+      "t": "Müddət 6 gün — istədiyin aralıqdadır"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     }
+    ]
+   },
+   "status": "open",
+   "ai": {
+    "summary_az": "Azərbaycanda keçiriləcək bu təlim kursu nəsillərarası həmrəyliyin gücləndirilməsinə və yaş ayrı-seçkiliyi ilə mübarizəyə həsr olunub. Gənclərlə işləyən mütəxəssislər müxtəlif yaş qrupları arasında əlaqələrin qurulması yollarını öyrənəcəklər.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "Gənclərlə iş sahəsində təcrübə",
+     "İngilis dilində ünsiyyət bacarığı"
+    ],
+    "selection_process": "İştirakçılar ev sahibi təşkilat tərəfindən seçilir.",
+    "competition": "medium",
+    "competition_reason": "Proqram 42 ölkə üçün açıqdır və məhdud sayda iştirakçı qəbul edilir.",
+    "required_english": null,
+    "experience_required": true,
+    "model": "gemini-3.1-flash-lite",
+    "analyzed_at": "2026-11-18"
+   }
+  },
   {
    "id": "7ba0a6033ff7",
    "source": "salto",
@@ -466,147 +633,6 @@
     "model": "gemini-3.6-flash",
     "analyzed_at": "2026-11-14"
    }
-  },
-  {
-   "id": "76e7f952a74d",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/generations-together-azerbaijan",
-   "title": "Generations Together – Strengthening Solidarity Through Youth Work",
-   "type": "training_course",
-   "type_label": "Training Course",
-   "host_country": "Azerbaijan",
-   "city": null,
-   "start_date": "2027-05-10",
-   "end_date": "2027-05-15",
-   "duration_days": 6,
-   "deadline": "2026-12-31",
-   "eligible_countries": [
-    "Austria",
-    "Belgium",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Ireland",
-    "Italy",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Netherlands",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Iceland",
-    "Liechtenstein",
-    "Norway",
-    "North Macedonia",
-    "Serbia",
-    "Türkiye",
-    "Armenia",
-    "Azerbaijan",
-    "Georgia",
-    "Moldova",
-    "Ukraine",
-    "Albania",
-    "Bosnia and Herzegovina",
-    "Montenegro",
-    "Kosovo"
-   ],
-   "eligible_note": null,
-   "az_eligible": "yes",
-   "age_min": null,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "covered",
-    "travel": "reimbursed",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": 25,
-   "organizer": null,
-   "topics": [
-    "Inclusion & Diversity",
-    "Solidarity & Community"
-   ],
-   "description": "A four-day training course in Azerbaijan (venue to be confirmed) on intergenerational solidarity: how youth workers and other professionals can foster meaningful contact between people of different ages and counter ageism. Participation fee: costs are covered by the National Agencies involved,…",
-   "detail": true,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
-   "notified_at": "2026-11-18",
-   "reminded": false,
-   "analysis": "rules",
-   "flashcards": [
-    {
-     "q": "Son müraciət tarixi nə vaxtdır?",
-     "a": "31 Dek 2026"
-    },
-    {
-     "q": "Kimlər müraciət edə bilər?",
-     "a": "Ölkələr: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece"
-    },
-    {
-     "q": "Hansı xərclər qarşılanır?",
-     "a": "Yaşayış və yemək ödənilir, yol xərci sonradan qaytarılır"
-    },
-    {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
-    }
-   ],
-   "score": {
-    "total": 60,
-    "chance": 42,
-    "fit": 93,
-    "label": "Orta",
-    "eligible": true,
-    "factors": [
-     {
-      "k": "chance",
-      "d": 0,
-      "t": "Başlanğıc bal: Təlim kursu (45)"
-     },
-     {
-      "k": "chance",
-      "d": -8,
-      "t": "42 ölkədən müraciət qəbul olunur"
-     },
-     {
-      "k": "chance",
-      "d": 5,
-      "t": "Maraq sahənə uyğundur: inclusion, solidarity, community"
-     },
-     {
-      "k": "fit",
-      "d": 25,
-      "t": "Müddət 6 gün — istədiyin aralıqdadır"
-     },
-     {
-      "k": "fit",
-      "d": 10,
-      "t": "Yaşayış və yemək ödənilir"
-     },
-     {
-      "k": "fit",
-      "d": 8,
-      "t": "Yol xərci sonradan qaytarılır"
-     }
-    ]
-   },
-   "status": "open"
   },
   {
    "id": "63b0b7135db0",
@@ -1120,6 +1146,343 @@
    "status": "open"
   },
   {
+   "id": "df521c3efa0b",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/volunteer-at-community-centres-in-graz",
+   "title": "Volunteer at Community Centres in Graz",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Austria",
+   "city": "Graz",
+   "start_date": "2027-03-01",
+   "end_date": "2028-02-28",
+   "duration_days": 365,
+   "deadline": "2026-12-06",
+   "eligible_countries": [
+    "Albania",
+    "Armenia",
+    "Azerbaijan",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Montenegro",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "İştirak haqqı yoxdur, yaşayış və yemək xərcləri qarşılanır, səyahət xərcləri isə ödənilir."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "JUKUS",
+   "topics": [
+    "Arts & Creativity",
+    "Human Rights & Peace",
+    "Youth Work & Learning"
+   ],
+   "description": "A one-year placement at two neighbourhood community centres in the Lend district of Graz that offer counselling, community-building and inclusive activities for all residents. Note: applications are accepted only through the external link given on the European Youth Portal page.",
+   "detail": true,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "notified_at": null,
+   "reminded": false,
+   "analysis": "ai",
+   "flashcards": [
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "6 dekabr 2026-cı il."
+    },
+    {
+     "q": "Kimlər müraciət edə bilər?",
+     "a": "18-30 yaş arası və təyin olunmuş 34 ölkədən (o cümlədən Azərbaycan) birində yaşayan gənclər."
+    },
+    {
+     "q": "Hansı xərclər qarşılanır?",
+     "a": "Yaşayış və yemək xərcləri qarşılanır, səyahət xərcləri isə ödənilir."
+    },
+    {
+     "q": "Müraciət necə həyata keçirilir?",
+     "a": "Xarici keçid (Google Form) vasitəsilə onlayn ərizə forması doldurulmalıdır."
+    },
+    {
+     "q": "İştirak haqqı tələb olunurmu?",
+     "a": "Xeyr, heç bir iştirak haqqı yoxdur."
+    }
+   ],
+   "score": {
+    "total": 47,
+    "chance": 47,
+    "fit": 48,
+    "label": "Aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: ESC könüllülük (50)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "34 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: community"
+     },
+     {
+      "k": "fit",
+      "d": -25,
+      "t": "Müddət uzundur: 365 gün"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open",
+   "ai": {
+    "summary_az": "Avropa Həmrəyliyi Korpusu çərçivəsində Avstriyanın Qraz şəhərində yerləşən məhəllə icma mərkəzlərində 1 illik könüllülük proqramıdır. Könüllülər məsləhət, icma quruculuğu və inklüziv fəaliyyətlərdə iştirak edəcəklər. Yaşayış, yemək və səyahət xərcləri təmin olunur.",
+    "documents": [
+     "Onlayn ərizə forması"
+    ],
+    "requirements": [
+     "18-30 yaş arasında olmaq",
+     "Uyğun ölkələrdən birində yaşamaq"
+    ],
+    "selection_process": "İştirakçılar ev sahibi təşkilat tərəfindən seçilir və müraciətlər xarici keçid vasitəsilə qəbul edilir.",
+    "competition": "medium",
+    "competition_reason": "Proqram bir çox uyğun ölkəni əhatə edir və hər yaş qrupundan gənclər müraciət edə bilər.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.5-flash-lite",
+    "analyzed_at": "2026-11-18"
+   }
+  },
+  {
+   "id": "5575b02baebd",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/one-year-in-a-cultural-centre-in-catania",
+   "title": "One Year in a Cultural Centre in Catania",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Catania",
+   "start_date": "2027-02-11",
+   "end_date": "2028-02-10",
+   "duration_days": 365,
+   "deadline": "2026-12-09",
+   "eligible_countries": [
+    "Albania",
+    "Armenia",
+    "Austria",
+    "Azerbaijan",
+    "Portugal",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Egypt",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Jordan",
+    "Kosovo",
+    "Latvia",
+    "Lebanon",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Morocco",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Palestine",
+    "Poland",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Syria",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "İştirak haqqı yoxdur, bütün əsas xərclər qarşılanır."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Zō Centro Culture Contemporanee",
+   "topics": [
+    "Arts & Creativity",
+    "Human Rights & Peace",
+    "Youth Work & Learning"
+   ],
+   "description": "A one-year placement at Zō, a multidisciplinary contemporary-culture centre in Catania that produces theatre, dance, concerts, cinema, festivals and workshops. The volunteer supports cultural programming, education and social-innovation activities.",
+   "detail": true,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "notified_at": null,
+   "reminded": false,
+   "analysis": "ai",
+   "flashcards": [
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "9 dekabr 2026-cı il."
+    },
+    {
+     "q": "Hansı sənədləri təqdim etmək lazımdır?",
+     "a": "Onlayn ərizə forması doldurulmalıdır."
+    },
+    {
+     "q": "Azərbaycan vətəndaşları müraciət edə bilərmi?",
+     "a": "Bəli, Azərbaycan uyğun ölkələr siyahısındadır."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Qalacağınız yer və yemək xərcləri qarşılanır, yol xərcləri isə kompensasiya olunur."
+    },
+    {
+     "q": "Yaş həddi nə qədərdir?",
+     "a": "18-30 yaş arası gənclər müraciət edə bilər."
+    },
+    {
+     "q": "Seçim prosesi necə həyata keçirilir?",
+     "a": "İştirakçılar ev sahibi təşkilat tərəfindən seçilir."
+    }
+   ],
+   "score": {
+    "total": 47,
+    "chance": 47,
+    "fit": 48,
+    "label": "Aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: ESC könüllülük (50)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "47 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: culture"
+     },
+     {
+      "k": "fit",
+      "d": -25,
+      "t": "Müddət uzundur: 365 gün"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open",
+   "ai": {
+    "summary_az": "İtaliyanın Kataniya şəhərindəki Zō müasir mədəniyyət mərkəzində 1 illik Avropa Həmrəyliyi Korpusu (ESC) könüllülük proqramıdır. Könüllü teatr, musiqi, kino və incəsənət tədbirlərinin təşkilində dəstək göstərəcək. Yaşayış, yemək və səyahət xərcləri qarşılanır.",
+    "documents": [
+     "Onlayn ərizə forması"
+    ],
+    "requirements": [
+     "18-30 yaş arasında olmaq",
+     "Siyahıdakı uyğun ölkələrdən birində yaşamaq"
+    ],
+    "selection_process": "Ev sahibi təşkilat müraciətləri nəzərdən keçirərək iştirakçıları seçir.",
+    "competition": "medium",
+    "competition_reason": "Layihə geniş ölkə siyahısına açıqdır və bir çox namizədin müraciət etməsi gözlənilir.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.5-flash-lite",
+    "analyzed_at": "2026-11-18"
+   }
+  },
+  {
    "id": "44eb5d522fe0",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/esc-long-term-volunteering-sorgun",
@@ -1449,287 +1812,6 @@
    }
   },
   {
-   "id": "df521c3efa0b",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/volunteer-at-community-centres-in-graz",
-   "title": "Volunteer at Community Centres in Graz",
-   "type": "esc_volunteering",
-   "type_label": "Volunteering",
-   "host_country": "Austria",
-   "city": "Graz",
-   "start_date": "2027-03-01",
-   "end_date": "2028-02-28",
-   "duration_days": 365,
-   "deadline": "2026-12-06",
-   "eligible_countries": [
-    "Albania",
-    "Armenia",
-    "Azerbaijan",
-    "Belgium",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Georgia",
-    "Germany",
-    "Greece",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Liechtenstein",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Montenegro",
-    "Netherlands",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Türkiye",
-    "Ukraine"
-   ],
-   "eligible_note": null,
-   "az_eligible": "yes",
-   "age_min": 18,
-   "age_max": 30,
-   "costs": {
-    "accommodation_food": "covered",
-    "travel": "reimbursed",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": "JUKUS",
-   "topics": [
-    "Arts & Creativity",
-    "Human Rights & Peace",
-    "Youth Work & Learning"
-   ],
-   "description": "A one-year placement at two neighbourhood community centres in the Lend district of Graz that offer counselling, community-building and inclusive activities for all residents. Note: applications are accepted only through the external link given on the European Youth Portal page.",
-   "detail": true,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
-   "notified_at": null,
-   "reminded": false,
-   "analysis": "rules",
-   "flashcards": [
-    {
-     "q": "Son müraciət tarixi nə vaxtdır?",
-     "a": "6 Dek 2026"
-    },
-    {
-     "q": "Kimlər müraciət edə bilər?",
-     "a": "Yaş: 18–30; Ölkələr: Albania, Armenia, Azerbaijan, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France"
-    },
-    {
-     "q": "Hansı xərclər qarşılanır?",
-     "a": "Yaşayış və yemək ödənilir, yol xərci sonradan qaytarılır"
-    },
-    {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
-    }
-   ],
-   "score": {
-    "total": 46,
-    "chance": 47,
-    "fit": 43,
-    "label": "Aşağı",
-    "eligible": true,
-    "factors": [
-     {
-      "k": "chance",
-      "d": 0,
-      "t": "Başlanğıc bal: ESC könüllülük (50)"
-     },
-     {
-      "k": "chance",
-      "d": -8,
-      "t": "34 ölkədən müraciət qəbul olunur"
-     },
-     {
-      "k": "chance",
-      "d": 5,
-      "t": "Maraq sahənə uyğundur: community"
-     },
-     {
-      "k": "fit",
-      "d": -25,
-      "t": "Müddət uzundur: 365 gün"
-     },
-     {
-      "k": "fit",
-      "d": 10,
-      "t": "Yaşayış və yemək ödənilir"
-     },
-     {
-      "k": "fit",
-      "d": 8,
-      "t": "Yol xərci sonradan qaytarılır"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
-   "id": "5575b02baebd",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/one-year-in-a-cultural-centre-in-catania",
-   "title": "One Year in a Cultural Centre in Catania",
-   "type": "esc_volunteering",
-   "type_label": "Volunteering",
-   "host_country": "Italy",
-   "city": "Catania",
-   "start_date": "2027-02-11",
-   "end_date": "2028-02-10",
-   "duration_days": 365,
-   "deadline": "2026-12-09",
-   "eligible_countries": [
-    "Albania",
-    "Armenia",
-    "Austria",
-    "Azerbaijan",
-    "Portugal",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Spain",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Egypt",
-    "Estonia",
-    "Finland",
-    "France",
-    "Georgia",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Jordan",
-    "Kosovo",
-    "Latvia",
-    "Lebanon",
-    "Libya",
-    "Liechtenstein",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Morocco",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Palestine",
-    "Poland",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Sweden",
-    "Syria",
-    "Ukraine"
-   ],
-   "eligible_note": null,
-   "az_eligible": "yes",
-   "age_min": 18,
-   "age_max": 30,
-   "costs": {
-    "accommodation_food": "covered",
-    "travel": "reimbursed",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": "Zō Centro Culture Contemporanee",
-   "topics": [
-    "Arts & Creativity",
-    "Human Rights & Peace",
-    "Youth Work & Learning"
-   ],
-   "description": "A one-year placement at Zō, a multidisciplinary contemporary-culture centre in Catania that produces theatre, dance, concerts, cinema, festivals and workshops. The volunteer supports cultural programming, education and social-innovation activities.",
-   "detail": true,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
-   "notified_at": null,
-   "reminded": false,
-   "analysis": "rules",
-   "flashcards": [
-    {
-     "q": "Son müraciət tarixi nə vaxtdır?",
-     "a": "9 Dek 2026"
-    },
-    {
-     "q": "Kimlər müraciət edə bilər?",
-     "a": "Yaş: 18–30; Ölkələr: Albania, Armenia, Austria, Azerbaijan, Portugal, Belgium, Bosnia and Herzegovina, Bulgaria, Spain, Croatia, Cyprus, Czechia"
-    },
-    {
-     "q": "Hansı xərclər qarşılanır?",
-     "a": "Yaşayış və yemək ödənilir, yol xərci sonradan qaytarılır"
-    },
-    {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
-    }
-   ],
-   "score": {
-    "total": 46,
-    "chance": 47,
-    "fit": 43,
-    "label": "Aşağı",
-    "eligible": true,
-    "factors": [
-     {
-      "k": "chance",
-      "d": 0,
-      "t": "Başlanğıc bal: ESC könüllülük (50)"
-     },
-     {
-      "k": "chance",
-      "d": -8,
-      "t": "47 ölkədən müraciət qəbul olunur"
-     },
-     {
-      "k": "chance",
-      "d": 5,
-      "t": "Maraq sahənə uyğundur: culture"
-     },
-     {
-      "k": "fit",
-      "d": -25,
-      "t": "Müddət uzundur: 365 gün"
-     },
-     {
-      "k": "fit",
-      "d": 10,
-      "t": "Yaşayış və yemək ödənilir"
-     },
-     {
-      "k": "fit",
-      "d": 8,
-      "t": "Yol xərci sonradan qaytarılır"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
    "id": "08526d64fd85",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/we-and-nature-kardzhali",
@@ -1789,8 +1871,8 @@
     "accommodation_food": "covered",
     "travel": "reimbursed",
     "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
+    "fee_eur": 0,
+    "fee_note": "Layihədə iştirak tamamilə pulsuzdur."
    },
    "spots_per_country": null,
    "spots_total": null,
@@ -1806,25 +1888,33 @@
    "last_seen": "2026-11-18",
    "notified_at": null,
    "reminded": false,
-   "analysis": "rules",
+   "analysis": "ai",
    "flashcards": [
     {
-     "q": "Kimlər müraciət edə bilər?",
-     "a": "Yaş: 18–30; Ölkələr: Albania, Armenia, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Bulgaria, Spain, Croatia, Cyprus, Czechia, Denmark"
+     "q": "Layihəyə necə müraciət etməliyəm?",
+     "a": "Layihənin rəsmi səhifəsindəki onlayn müraciət formasını dolduraraq."
     },
     {
-     "q": "Hansı xərclər qarşılanır?",
-     "a": "Yaşayış və yemək ödənilir, yol xərci sonradan qaytarılır"
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "Sabit son tarix yoxdur, mümkün qədər tez müraciət etmək tövsiyə olunur."
     },
     {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
+     "q": "Layihə xərcləri necə qarşılanır?",
+     "a": "Yaşayış və yemək xərcləri qarşılanır, yol xərcləri isə geri ödənilir."
+    },
+    {
+     "q": "Layihədə kimlər iştirak edə bilər?",
+     "a": "18-30 yaş arası, siyahıda göstərilən 37 uyğun ölkədən olan gənclər."
+    },
+    {
+     "q": "Seçim prosesi necə həyata keçirilir?",
+     "a": "İştirakçılar ev sahibi təşkilat (Art Center Karnolsky) tərəfindən seçilir."
     }
    ],
    "score": {
-    "total": 46,
+    "total": 47,
     "chance": 47,
-    "fit": 43,
+    "fit": 48,
     "label": "Aşağı",
     "eligible": true,
     "factors": [
@@ -1857,10 +1947,32 @@
       "k": "fit",
       "d": 8,
       "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
      }
     ]
    },
-   "status": "open"
+   "status": "open",
+   "ai": {
+    "summary_az": "Bolqarıstanın Kardjali şəhərində keçiriləcək bu könüllülük layihəsi incəsənət, mədəniyyətlərarası öyrənmə və icma fəaliyyətlərinə həsr olunub. Layihə Avropa Həmrəylik Korpusu çərçivəsində təşkil edilir və yaşıl səyahətə üstünlük verir.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18-30 yaş aralığında olmaq",
+     "Uyğun ölkələrdən birinin vətəndaşı və ya sakini olmaq"
+    ],
+    "selection_process": "İştirakçılar ev sahibi təşkilat tərəfindən onlayn müraciət forması əsasında seçilir.",
+    "competition": "medium",
+    "competition_reason": "ESC layihələri geniş auditoriya üçün açıqdır və çoxsaylı müraciətlər qəbul edir.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.1-flash-lite",
+    "analyzed_at": "2026-11-18"
+   }
   },
   {
    "id": "f0c70661ac36",
@@ -1918,8 +2030,8 @@
     "accommodation_food": "covered",
     "travel": "reimbursed",
     "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
+    "fee_eur": 0,
+    "fee_note": "Proqram tamamilə ödənişsizdir, yaşayış və yemək xərcləri qarşılanır."
    },
    "spots_per_country": null,
    "spots_total": null,
@@ -1935,25 +2047,37 @@
    "last_seen": "2026-11-18",
    "notified_at": null,
    "reminded": false,
-   "analysis": "rules",
+   "analysis": "ai",
    "flashcards": [
     {
+     "q": "Hansı sənədlər tələb olunur?",
+     "a": "CV və motivasiya məktubu."
+    },
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "Sabit son tarix yoxdur, müraciətlər davamlı qəbul olunur."
+    },
+    {
      "q": "Kimlər müraciət edə bilər?",
-     "a": "Yaş: 18–30; Ölkələr: Armenia, Azerbaijan, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany"
+     "a": "18-30 yaş arası, siyahıda qeyd olunan 33 ölkədən (o cümlədən Azərbaycan) olan gənclər."
     },
     {
-     "q": "Hansı xərclər qarşılanır?",
-     "a": "Yaşayış və yemək ödənilir, yol xərci sonradan qaytarılır"
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və yemək xərcləri qarşılanır, yol xərcləri isə geri ödənilir."
     },
     {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
+     "q": "Motivasiya məktubunda nəyə diqqət etməli?",
+     "a": "İnklüzivlik, sosial iş və əlilliyi olan insanlarla işləmək marağınızı vurğulayın."
+    },
+    {
+     "q": "Seçim prosesi necə aparılır?",
+     "a": "Namizədlər ev sahibi təşkilat tərəfindən onlayn müraciət forması və ya e-poçt vasitəsilə qiymətləndirilir."
     }
    ],
    "score": {
-    "total": 46,
+    "total": 47,
     "chance": 47,
-    "fit": 43,
+    "fit": 48,
     "label": "Aşağı",
     "eligible": true,
     "factors": [
@@ -1986,10 +2110,33 @@
       "k": "fit",
       "d": 8,
       "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
      }
     ]
    },
-   "status": "open"
+   "status": "open",
+   "ai": {
+    "summary_az": "Avstriyanın Götzis şəhərində yerləşən Sunnahof biodinamik təsərrüfatında könüllülük proqramıdır. İştirakçılar əlilliyi olan şəxslərlə birgə işləyərək inklüziv mühitdə təcrübə qazanacaqlar.",
+    "documents": [
+     "CV",
+     "Motivasiya məktubu"
+    ],
+    "requirements": [
+     "18-30 yaş aralığında olmaq",
+     "Uyğun ölkələrdən birinin vətəndaşı və ya sakini olmaq"
+    ],
+    "selection_process": "Namizədlər ev sahibi təşkilat tərəfindən seçilir. Müraciətlər onlayn forma və ya e-poçt vasitəsilə göndərilməlidir.",
+    "competition": "medium",
+    "competition_reason": "ESC layihələri geniş auditoriya üçün açıqdır və çoxsaylı müraciətlər qəbul edir.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.1-flash-lite",
+    "analyzed_at": "2026-11-18"
+   }
   },
   {
    "id": "6b91b011391e",
@@ -2051,8 +2198,8 @@
     "accommodation_food": "covered",
     "travel": "reimbursed",
     "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
+    "fee_eur": 0,
+    "fee_note": "Proqram tamamilə ödənişsizdir, yaşayış və yemək xərcləri qarşılanır."
    },
    "spots_per_country": null,
    "spots_total": null,
@@ -2068,25 +2215,37 @@
    "last_seen": "2026-11-18",
    "notified_at": null,
    "reminded": false,
-   "analysis": "rules",
+   "analysis": "ai",
    "flashcards": [
     {
+     "q": "Müraciət üçün hansı sənədlər lazımdır?",
+     "a": "Yalnız onlayn müraciət formasını doldurmaq tələb olunur."
+    },
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "Sabit bir son tarix yoxdur, mümkün qədər tez müraciət etmək tövsiyə olunur."
+    },
+    {
      "q": "Kimlər müraciət edə bilər?",
-     "a": "Yaş: 18–30; Ölkələr: Albania, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland"
+     "a": "18-30 yaş arası, siyahıda göstərilən 37 ölkədən (o cümlədən Azərbaycan) olan gənclər."
     },
     {
-     "q": "Hansı xərclər qarşılanır?",
-     "a": "Yaşayış və yemək ödənilir, yol xərci sonradan qaytarılır"
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və yemək xərcləri qarşılanır, yol xərcləri isə geri ödənilir."
     },
     {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
+     "q": "Motivasiya məktubunda nəyə diqqət etməli?",
+     "a": "Sosial fəaliyyətlərə marağınızı və əlilliyi olan şəxslərlə işləmək istəyinizi vurğulayın."
+    },
+    {
+     "q": "Seçim prosesi necə aparılır?",
+     "a": "Seçimi birbaşa ev sahibi olan Centre de Réadaptation de Mulhouse təşkilatı həyata keçirir."
     }
    ],
    "score": {
-    "total": 46,
+    "total": 47,
     "chance": 47,
-    "fit": 43,
+    "fit": 48,
     "label": "Aşağı",
     "eligible": true,
     "factors": [
@@ -2119,10 +2278,32 @@
       "k": "fit",
       "d": 8,
       "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
      }
     ]
    },
-   "status": "open"
+   "status": "open",
+   "ai": {
+    "summary_az": "Fransanın Mulhouse şəhərindəki reabilitasiya mərkəzində 3 aylıq könüllülük proqramıdır. Könüllülər əlilliyi olan şəxslər üçün mədəni təqdimatlar, dil dərsləri və müxtəlif yaradıcı seminarlar təşkil edəcəklər.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18-30 yaş aralığında olmaq",
+     "Uyğun ölkələrdən birinin vətəndaşı və ya sakini olmaq"
+    ],
+    "selection_process": "Ev sahibi təşkilat müraciətləri qiymətləndirərək seçim edir.",
+    "competition": "medium",
+    "competition_reason": "ESC proqramları geniş əhatə dairəsinə malikdir və çoxsaylı namizədlər tərəfindən maraq göstərilir.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.1-flash-lite",
+    "analyzed_at": "2026-11-18"
+   }
   },
   {
    "id": "570a0d93f3c7",
@@ -2976,105 +3157,6 @@
    }
   },
   {
-   "id": "dc013a4cb16e",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/learn-play-and-grow-kindergarten-in-voru",
-   "title": "Learn, Play and Grow – Kindergarten in Võru",
-   "type": "esc_volunteering",
-   "type_label": "Volunteering",
-   "host_country": "Estonia",
-   "city": "Võru",
-   "start_date": "2027-01-04",
-   "end_date": "2027-06-20",
-   "duration_days": 168,
-   "deadline": null,
-   "eligible_countries": [
-    "Albania",
-    "Armenia",
-    "Austria",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Finland",
-    "France"
-   ],
-   "eligible_note": null,
-   "az_eligible": "unknown",
-   "age_min": null,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "unknown",
-    "travel": "unknown",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": null,
-   "topics": [
-    "Arts & Creativity",
-    "Inclusion & Diversity",
-    "Youth Work & Learning"
-   ],
-   "description": "A six-month placement at Tähesära kindergarten in Võru, South Estonia. The volunteer supports teachers with games, creative activities, outdoor play and daily routines with young children.",
-   "detail": false,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
-   "notified_at": null,
-   "reminded": false,
-   "analysis": "rules",
-   "flashcards": [
-    {
-     "q": "Kimlər müraciət edə bilər?",
-     "a": "Ölkələr: Albania, Armenia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Finland, France"
-    },
-    {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
-    }
-   ],
-   "score": {
-    "total": 38,
-    "chance": 40,
-    "fit": 33,
-    "label": "Aşağı",
-    "eligible": true,
-    "factors": [
-     {
-      "k": "chance",
-      "d": 0,
-      "t": "Başlanğıc bal: ESC könüllülük (50)"
-     },
-     {
-      "k": "chance",
-      "d": -15,
-      "t": "Azerbaijan üçün açıq olub-olmadığı dəqiq deyil"
-     },
-     {
-      "k": "chance",
-      "d": 5,
-      "t": "Maraq sahənə uyğundur: inclusion"
-     },
-     {
-      "k": "fit",
-      "d": -25,
-      "t": "Müddət uzundur: 168 gün"
-     },
-     {
-      "k": "fit",
-      "d": 8,
-      "t": "Erasmus+/ESC qaydalarına görə əsas xərclər adətən qarşılanır — infopack-də yoxla"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
    "id": "d3a1645b3b06",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/other-music-academy-weimar",
@@ -3700,79 +3782,6 @@
     "model": "gemini-3.6-flash",
     "analyzed_at": "2026-11-14"
    }
-  },
-  {
-   "id": "0b6996dcc97e",
-   "source": "opportunitiesforyouth",
-   "url": "https://opportunitiesforyouth.org/2026/11/17/shaping-futures-academy-2027-in-germany-and-belgium-fully-funded-african-european-sustainability-programme-for-mid-career-professionals-apply-by-december-14-2026/",
-   "title": "Shaping Futures Academy 2027 in Germany and Belgium: Fully Funded African-European Sustainability Programme for Mid-Career Professionals (Apply by December 14, 2026)",
-   "type": "other",
-   "type_label": null,
-   "host_country": null,
-   "city": null,
-   "start_date": null,
-   "end_date": null,
-   "duration_days": null,
-   "deadline": null,
-   "eligible_countries": [],
-   "eligible_note": null,
-   "az_eligible": "unknown",
-   "age_min": null,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "unknown",
-    "travel": "unknown",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": null,
-   "topics": [],
-   "description": "The German Institute of Development and Sustainability (IDOS) is inviting applications for the Shaping Futures Academy 2027, an international dialogue, professional development, and training programme that brings together mid-career professionals, managers, and researchers from selected African…",
-   "detail": false,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
-   "notified_at": null,
-   "reminded": false,
-   "analysis": "rules",
-   "flashcards": [
-    {
-     "q": "Adətən nə hazırlamaq lazımdır?",
-     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
-    }
-   ],
-   "score": {
-    "total": 24,
-    "chance": 12,
-    "fit": 45,
-    "label": "Çox aşağı",
-    "eligible": true,
-    "factors": [
-     {
-      "k": "chance",
-      "d": 0,
-      "t": "Başlanğıc bal: Digər proqram (22)"
-     },
-     {
-      "k": "chance",
-      "d": -15,
-      "t": "Azerbaijan üçün açıq olub-olmadığı dəqiq deyil"
-     },
-     {
-      "k": "chance",
-      "d": 5,
-      "t": "Maraq sahənə uyğundur: career, sustainab"
-     },
-     {
-      "k": "fit",
-      "d": -5,
-      "t": "Müddət məlum deyil"
-     }
-    ]
-   },
-   "status": "open"
   },
   {
    "id": "da29427f0b7b",
@@ -16160,6 +16169,106 @@
    "status": "open"
   },
   {
+   "id": "0b6996dcc97e",
+   "source": "opportunitiesforyouth",
+   "url": "https://opportunitiesforyouth.org/2026/11/17/shaping-futures-academy-2027-in-germany-and-belgium-fully-funded-african-european-sustainability-programme-for-mid-career-professionals-apply-by-december-14-2026/",
+   "title": "Shaping Futures Academy 2027 in Germany and Belgium: Fully Funded African-European Sustainability Programme for Mid-Career Professionals (Apply by December 14, 2026)",
+   "type": "other",
+   "type_label": null,
+   "host_country": "Germany, Belgium",
+   "city": "Bonn, Brussels",
+   "start_date": "2027-05-31",
+   "end_date": "2027-07-01",
+   "duration_days": 32,
+   "deadline": "2026-12-14",
+   "eligible_countries": [
+    "Côte d’Ivoire",
+    "Kenya",
+    "Morocco",
+    "Togo",
+    "Zambia",
+    "European Union"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 28,
+   "age_max": 40,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "covered",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "Proqram tam maliyyələşdirilir və iştirak üçün ödəniş tələb olunmur."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "The German Institute of Development and Sustainability (IDOS) is inviting applications for the Shaping Futures Academy 2027, an international dialogue, professional development, and training programme that brings together mid-career professionals, managers, and researchers from selected African…",
+   "detail": false,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "notified_at": null,
+   "reminded": false,
+   "analysis": "ai",
+   "flashcards": [
+    {
+     "q": "Proqramın əsas mövzusu nədir?",
+     "a": "Enerji-mineral-torpaq əlaqəsi və davamlı inkişaf."
+    },
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "14 dekabr 2026-cı il."
+    },
+    {
+     "q": "Proqramda iştirak üçün yaş həddi neçədir?",
+     "a": "28-40 yaş."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Proqram tam maliyyələşdirilir, yaşayış, yemək və səyahət xərcləri daxildir."
+    },
+    {
+     "q": "Motivasiya məktubunda nəyə diqqət etməli?",
+     "a": "Davamlılıq sahəsindəki təcrübənizə və proqramın məqsədləri ilə uyğunluğunuza."
+    }
+   ],
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open",
+   "ai": {
+    "summary_az": "Shaping Futures Academy 2027, Afrika və Avropadan olan mütəxəssisləri davamlılıq və enerji-mineral-torpaq əlaqəsi mövzusunda bir araya gətirən peşəkar inkişaf proqramıdır. Proqram rəqəmsal hazırlıq mərhələsindən və Almaniya ilə Belçikada keçiriləcək intensiv təlimlərdən ibarətdir.",
+    "documents": [
+     "CV",
+     "Motivasiya məktubu"
+    ],
+    "requirements": [
+     "28-40 yaş arası olmaq",
+     "Orta karyera səviyyəli mütəxəssis, menecer və ya tədqiqatçı olmaq",
+     "Davamlılıq və enerji-mineral-torpaq əlaqəsi sahəsində maraqlı olmaq"
+    ],
+    "selection_process": "Namizədlər təqdim etdikləri sənədlər əsasında seçilir.",
+    "competition": "high",
+    "competition_reason": "Proqram beynəlxalq miqyaslıdır və yalnız 18 nəfərlik məhdud yer təklif edir.",
+    "required_english": null,
+    "experience_required": true,
+    "model": "gemini-3.1-flash-lite",
+    "analyzed_at": "2026-11-18"
+   }
+  },
+  {
    "id": "963b5d5418c9",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/lessons-of-love-baia-mare",
@@ -18339,6 +18448,112 @@
    "last_seen": "2026-11-18",
    "notified_at": null,
    "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "dc013a4cb16e",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/learn-play-and-grow-kindergarten-in-voru",
+   "title": "Learn, Play and Grow – Kindergarten in Võru",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Estonia",
+   "city": "Võru",
+   "start_date": "2027-01-04",
+   "end_date": "2027-06-20",
+   "duration_days": 168,
+   "deadline": null,
+   "eligible_countries": [
+    "Albania",
+    "Armenia",
+    "Austria",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Portugal",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Palestine",
+    "Poland",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Võru Kindergarten Tähesära",
+   "topics": [
+    "Arts & Creativity",
+    "Inclusion & Diversity",
+    "Youth Work & Learning"
+   ],
+   "description": "A six-month placement at Tähesära kindergarten in Võru, South Estonia. The volunteer supports teachers with games, creative activities, outdoor play and daily routines with young children.",
+   "detail": true,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "notified_at": null,
+   "reminded": false,
+   "analysis": "rules",
+   "flashcards": [
+    {
+     "q": "Kimlər müraciət edə bilər?",
+     "a": "Ölkələr: Albania, Armenia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Finland, France"
+    },
+    {
+     "q": "Adətən nə hazırlamaq lazımdır?",
+     "a": "Müraciət forması, qısa motivasiya mətni və etibarlı pasport. Dəqiq siyahı üçün layihənin infopack-ini oxu."
+    }
+   ],
    "score": {
     "total": 0,
     "chance": 0,
