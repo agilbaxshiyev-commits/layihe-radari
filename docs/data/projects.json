@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-19T13:28:12Z"
+  "updated_at": "2026-11-19T19:10:59Z"
  },
  "projects": [
   {
@@ -17487,6 +17487,101 @@
       "k": "gate",
       "d": 0,
       "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "5ff5f1571870",
+   "source": "opportunitiesforyouth",
+   "url": "https://opportunitiesforyouth.org/2026/11/19/camp-rising-sun-by-the-louis-august-jonas-foundation-fully-funded-summer-leadership-program-in-new-york/",
+   "title": "Camp Rising Sun 2027: Fully Funded International Leadership Summer Program in New York",
+   "type": "other",
+   "type_label": null,
+   "host_country": "United States",
+   "city": "New York",
+   "start_date": "2027-06-26",
+   "end_date": "2027-08-26",
+   "duration_days": 62,
+   "deadline": "2026-12-31",
+   "eligible_countries": [],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 15,
+   "age_max": 17,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "Proqram üçün təhsil haqqı tələb olunmur, lakin ehtiyac olduqda məhdud səyahət maliyyə dəstəyi verilə bilər."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "About Camp Rising Sun 2027 Camp Rising Sun (CRS) 2027, organized by the Louis August Jonas Foundation (LAJF), is an international summer leadership program designed to develop ethical, compassionate, thoughtful and engaged young leaders. The program brings together young people from different…",
+   "detail": false,
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Camp Rising Sun 2027 Nyu-Yorkda (ABŞ) keçirilən dördhəftəlik beynəlxalq liderlik yay düşərgəsidir. Proqram gənclərə etik liderlik bacarıqları öyrətmək və mədəniyyətlərarası ünsiyyət qurmaq imkanı yaradır. Təhsil haqqı tam maliyyələşdirilir və ehtiyacı olan ailələr üçün məhdud səyahət yardımı mövcuddur.",
+    "documents": [
+     "Doldurulmuş Camp Rising Sun ərizə forması",
+     "Bir nəfərdən tövsiyə məktubu (referans)"
+    ],
+    "requirements": [
+     "26 iyun 2012 və 26 avqust 2010 tarixləri arasında doğulmuş olmaq",
+     "İngilis dilində ünsiyyət qurmağı bacarmaq",
+     "Proqramın bütün dörd həftəlik müddətində iştirak etmək imkanına malik olmaq",
+     "ABŞ-a səyahət üçün etibarlı pasport və viza əldə edə bilmək",
+     "Tələb olunan tibbi müayinə və peyvənd şərtlərini yerinə yetirmək"
+    ],
+    "selection_process": "Namizədlər ərizə forması və tövsiyə məktubu əsasında qiymətləndirilir. Müvafiq bölgələr üçün müəyyən edilmiş son tarixə qədər müraciət edilməlidir.",
+    "competition": "high",
+    "competition_reason": "Proqram bütün dünyadan gənclərə açıq olan beynəlxalq, tam maliyyələşdirilən nüfuzlu yay liderlik düşərgəsidir.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.5-flash-lite",
+    "analyzed_at": "2026-11-19"
+   },
+   "flashcards": [
+    {
+     "q": "Camp Rising Sun 2027 proqramına kimlər müraciət edə bilər?",
+     "a": "15-17 yaş arası (26 iyun 2012 və 26 avqust 2010 tarixləri arasında doğulmuş) bütün dünya ölkələrindən, o cümlədən Azərbaycandan gənclər."
+    },
+    {
+     "q": "Azərbaycan üçün müraciət son tarixi nə vaxtdır?",
+     "a": "Xüsusi qeyd olunmayan ölkələr siyahısına daxil olduğu üçün son tarix 31 dekabr 2026-cı yıldır."
+    },
+    {
+     "q": "Müraciət üçün hansı sənədlər tələb olunur?",
+     "a": "Doldurulmuş ərizə forması və ailə üzvü olmayan böyük bir şəxsdən (müəllif, məsləhətçi və s.) bir tövsiyə məktubu."
+    },
+    {
+     "q": "Proqramın xərcləri qarşılanırrmı?",
+     "a": "Bəli, təhsil haqqı tam olaraq qarşılanır və ehtiyacı olan ailələr üçün məhdud səyahət maliyyə yardımı verilə bilər."
+    },
+    {
+     "q": "Motivasiya mətnində və ya ərizədə nəyə diqqət etmək lazımdır?",
+     "a": "Etik liderlik, icma iştirakı, müxtəlifliyə hörmət və fərqli mədəniyyətlərdən olan insanlarla əməkdaşlıq bacarıqlarını vurğulamaq vacibdir."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Yaş həddi: maksimum 17"
      }
     ]
    },
