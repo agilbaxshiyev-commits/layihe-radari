@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-20T07:27:44Z"
+  "updated_at": "2026-11-20T13:25:15Z"
  },
  "projects": [
   {
@@ -17274,6 +17274,96 @@
    "last_seen": "2026-11-20",
    "notified_at": null,
    "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "a5d151fb3812",
+   "source": "euneighbours",
+   "url": "https://euneighbourseast.eu/opportunities/european-city-facility-up-to-e60000-for-local-governments-to-plan-energy-efficiency-or-heating-and-cooling-actions/",
+   "title": "European City Facility: up to €60,000 for local governments to plan energy efficiency or heating and cooling actions",
+   "type": "other",
+   "type_label": null,
+   "host_country": null,
+   "city": null,
+   "start_date": null,
+   "end_date": null,
+   "duration_days": null,
+   "deadline": "2026-12-21",
+   "eligible_countries": [
+    "Moldova",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "Applicants from Moldova and Ukraine, alongside up to 62 municipalities or local authorities, their groupings or local public entities aggregating municipalities from the EU, can apply for lump-sum g…",
+   "detail": false,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "European City Facility (EUCF) bələdiyyələrə və yerli hakimiyyət orqanlarına enerji səmərəliliyi və iqlim tədbirləri üçün investisiya konsepsiyaları hazırlamağa 60,000 avro məbləğində qrantlar təqdim edir. Layihə Aİ-nin LIFE Proqramı tərəfindən maliyyələşdirilir. Azərbaycan bu çağırış üçün uyğun ölkələr siyahısında deyil.",
+    "documents": [
+     "İqlim və/və ya enerji planı (SECAP və ya oxşar plan)"
+    ],
+    "requirements": [
+     "Aİ ölkələrindən, Moldova və ya Ukraynadan bələdiyyə, yerli hakimiyyət orqanı və ya onların birliyi olmaq",
+     "Mövcud iqlim və enerji planına (SECAP və s.) malik olmaq"
+    ],
+    "selection_process": null,
+    "competition": "high",
+    "competition_reason": "Məhdud sayda bələdiyyə üçün nəzərdə tutulmuş 60,000 avroluq böyük büdcəli Aİ qrant çağırışıdır.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-20"
+   },
+   "flashcards": [
+    {
+     "q": "Bu proqramın məqsədi nədir?",
+     "a": "Bələdiyyələrə enerji səmərəliliyi və iqlim layihələri üzrə investisiya konsepsiyaları hazırlamaq üçün 60,000 avro qrant vermək."
+    },
+    {
+     "q": "Azərbaycan bu proqrama uyğundurmu?",
+     "a": "Xeyr, müraciət üçün yalnız Aİ ölkələri, Moldova və Ukraynanın bələdiyyələri uyğundur."
+    },
+    {
+     "q": "Son müraciət tarixi nə vaxtdır?",
+     "a": "21 dekabr 2026-cı il."
+    },
+    {
+     "q": "Müraciət üçün hansı sənəd tələb olunur?",
+     "a": "Bələdiyyənin təsdiqlənmiş iqlim və enerji planı (SECAP və ya analoji plan)."
+    }
+   ],
+   "analysis": "ai",
    "score": {
     "total": 0,
     "chance": 0,
