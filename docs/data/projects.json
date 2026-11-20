@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-20T13:25:15Z"
+  "updated_at": "2026-11-20T19:11:11Z"
  },
  "projects": [
   {
@@ -3337,6 +3337,117 @@
     "model": "gemini-3.6-flash",
     "analyzed_at": "2026-11-14"
    }
+  },
+  {
+   "id": "1e391c58401a",
+   "source": "opportunitiesforyouth",
+   "url": "https://opportunitiesforyouth.org/2026/11/20/asia-house-fellowship-2027-2028-apply-for-a-fully-funded-12-month-research-fellowship-with-a-24000-stipend/",
+   "title": "Asia House Fellowship 2027/2028: Apply for a Fully Funded 12-Month Research Fellowship with a £24,000 Stipend",
+   "type": "other",
+   "type_label": null,
+   "host_country": null,
+   "city": null,
+   "start_date": null,
+   "end_date": null,
+   "duration_days": null,
+   "deadline": "2027-01-31",
+   "eligible_countries": [],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "Applications are now open for the Asia House Fellowship 2027/2028, an exciting opportunity for early-career professionals and researchers interested in international affairs, geopolitics, economics, trade, technology, and policy developments across Asia and the Middle East. Organised by Asia…",
+   "detail": false,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Asia House Fellowship erkən karyera mütəxəssisləri və tədqiqatçıları üçün nəzərdə tutulmuş 12 aylıq tədqiqat proqramıdır. Seçiləcək 2 nəfərə 24,000 funt-sterlinq məbləğində təqaüd verilir. Proqram məsafədən (onlayn) həyata keçirilə bilər və Asiya/Yaxın Şərq üzrə geopolitika, texnologiya, ticarət və ya enerji sahələrini əhatə edir.",
+    "documents": [
+     "Tədqiqat təklifi (Research proposal)"
+    ],
+    "requirements": [
+     "Erkən karyera mərhələsində olan mütəxəssis və ya tədqiqatçı olmaq",
+     "Asiya və ya Yaxın Şərq regionu ilə bağlı praktiki əhəmiyyətə malik orijinal tədqiqat mövzusu təklif etmək"
+    ],
+    "selection_process": "Namizədlər 31 yanvar 2027-ci il tarixinədək tədqiqat təklifləri ilə müraciət edirlər və qiymətləndirmə əsasında 2 nəfər seçilir.",
+    "competition": "high",
+    "competition_reason": "Bütün dünya ölkələrindən müraciətə açıqdır və ümumilikdə yalnız 2 qalib seçiləcək.",
+    "required_english": null,
+    "experience_required": true,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-20"
+   },
+   "flashcards": [
+    {
+     "q": "Kimlər müraciət edə bilər?",
+     "a": "Bütün ölkələrdən olan erkən karyera mütəxəssisləri və tədqiqatçıları müraciət edə bilər."
+    },
+    {
+     "q": "Son müraciət tarixi nə vaxtdır?",
+     "a": "Son müraciət tarixi 31 yanvar 2027-ci ildir."
+    },
+    {
+     "q": "Maliyyə dəstəyi nə qədərdir?",
+     "a": "12 aylıq proqram ərzində ümumilikdə 24,000 funt-sterlinq təqaüd verilir."
+    },
+    {
+     "q": "Proqramda iştirak etmək üçün harada yaşamaq lazımdır?",
+     "a": "Proqram distant (məsafədən) icra edilə bildiyi üçün istənilən ölkədən iştirak etmək mümkündür."
+    },
+    {
+     "q": "Tədqiqat təklifində nəyə üstünlük verilməlidir?",
+     "a": "Nəzəriyyədən daha çox praktiki həllərə, biznes və siyasət rəhbərləri üçün real fayda verəcək orijinal fikirlərə üstünlük verilməlidir."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 29,
+    "chance": 20,
+    "fit": 45,
+    "label": "Çox aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: Digər proqram (22)"
+     },
+     {
+      "k": "chance",
+      "d": -15,
+      "t": "AI qiymətləndirməsi — rəqabət yüksəkdir: Bütün dünya ölkələrindən müraciətə açıqdır və ümumilikdə yalnız 2 qalib seçiləcək."
+     },
+     {
+      "k": "chance",
+      "d": 8,
+      "t": "Tələb olunan gənclərlə iş təcrübən var"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: technology, career"
+     },
+     {
+      "k": "fit",
+      "d": -5,
+      "t": "Müddət məlum deyil"
+     }
+    ]
+   },
+   "status": "open"
   },
   {
    "id": "d3a1645b3b06",
