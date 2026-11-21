@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-21T13:05:36Z"
+  "updated_at": "2026-11-21T18:57:00Z"
  },
  "projects": [
   {
@@ -506,6 +506,138 @@
     "model": "gemini-3.6-flash",
     "analyzed_at": "2026-11-14"
    }
+  },
+  {
+   "id": "7ba0a6033ff7",
+   "source": "salto",
+   "url": "https://www.salto-youth.net/tools/european-training-calendar/training/digital-content-pedagogical-practices.15401/",
+   "title": "Digital Content & Pedagogical Practices",
+   "type": "training_course",
+   "type_label": "Training Course",
+   "host_country": "Bulgaria",
+   "city": "Bansko",
+   "start_date": "2026-11-26",
+   "end_date": "2026-12-02",
+   "duration_days": 7,
+   "deadline": "2026-11-22",
+   "eligible_countries": [],
+   "eligible_note": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "İştirak haqqı yoxdur."
+   },
+   "spots_per_country": null,
+   "spots_total": 30,
+   "organizer": "Asociatia Nationala de Dezvoltare Continua a Tineretului din Romania",
+   "topics": [],
+   "description": "This course creates a space to explore the opportunities offered by digital content, artificial intelligence and automation in youth work and non-formal education.",
+   "detail": true,
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-21",
+   "notified_at": "2026-11-15",
+   "reminded": true,
+   "ai": {
+    "summary_az": "Bu təlim kursu gənclərlə işdə və qeyri-formal təhsildə rəqəmsal məzmun, süni intellekt və avtomatlaşdırmanın rolunu araşdırır. İştirakçılar süni intellekt vasitəsilə tədris proqramlarının planlaşdırılması, idarə olunması və qiymətləndirilməsini praktiki olaraq öyrənəcəklər. Təlim Bolqarıstanın Bansko şəhərində keçiriləcəkdir.",
+    "documents": [],
+    "requirements": [
+     "18 yaşdan yuxarı olmaq",
+     "Erasmus+ və ya ESC proqramında fəal olan QHT-ni təmsil edən gənclərlə işləyən, layihə meneceri və ya koç olmaq",
+     "Səlis ingilis dili biliyi",
+     "Təlim kursunun nəticələrini sosial mediada və öz işində yaymaq imkanı",
+     "Təcrübə paylaşmağa və motivasiyalı olmağa hazır olmaq"
+    ],
+    "selection_process": null,
+    "competition": "medium",
+    "competition_reason": "Təlim proqram və qonşu tərəfdaş ölkələrdən olan gənclərlə işləyən mütəxəssislər üçün açıqdır.",
+    "required_english": null,
+    "experience_required": true,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-15"
+   },
+   "flashcards": [
+    {
+     "q": "Kimlər müraciət edə bilər?",
+     "a": "Erasmus+ və ya ESC proqramlarında fəal olan QHT-ləri təmsil edən 18 yaşdan yuxarı gənclərlə işləyənlər, layihə menecerləri və koçlar."
+    },
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "Son müraciət tarixi 15 noyabr 2026-cı ildir."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və qida təşkilatçılar tərəfindən tam təmin edilir, yol xərcləri isə Erasmus+ qaydalarına uyğun limit daxilində kompensasiya olunur."
+    },
+    {
+     "q": "İştirak haqqı varmı?",
+     "a": "Xeyr, iştirak haqqı tamamilə pulsuzdur."
+    },
+    {
+     "q": "Motivasiya mətni və müraciətdə nəyə diqqət yetirilməlidir?",
+     "a": "Gənclərlə iş sahəsində təcrübənizi, rəqəmsal alətlər və AI-a marağınızı, həmçinin təlimdən sonra əldə olunan bilikləri necə yayacağınızı vurğulayın."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 58,
+    "chance": 36,
+    "fit": 98,
+    "label": "Orta",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: Təlim kursu (45)"
+     },
+     {
+      "k": "chance",
+      "d": 8,
+      "t": "Tələb olunan gənclərlə iş təcrübən var"
+     },
+     {
+      "k": "chance",
+      "d": -12,
+      "t": "Son tarixlə başlama arasında viza üçün vaxt azdır"
+     },
+     {
+      "k": "chance",
+      "d": -10,
+      "t": "Müraciət üçün 1 gündən az vaxt qalıb"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: digital, artificial intelligence"
+     },
+     {
+      "k": "fit",
+      "d": 25,
+      "t": "Müddət 7 gün — istədiyin aralıqdadır"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open"
   },
   {
    "id": "63b0b7135db0",
@@ -8259,98 +8391,6 @@
       "k": "gate",
       "d": 0,
       "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
-     }
-    ]
-   },
-   "status": "expired"
-  },
-  {
-   "id": "7ba0a6033ff7",
-   "source": "salto",
-   "url": "https://www.salto-youth.net/tools/european-training-calendar/training/digital-content-pedagogical-practices.15401/",
-   "title": "Digital Content & Pedagogical Practices",
-   "type": "training_course",
-   "type_label": "Training Course",
-   "host_country": "Bulgaria",
-   "city": "Bansko",
-   "start_date": "2026-11-26",
-   "end_date": "2026-12-02",
-   "duration_days": 7,
-   "deadline": "2026-11-20",
-   "eligible_countries": [],
-   "eligible_note": "Erasmus+ Youth Programme countries, Partner Countries Neighbouring the EU",
-   "az_eligible": "yes",
-   "age_min": 18,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "covered",
-    "travel": "reimbursed",
-    "travel_limit_eur": null,
-    "fee_eur": 0,
-    "fee_note": "İştirak haqqı yoxdur."
-   },
-   "spots_per_country": null,
-   "spots_total": 30,
-   "organizer": "Asociatia Nationala de Dezvoltare Continua a Tineretului din Romania",
-   "topics": [],
-   "description": "This course creates a space to explore the opportunities offered by digital content, artificial intelligence and automation in youth work and non-formal education.",
-   "detail": true,
-   "first_seen": "2026-11-15",
-   "last_seen": "2026-11-20",
-   "notified_at": "2026-11-15",
-   "reminded": true,
-   "ai": {
-    "summary_az": "Bu təlim kursu gənclərlə işdə və qeyri-formal təhsildə rəqəmsal məzmun, süni intellekt və avtomatlaşdırmanın rolunu araşdırır. İştirakçılar süni intellekt vasitəsilə tədris proqramlarının planlaşdırılması, idarə olunması və qiymətləndirilməsini praktiki olaraq öyrənəcəklər. Təlim Bolqarıstanın Bansko şəhərində keçiriləcəkdir.",
-    "documents": [],
-    "requirements": [
-     "18 yaşdan yuxarı olmaq",
-     "Erasmus+ və ya ESC proqramında fəal olan QHT-ni təmsil edən gənclərlə işləyən, layihə meneceri və ya koç olmaq",
-     "Səlis ingilis dili biliyi",
-     "Təlim kursunun nəticələrini sosial mediada və öz işində yaymaq imkanı",
-     "Təcrübə paylaşmağa və motivasiyalı olmağa hazır olmaq"
-    ],
-    "selection_process": null,
-    "competition": "medium",
-    "competition_reason": "Təlim proqram və qonşu tərəfdaş ölkələrdən olan gənclərlə işləyən mütəxəssislər üçün açıqdır.",
-    "required_english": null,
-    "experience_required": true,
-    "model": "gemini-3.6-flash",
-    "analyzed_at": "2026-11-15"
-   },
-   "flashcards": [
-    {
-     "q": "Kimlər müraciət edə bilər?",
-     "a": "Erasmus+ və ya ESC proqramlarında fəal olan QHT-ləri təmsil edən 18 yaşdan yuxarı gənclərlə işləyənlər, layihə menecerləri və koçlar."
-    },
-    {
-     "q": "Müraciət üçün son tarix nə vaxtdır?",
-     "a": "Son müraciət tarixi 15 noyabr 2026-cı ildir."
-    },
-    {
-     "q": "Xərclər necə qarşılanır?",
-     "a": "Yaşayış və qida təşkilatçılar tərəfindən tam təmin edilir, yol xərcləri isə Erasmus+ qaydalarına uyğun limit daxilində kompensasiya olunur."
-    },
-    {
-     "q": "İştirak haqqı varmı?",
-     "a": "Xeyr, iştirak haqqı tamamilə pulsuzdur."
-    },
-    {
-     "q": "Motivasiya mətni və müraciətdə nəyə diqqət yetirilməlidir?",
-     "a": "Gənclərlə iş sahəsində təcrübənizi, rəqəmsal alətlər və AI-a marağınızı, həmçinin təlimdən sonra əldə olunan bilikləri necə yayacağınızı vurğulayın."
-    }
-   ],
-   "analysis": "ai",
-   "score": {
-    "total": 0,
-    "chance": 0,
-    "fit": 0,
-    "label": "Uyğun deyil",
-    "eligible": false,
-    "factors": [
-     {
-      "k": "gate",
-      "d": 0,
-      "t": "Müraciət müddəti bitib"
      }
     ]
    },
