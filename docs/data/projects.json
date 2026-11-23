@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-23T07:47:50Z"
+  "updated_at": "2026-11-23T13:33:16Z"
  },
  "projects": [
   {
@@ -1138,6 +1138,124 @@
       "k": "fit",
       "d": 8,
       "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "6a9c41dda7ba",
+   "source": "euneighbours",
+   "url": "https://euneighbourseast.eu/opportunities/yeas-organise-activity-for-youth-organisations-from-eu-and-eastern-partnership-applying-for-2027-erasmus-call/",
+   "title": "YEAs organise activity for youth organisations from EU and Eastern Partnership applying for 2027 Erasmus+ call",
+   "type": "other",
+   "type_label": null,
+   "host_country": null,
+   "city": null,
+   "start_date": "2026-12-03",
+   "end_date": "2026-12-03",
+   "duration_days": 1,
+   "deadline": "2026-12-03",
+   "eligible_countries": [
+    "Armenia",
+    "Azerbaijan",
+    "Georgia",
+    "Moldova",
+    "Ukraine",
+    "European Union"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "Tədbir tamamilə ödənişsizdir."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "The Young European Ambassadors (YEAs) invite youth organisations from EU Member States and Eastern Partnership countries to an online Partnership Building Activity on Thursday, 3 December 2026, betw…",
+   "detail": false,
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Bu onlayn tədbir Erasmus+ 2027 proqramı çərçivəsində gənclər layihələri üçün tərəfdaşlıq qurmaq və məlumat əldə etmək məqsədi daşıyır. Azərbaycanlı gənclər təşkilatları üçün Avropa İttifaqı ölkələrindən olan tərəfdaşlarla əlaqə yaratmaq və layihə imkanlarını öyrənmək üçün əla fürsətdir.",
+    "documents": [
+     "Qeydiyyat forması"
+    ],
+    "requirements": [
+     "Gənclər təşkilatının nümayəndəsi olmaq",
+     "Gənclərlə işləyən QHT və ya vətəndaş cəmiyyəti təşkilatını təmsil etmək"
+    ],
+    "selection_process": "Qeydiyyat linki vasitəsilə müraciət etmək kifayətdir.",
+    "competition": "low",
+    "competition_reason": "Bu, təşkilatlar üçün nəzərdə tutulmuş məlumatlandırıcı onlayn görüşdür və ciddi seçim prosesi yoxdur.",
+    "required_english": null,
+    "experience_required": true,
+    "model": "gemini-3.1-flash-lite",
+    "analyzed_at": "2026-11-23"
+   },
+   "flashcards": [
+    {
+     "q": "Tədbirə necə qeydiyyatdan keçmək olar?",
+     "a": "Tədbirin elanında göstərilən qeydiyyat linki vasitəsilə."
+    },
+    {
+     "q": "Tədbirin keçirilmə tarixi nə vaxtdır?",
+     "a": "3 dekabr 2026-cı il."
+    },
+    {
+     "q": "Tədbirdə kimlər iştirak edə bilər?",
+     "a": "Gənclərlə işləyən QHT nümayəndələri, layihə menecerləri və gənclər işçiləri."
+    },
+    {
+     "q": "Tədbirdə iştirak üçün ödəniş tələb olunurmu?",
+     "a": "Xeyr, tədbir tamamilə ödənişsizdir."
+    },
+    {
+     "q": "Tədbir hansı dildə keçiriləcək?",
+     "a": "İngilis dilində."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 47,
+    "chance": 40,
+    "fit": 60,
+    "label": "Aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: Digər proqram (22)"
+     },
+     {
+      "k": "chance",
+      "d": 10,
+      "t": "AI qiymətləndirməsi — rəqabət aşağıdır: Bu, təşkilatlar üçün nəzərdə tutulmuş məlumatlandırıcı onlayn görüşdür və ciddi seçim prosesi yoxdur."
+     },
+     {
+      "k": "chance",
+      "d": 8,
+      "t": "Tələb olunan gənclərlə iş təcrübən var"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "Müddət qısadır: 1 gün"
      },
      {
       "k": "fit",
@@ -12072,6 +12190,70 @@
    "description": "A placement for one volunteer at a sport- and health-oriented kindergarten in Brandenburg an der Havel. The volunteer supports educators in daily activities built around movement, sport and a healthy lifestyle.",
    "detail": true,
    "first_seen": "2026-11-18",
+   "last_seen": "2026-11-23",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "cbbba16a4d4b",
+   "source": "salto",
+   "url": "https://www.salto-youth.net/tools/european-training-calendar/training/off-script-everyone-s-a-facilitator-until-the-group-does-something-unexpected.15491/",
+   "title": "Off script! Everyone's a facilitator until... the group does something unexpected",
+   "type": "training_course",
+   "type_label": "Training Course",
+   "host_country": "Netherlands",
+   "city": "Het Zeehuis",
+   "start_date": "2027-01-31",
+   "end_date": "2027-02-05",
+   "duration_days": 6,
+   "deadline": "2026-11-26",
+   "eligible_countries": [
+    "Belgium - DE",
+    "Belgium - FL",
+    "Belgium - FR",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Netherlands",
+    "Romania"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "Six-day training in Bergen aan Zee, the Netherlands, for young people who have experienced non-formal education as participants and are ready to take their first steps as group leaders, facilitators or trainers.",
+   "detail": false,
+   "first_seen": "2026-11-23",
    "last_seen": "2026-11-23",
    "notified_at": null,
    "reminded": false,
