@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-23T01:24:44Z"
+  "updated_at": "2026-11-23T07:47:50Z"
  },
  "projects": [
   {
@@ -3308,6 +3308,118 @@
    "status": "open"
   },
   {
+   "id": "c2694d8207a2",
+   "source": "opportunitiesforyouth",
+   "url": "https://opportunitiesforyouth.org/2026/11/23/johan-huizinga-fellowship-2027-2028-in-the-netherlands-fully-funded-research-fellowship-offering-up-to-e45000-stipend/",
+   "title": "Johan Huizinga Fellowship 2027–2028 in the Netherlands | Fully Funded Research Fellowship Offering Up to €45,000 Stipend",
+   "type": "other",
+   "type_label": null,
+   "host_country": "Netherlands",
+   "city": "Amsterdam",
+   "start_date": "2027-09-01",
+   "end_date": null,
+   "duration_days": null,
+   "deadline": null,
+   "eligible_countries": [],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "The Johan Huizinga Fellowship 2027–2028 at the Rijksmuseum in Amsterdam, Netherlands, is an excellent opportunity for early-career scholars, MA graduates, PhD students, and postdoctoral researchers interested in conducting advanced historical research into objects held in the Rijksmuseum…",
+   "detail": false,
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Johan Huizinga Tədqiqat Proqramı Niderlandın Amsterdam şəhərindəki Rijksmuseum tərəfindən təşkil edilən 12 aylıq tədqiqat imkanıdır. Proqram muzey kolleksiyasındakı eksponatların tarixi, mədəni və sosial əhəmiyyətini araşdıran magistr məzunları, PhD və postdoc tədqiqatçıları üçün nəzərdə tutulub. Seçilmiş tədqiqatçılara 39,000 ilə 45,000 avro arasında stipendiya təqdim olunur.",
+    "documents": [
+     "Tədqiqat təklifi (Research proposal)"
+    ],
+    "requirements": [
+     "Magistr məzunu, PhD tələbəsi və ya doktoranturadan sonrakı (postdoc) tədqiqatçı olmaq",
+     "Rijksmuseum kolleksiyasındakı obyektləri əsas tarixi mənbə kimi istifadə edən tədqiqat planı təqdim etmək",
+     "Tədqiqatın sırf incəsənət tarixi ilə məhdudlaşmayıb, obyektlərin sosial, mədəni və tarixi kontekstini əhatə etməsi"
+    ],
+    "selection_process": null,
+    "competition": "high",
+    "competition_reason": "Bütün dünyadan olan tədqiqatçılara açıq olduğu və nüfuzlu muzey tərəfindən yüksək təqaüd verildiyi üçün rəqabət yüksəkdir.",
+    "required_english": null,
+    "experience_required": true,
+    "model": "gemini-3.5-flash",
+    "analyzed_at": "2026-11-23"
+   },
+   "flashcards": [
+    {
+     "q": "Johan Huizinga Fellowship proqramına kimlər müraciət edə bilər?",
+     "a": "Bütün millətlərdən olan magistr məzunları, PhD tələbələri və postdoc tədqiqatçılar müraciət edə bilər."
+    },
+    {
+     "q": "Proqramın maliyyə dəstəyi nə qədərdir?",
+     "a": "MA məzunları və PhD tədqiqatçıları üçün 39,000 avro, postdoc tədqiqatçıları üçün isə 45,000 avro təqaüd verilir."
+    },
+    {
+     "q": "Müraciət üçün hansı sənəd vacibdir?",
+     "a": "Rijksmuseum kolleksiyasındakı obyektlərə əsaslanan güclü akademik tədqiqat təklifi (research proposal) hazırlanmalıdır."
+    },
+    {
+     "q": "Tədqiqat təklifində nəyə xüsusi diqqət yetirilməlidir?",
+     "a": "Tədqiqat yalnız sənət üslubuna deyil, obyektlərin tarixi, mədəni, sosial və simvolik mənalarına fokuslanmalıdır."
+    },
+    {
+     "q": "Tədqiqat proqramı nə vaxt başlayır?",
+     "a": "12 aylıq tədqiqat proqramı 1 sentyabr 2027-ci il tarixində başlayır."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 29,
+    "chance": 20,
+    "fit": 45,
+    "label": "Çox aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: Digər proqram (22)"
+     },
+     {
+      "k": "chance",
+      "d": -15,
+      "t": "AI qiymətləndirməsi — rəqabət yüksəkdir: Bütün dünyadan olan tədqiqatçılara açıq olduğu və nüfuzlu muzey tərəfindən yüksək təqaüd verildiyi üçün rəqabət yüksəkdir."
+     },
+     {
+      "k": "chance",
+      "d": 8,
+      "t": "Tələb olunan gənclərlə iş təcrübən var"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: career"
+     },
+     {
+      "k": "fit",
+      "d": -5,
+      "t": "Müddət məlum deyil"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "b114e5acdc6c",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/nordisk-teaterlaboratorium-holstebro",
@@ -3702,6 +3814,106 @@
     "model": "gemini-3.6-flash",
     "analyzed_at": "2026-11-14"
    }
+  },
+  {
+   "id": "c85e171a75a7",
+   "source": "opportunitiesforyouth",
+   "url": "https://opportunitiesforyouth.org/2026/11/23/acs-public-policy-fellowships-2027-fully-funded-science-policy-fellowship-opportunities-in-the-united-states-apply-by-january-5-2027/",
+   "title": "ACS Public Policy Fellowships 2027: Fully Funded Science Policy Fellowship Opportunities in the United States – Apply by January 5, 2027",
+   "type": "other",
+   "type_label": null,
+   "host_country": "United States",
+   "city": null,
+   "start_date": null,
+   "end_date": null,
+   "duration_days": null,
+   "deadline": "2027-01-05",
+   "eligible_countries": [],
+   "eligible_note": null,
+   "az_eligible": "unknown",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "The American Chemical Society (ACS) is inviting applications for its 2027 Public Policy Fellowships and WISE Summer Internship Program, offering scientists, engineers, graduate degree holders, and undergraduate students opportunities to contribute their scientific knowledge to public policy and…",
+   "detail": false,
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Amerikan Kimya Cəmiyyəti (ACS) 2027-ci il üzrə İctimai Siyasət Təqaüd Proqramları və WISE Yay Təcrübə Proqramı üçün müraciətləri qəbul edir. Proqram alim, mühəndis və tələbələrə ABŞ-ın qanunvericilik, xarici siyasət və dövlət qurumlarında elmi biliklərini tətbiq etmək imkanı verir. İştirakçılar Konqres, Dövlət Departamenti və ACS daxilində müxtəlif istiqamətlər üzrə təcrübə qazana bilərlər.",
+    "documents": [],
+    "requirements": [
+     "Təqaüd proqramları üçün magistr və ya doktorantura dərəcəsinə malik olmaq",
+     "WISE təcrübə proqramı üçün 3-cü/4-cü kurs bakalavr tələbəsi və ya yeni məzun olmaq"
+    ],
+    "selection_process": null,
+    "competition": "high",
+    "competition_reason": "ABŞ Konqresi və Dövlət Departamenti kimi nüfuzlu qurumlarda elmi siyasət üzrə məhdud sayda yer təklif edən rəqabətli proqramdır.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-23"
+   },
+   "flashcards": [
+    {
+     "q": "Proqrama müraciət üçün son tarix nə vaxtdır?",
+     "a": "Son müraciət tarixi 5 yanvar 2027-ci ildir."
+    },
+    {
+     "q": "Proqrama kimlər müraciət edə bilər?",
+     "a": "Magistr/doktorantura dərəcəsi olan şəxslər (təqaüdlər üçün) və 3-cü/4-cü kurs bakalavr tələbələri və ya yeni məzunlar (WISE təcrübə proqramı üçün)."
+    },
+    {
+     "q": "Proqram çərçivəsində hansı istiqamətlər təklif olunur?",
+     "a": "ACS Konqres Təqaüdü, ACS Elm Siyasəti Təqaüdü, ACS Elm və Diplomatiya Təqaüdü və WISE Yay Təcrübə Proqramı."
+    },
+    {
+     "q": "Xərclərin qarşılanması haqqında məlumat var?",
+     "a": "Xeyr, mətndə yaşayış, qida və ya yol xərclərinin qarşılanması ilə bağlı məlumat qeyd olunmayıb."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 18,
+    "chance": 3,
+    "fit": 45,
+    "label": "Çox aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: Digər proqram (22)"
+     },
+     {
+      "k": "chance",
+      "d": -15,
+      "t": "Azerbaijan üçün açıq olub-olmadığı dəqiq deyil"
+     },
+     {
+      "k": "chance",
+      "d": -15,
+      "t": "AI qiymətləndirməsi — rəqabət yüksəkdir: ABŞ Konqresi və Dövlət Departamenti kimi nüfuzlu qurumlarda elmi siyasət üzrə məhdud sayda yer təklif edən rəqabətli proqramdır."
+     },
+     {
+      "k": "fit",
+      "d": -5,
+      "t": "Müddət məlum deyil"
+     }
+    ]
+   },
+   "status": "open"
   },
   {
    "id": "170e64cdab60",
