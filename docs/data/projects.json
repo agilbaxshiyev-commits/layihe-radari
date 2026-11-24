@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-24T13:30:27Z"
+  "updated_at": "2026-11-24T19:11:10Z"
  },
  "projects": [
   {
@@ -33614,6 +33614,95 @@
    "last_seen": "2026-11-24",
    "notified_at": null,
    "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "5e879168b475",
+   "source": "opportunitiesforyouth",
+   "url": "https://opportunitiesforyouth.org/2026/11/23/african-futures-research-leadership-program-2027-cohort-7-fully-funded-visiting-scholar-opportunity-at-michigan-state-university-for-african-researchers/",
+   "title": "African Futures Research Leadership Program 2027 (Cohort 7): Fully Funded Visiting Scholar Opportunity at Michigan State University for African Researchers",
+   "type": "other",
+   "type_label": null,
+   "host_country": "United States",
+   "city": null,
+   "start_date": null,
+   "end_date": null,
+   "duration_days": null,
+   "deadline": null,
+   "eligible_countries": [],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "covered",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [],
+   "description": "Applications are now invited for the seventh cohort of the African Futures Research Leadership Program, a competitive visiting scholar and professional development initiative organised by the Alliance for African Partnership (AAP) at Michigan State University (MSU). The programme is designed to…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "African Futures Research Leadership Program 2027 Afrika alimləri üçün Michigan Dövlət Universitetində (ABŞ) təşkil olunan 1 illik tədqiqat və liderlik proqramıdır. Proqram virtual mərhələ ilə başlayır, daha sonra 2027-ci ilin avqust-dekabr aylarında ABŞ-da əyani tədqiqat proqramı ilə davam edir. İştirakçılara tədqiqat qrantı, aylıq təqaüd, viza dəstəyi və gediş-gəliş nəqliyyat xərcləri təmin edilir.",
+    "documents": [
+     "Əsas müəssisədən məzuniyyət və ya akademik icazə haqqında rəsmi təsdiq sənədi"
+    ],
+    "requirements": [
+     "Afrika akademiki / tədqiqatçısı olmaq",
+     "PhD dərəcəsini son 10 il ərzində əldə etmiş olmaq",
+     "Uyğun AAP Afrika üzv universitetində işləmək",
+     "Əsas müəssisədən ABŞ-da olacağı dövr üçün rəsmi məzuniyyət icazəsi almaq"
+    ],
+    "selection_process": null,
+    "competition": "high",
+    "competition_reason": "PhD dərəcəli alimlər üçün nəzərdə tutulmuş tam maliyyələşdirilən və məhdud yerləri olan prestijli liderlik proqramıdır.",
+    "required_english": null,
+    "experience_required": true,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-24"
+   },
+   "flashcards": [
+    {
+     "q": "Proqrama kimlər müraciət edə bilər?",
+     "a": "Son 10 ildə PhD dərəcəsi almış və uyğun AAP üzvü olan Afrika universitetlərində çalışan akademik və tədqiqatçılar."
+    },
+    {
+     "q": "Azərbaycan vətəndaşları bu proqrama müraciət edə bilərmi?",
+     "a": "Xeyr, proqram yalnız Afrikadakı müvafiq tərəfdaş universitetlərin akademiki olan tədqiqatçılar üçün açıqdır."
+    },
+    {
+     "q": "Proqram hansı xərcləri qarşılayır?",
+     "a": "Tədqiqat qrantı, ABŞ-da qalmaq üçün aylıq təqaüd, viza dəstəyi və gediş-gəliş biletləri təmin olunur."
+    },
+    {
+     "q": "Proqramın müddəti və mərhələləri necədir?",
+     "a": "Fevral 2027 - Fevral 2028 tarixlərində keçirilir: 2027-ci ilin avqust-dekabr aylarında ABŞ-da əyani, digər aylarda isə virtual formatda davam edir."
+    }
+   ],
+   "analysis": "ai",
    "score": {
     "total": 0,
     "chance": 0,
