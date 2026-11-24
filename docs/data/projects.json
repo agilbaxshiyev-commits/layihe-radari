@@ -3,9 +3,145 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-24T07:29:45Z"
+  "updated_at": "2026-11-24T13:30:27Z"
  },
  "projects": [
+  {
+   "id": "61223f8050ca",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/safe-spaces-brave-voices-siofok",
+   "title": "Safe Spaces Brave Voices",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Hungary",
+   "city": "Siófok",
+   "start_date": "2027-02-03",
+   "end_date": "2027-02-11",
+   "duration_days": 9,
+   "deadline": null,
+   "eligible_countries": [
+    "Hungary",
+    "Italy",
+    "France",
+    "Azerbaijan",
+    "Georgia"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 25,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": 7,
+   "spots_total": 40,
+   "organizer": "Minds in Motion Association",
+   "topics": [
+    "Digital & Media",
+    "Mental Health & Wellbeing",
+    "Communication & Storytelling"
+   ],
+   "description": "A youth exchange in Siófok on Lake Balaton about digital literacy, online safety and emotional resilience. Through role-play, scenario-based learning and digital storytelling, participants learn to evaluate online content, protect personal data, manage their digital footprint and respond to…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": "2026-11-24",
+   "reminded": false,
+   "ai": {
+    "summary_az": "Bu gənclər mübadiləsi Macarıstanın Şiofok şəhərində rəqəmsal savadlılıq, onlayn təhlükəsizlik və emosional dözümlülük mövzularında təşkil olunur. İştirakçılar rollu oyunlar və rəqəmsal hekayəçilik vasitəsilə kibertəhlükəsizlik və şəxsi məlumatların qorunması haqqında biliklər qazanacaqlar. Yaşayış və yemək xərcləri qarşılanır, səyahət xərcləri limit daxilində geri ödənilir.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18–25 yaş aralığında olmaq",
+     "Azərbaycan, Macarıstan, İtaliya, Fransa və ya Gürcüstanda yaşamaq"
+    ],
+    "selection_process": "İştirakçılar doldurulmuş onlayn müraciət forması əsasında ev sahibi təşkilat tərəfindən seçilir.",
+    "competition": "low",
+    "competition_reason": "Hər ölkə üçün 7 yer ayrılıb və xüsusi peşəkar təcrübə tələb olunmur.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-24"
+   },
+   "flashcards": [
+    {
+     "q": "Müraciət üçün hansı sənədlər tələb olunur?",
+     "a": "İnfopaki oxuduqdan sonra onlayn müraciət formasını (Google Form) doldurmaq lazımdır."
+    },
+    {
+     "q": "Son müraciət tarixi nə vaxtdır?",
+     "a": "Dəqiq son müraciət tarixi yoxdur, imkan daxilində tez müraciət etmək tövsiyə olunur."
+    },
+    {
+     "q": "Kimlər müraciət edə bilər?",
+     "a": "Azərbaycan, Macarıstan, İtaliya, Fransa və Gürcüstanda yaşayan 18–25 yaş arası gənclər."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və yemək xərcləri tam təmin olunur, səyahət xərcləri isə limit daxilində kompensasiya edilir."
+    },
+    {
+     "q": "Seçim prosesi necə aparılır?",
+     "a": "Müraciət edənlər arasından seçimi ev sahibi təşkilat (Minds in Motion Association) aparır."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 90,
+    "chance": 88,
+    "fit": 93,
+    "label": "Yüksək",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: Gənclər mübadiləsi (60)"
+     },
+     {
+      "k": "chance",
+      "d": 8,
+      "t": "Hər ölkədən 7 yer var"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Cəmi 5 ölkə iştirak edir, yerlər ölkələr arasında bölünür"
+     },
+     {
+      "k": "chance",
+      "d": 10,
+      "t": "AI qiymətləndirməsi — rəqabət aşağıdır: Hər ölkə üçün 7 yer ayrılıb və xüsusi peşəkar təcrübə tələb olunmur."
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: digital, media"
+     },
+     {
+      "k": "fit",
+      "d": 25,
+      "t": "Müddət 9 gün — istədiyin aralıqdadır"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     }
+    ]
+   },
+   "status": "open"
+  },
   {
    "id": "76e7f952a74d",
    "source": "finderasmus",
@@ -172,6 +308,169 @@
     "model": "gemini-3.1-flash-lite",
     "analyzed_at": "2026-11-18"
    }
+  },
+  {
+   "id": "7790528f7023",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/youth-and-sports-volunteers-at-taekwondo-training-camps-canakkale",
+   "title": "Youth and Sports Volunteers at Taekwondo Training Camps",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Türkiye",
+   "city": "Çanakkale",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-20",
+   "duration_days": 16,
+   "deadline": "2026-11-27",
+   "eligible_countries": [
+    "Albania",
+    "Austria",
+    "Azerbaijan",
+    "Belgium",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "İştirak ödənişsizdir."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Türkiye Taekwondo Federation",
+   "topics": [
+    "Sport & Outdoor"
+   ],
+   "description": "A European Solidarity Corps volunteering team with the Türkiye Taekwondo Federation at national-team training camps in Çanakkale and post-camp activities in Ankara. Volunteers help with training areas, equipment, logistics, athlete support and cultural exchange activities. Accommodation is…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": "2026-11-24",
+   "reminded": false,
+   "ai": {
+    "summary_az": "Türkiyənin Çanakkale şəhərində keçiriləcək bu ESC könüllülük layihəsi Türkiyə Taekvondo Federasiyasının təlim düşərgələrinə dəstək göstərmək məqsədi daşıyır. Könüllülər məşq sahələrinin hazırlanması, logistika, idmançılara dəstək və mədəni mübadilə fəaliyyətlərində iştirak edəcəklər. Yaşayış və qidalanma xərcləri qarşılanır, yol xərcləri isə kompensasiya olunur.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18-30 yaş aralığında olmaq",
+     "Uyğun 34 ölkədən birində yaşamaq"
+    ],
+    "selection_process": "Namizədlər təqdim edilən onlayn forma əsasında ev sahibi təşkilat (Türkiyə Taekvondo Federasiyası) tərəfindən seçilir.",
+    "competition": "medium",
+    "competition_reason": "Layihə 34 ölkədən müraciətçilər üçün açıqdır və seçimlər ev sahibi təşkilat tərəfindən aparılır.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-24"
+   },
+   "flashcards": [
+    {
+     "q": "Layihəyə kimlər müraciət edə bilər?",
+     "a": "18-30 yaş aralığında olan və uyğun 34 ölkədən birində (o cümlədən Azərbaycanda) yaşayan gənclər."
+    },
+    {
+     "q": "Müraciət üçün hansı sənəd tələb olunur?",
+     "a": "Google Form vasitəsilə onlayn müraciət formasını doldurmaq lazımdır."
+    },
+    {
+     "q": "Son müraciət tarixi nə vaxtdır?",
+     "a": "Son müraciət tarixi 27 noyabr 2026-cı ildir."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Nəqliyyat xərcləri geri ödənilir, yaşayış və qidalanma təşkilatçılar tərəfindən qarşılanır."
+    },
+    {
+     "q": "Seçim prosesi necə aparılır?",
+     "a": "Seçimlər doldurulmuş onlayn müraciət formaları əsasında ev sahibi təşkilat tərəfindən həyata keçirilir."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 64,
+    "chance": 55,
+    "fit": 81,
+    "label": "Orta",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: ESC könüllülük (50)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "34 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 8,
+      "t": "Türkiye üçün viza tələb olunmur (profilinə görə)"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: solidarity"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Müddət 16 gün — istədiyindən bir az uzundur"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open"
   },
   {
    "id": "c29bf958ff5f",
@@ -1129,6 +1428,716 @@
       "k": "fit",
       "d": 5,
       "t": "Müddət qısadır: 1 gün"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "9883c1026d64",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/circus-volunteering-with-children-and-artists-in-karlsruhe",
+   "title": "Circus Volunteering with Children and Artists in Karlsruhe",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Germany",
+   "city": "Karlsruhe",
+   "start_date": "2027-03-01",
+   "end_date": "2028-02-29",
+   "duration_days": 366,
+   "deadline": "2026-12-05",
+   "eligible_countries": [
+    "Albania",
+    "Algeria",
+    "Armenia",
+    "Austria",
+    "Azerbaijan",
+    "Portugal",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Egypt",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Kosovo",
+    "Latvia",
+    "Lebanon",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Morocco",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Palestine",
+    "Poland",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Syria",
+    "Tunisia",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "İştirak tamamilə ödənişsizdir, yaşayış və qida qarşılanır, yol xərcləri kompensasiya olunur."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Stadtjugendausschuss e.V. Karlsruhe",
+   "topics": [
+    "Arts & Creativity",
+    "Sport & Outdoor",
+    "Inclusion & Diversity"
+   ],
+   "description": "One year of European Solidarity Corps volunteering with the Aktions- und Zirkusbüro, which runs circus pedagogy, parkour and play spaces in a Karlsruhe city park. Volunteers help prepare educational activities, festivals and events for children and young people with and without special needs. They…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Bu layihə Almaniyanın Karlsrue şəhərində sirk pedaqogikası və açıq havada uşaqlar üçün tədbirlərin təşkilini nəzərdə tutan 1 illik ESC könüllülük proqramıdır. Könüllülər uşaq və gənclər üçün təhsil və əyləncə fəaliyyətlərinin hazırlanmasında iştirak edəcəklər. Yaşayış, qida və səyahət xərcləri proqram çərçivəsində ödənilir.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18-30 yaş aralığında olmaq",
+     "Uyğun 52 ölkədən birində yaşamaq"
+    ],
+    "selection_process": "Namizədlər onlayn forma vasitəsilə müraciət edir və seçimi ev sahibi təşkilat aparır.",
+    "competition": "medium",
+    "competition_reason": "Layihə 52 ölkədən olan müraciətçilər üçün açıqdır.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-24"
+   },
+   "flashcards": [
+    {
+     "q": "Layihəyə kimlər müraciət edə bilər?",
+     "a": "Azərbaycan daxil olmaqla 52 ölkədən birində yaşayan 18-30 yaş arası gənclər."
+    },
+    {
+     "q": "Son müraciət tarixi nə vaxtdır?",
+     "a": "5 dekabr 2026-cı il."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və qida təmin olunur, yol xərcləri isə geri ödənilir."
+    },
+    {
+     "q": "Müraciət üçün nə tələb olunur?",
+     "a": "Onlayn müraciət formasını (Google Form) doldurmaq kifayətdir."
+    },
+    {
+     "q": "Seçim prosesi necə həyata keçirilir?",
+     "a": "Müraciətlər arasında seçimi birbaşa ev sahibi təşkilat (Stadtjugendausschuss e.V. Karlsruhe) edir."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 47,
+    "chance": 47,
+    "fit": 48,
+    "label": "Aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: ESC könüllülük (50)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "52 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: inclusion, solidarity"
+     },
+     {
+      "k": "fit",
+      "d": -25,
+      "t": "Müddət uzundur: 366 gün"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "53a656b27ce8",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/german-french-kita-am-haydnplatz-in-karlsruhe",
+   "title": "German-French Kita am Haydnplatz in Karlsruhe",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Germany",
+   "city": "Karlsruhe",
+   "start_date": "2027-03-01",
+   "end_date": "2028-02-29",
+   "duration_days": 366,
+   "deadline": "2026-12-05",
+   "eligible_countries": [
+    "Albania",
+    "Algeria",
+    "Armenia",
+    "Austria",
+    "Azerbaijan",
+    "Portugal",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Egypt",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Kosovo",
+    "Latvia",
+    "Lebanon",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Morocco",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Palestine",
+    "Poland",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Syria",
+    "Tunisia",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "AWO Karlsruhe",
+   "topics": [
+    "Inclusion & Diversity",
+    "Youth Work & Learning",
+    "Culture & Heritage"
+   ],
+   "description": "One year of European Solidarity Corps volunteering at a bilingual, inclusive day care centre for 90 children aged 1–6 in Karlsruhe. Volunteers support educators with role play, sport and arts, join excursions and can run their own small project with the children. They live in a shared house with…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Karlsrue şəhərində ikidilli uşaq bağçasında 1 illik Avropa Həmrəylik Korpusu (ESC) könüllülük layihəsidir. Könüllülər 1-6 yaşlı uşaqlar üçün keçirilən idman, incəsənət və rollu oyun fəaliyyətlərində tərbiyəçilərə kömək edəcək, həmçinin öz kiçik layihələrini həyata keçirə biləcəklər. Yaşayış və qidalanma təmin olunur, səyahət xərcləri isə qarşılanır.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18–30 yaş aralığında olmaq",
+     "Uyğun 52 ölkədən birində (məsələn, Azərbaycanda) yaşamaq"
+    ],
+    "selection_process": "Müraciətlər onlayn forma vasitəsilə toplanır və ev sahibi təşkilat (AWO Karlsruhe) iştirakçıları seçir.",
+    "competition": "medium",
+    "competition_reason": "Layihə 52 ölkədən olan müraciətçilər üçün açıqdır və seçimi ev sahibi təşkilat aparır.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-24"
+   },
+   "flashcards": [
+    {
+     "q": "Layihəyə kimlər müraciət edə bilər?",
+     "a": "Siyahıdakı 52 ölkədən (o cümlədən Azərbaycandan) olan 18–30 yaş arası gənclər."
+    },
+    {
+     "q": "Müraciət üçün son tarix nə vaxtdır?",
+     "a": "5 dekabr 2026-cı il."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və qida xərcləri tam təmin olunur, yol xərcləri isə geri ödənilir."
+    },
+    {
+     "q": "Harada yaşayacaqsınız?",
+     "a": "Digər ESC könüllüləri ilə birgə paylaşılan evdə."
+    },
+    {
+     "q": "Müraciətdə nəyə üstünlük vermək lazımdır?",
+     "a": "Uşaqlarla işləmək həvəsinizi, ikidilli bağçada fəaliyyətlərə dəstək olmaq və uşaqlarla öz layihənizi aparmaq istəyinizi vurğulayın."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 47,
+    "chance": 47,
+    "fit": 48,
+    "label": "Aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: ESC könüllülük (50)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "52 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: inclusion, solidarity, culture"
+     },
+     {
+      "k": "fit",
+      "d": -25,
+      "t": "Müddət uzundur: 366 gün"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "dcc19f4bd76b",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/child-and-youth-centre-specht-in-ettlingen",
+   "title": "Child and Youth Centre Specht in Ettlingen",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Germany",
+   "city": "Ettlingen",
+   "start_date": "2027-03-01",
+   "end_date": "2028-02-29",
+   "duration_days": 366,
+   "deadline": "2026-12-05",
+   "eligible_countries": [
+    "Albania",
+    "Algeria",
+    "Armenia",
+    "Austria",
+    "Azerbaijan",
+    "Portugal",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Egypt",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Kosovo",
+    "Latvia",
+    "Lebanon",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Morocco",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Palestine",
+    "Poland",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Syria",
+    "Tunisia",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": "İştirak ödənişsizdir; yaşayış və qida xərcləri tam qarşılanır, yol xərcləri isə ödənilir."
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "AWO Soziale Dienste Bruchsal",
+   "topics": [
+    "Youth Work & Learning",
+    "Solidarity & Community"
+   ],
+   "description": "One year of European Solidarity Corps volunteering at the Specht open youth centre in Ettlingen, near Karlsruhe. Volunteers welcome and spend time with children and young people, help with games, learning and leisure activities and can bring their own ideas. Accommodation is a private room in a…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Almaniyanın Etlingen şəhərində yerləşən Specht gənclər mərkəzində 1 illik ESC könüllülük layihəsidir. Könüllülər uşaqlar və gənclər üçün asudə vaxt və öyrənmə fəaliyyətlərinə dəstək olacaqlar. Yaşayış və qida xərcləri ödənilir, səyahət xərcləri kompensasiya olunur.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18-30 yaş aralığında olmaq",
+     "Siyahıdakı 52 uyğun ölkədən birində yaşamaq"
+    ],
+    "selection_process": "Müraciətlər onlayn forma vasitəsilə qəbul edilir və seçimi ev sahibi təşkilat (AWO Soziale Dienste Bruchsal) həyata keçirir.",
+    "competition": "medium",
+    "competition_reason": "İştirakçı seçimi 52 ölkə arasında ev sahibi təşkilat tərəfindən aparılır.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-24"
+   },
+   "flashcards": [
+    {
+     "q": "Kimlər müraciət edə bilər?",
+     "a": "Azərbaycan da daxil olmaqla, qeyd olunan 52 ölkədə yaşayan 18-30 yaş arası gənclər."
+    },
+    {
+     "q": "Son müraciət tarixi nə vaxtdır?",
+     "a": "5 dekabr 2026-cı il."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və qida pulsuzdur, yol xərcləri isə geri ödənilir."
+    },
+    {
+     "q": "Müraciət üçün nə tələb olunur?",
+     "a": "Qeyd olunan onlayn müraciət formasını doldurmaq lazımdır."
+    },
+    {
+     "q": "Seçim prosesi necə işləyir?",
+     "a": "İştirakçıları doldurulmuş onlayn formalar əsasında ev sahibi təşkilat seçir."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 47,
+    "chance": 47,
+    "fit": 48,
+    "label": "Aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: ESC könüllülük (50)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "52 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: solidarity, community"
+     },
+     {
+      "k": "fit",
+      "d": -25,
+      "t": "Müddət uzundur: 366 gün"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
+     },
+     {
+      "k": "fit",
+      "d": 5,
+      "t": "İştirak haqqı yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "ce4de96b395f",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/kita-campulino-day-care-centre-in-philippsburg",
+   "title": "Kita Campulino Day Care Centre in Philippsburg",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Germany",
+   "city": "Philippsburg",
+   "start_date": "2027-03-01",
+   "end_date": "2028-02-29",
+   "duration_days": 366,
+   "deadline": "2026-12-05",
+   "eligible_countries": [
+    "Albania",
+    "Algeria",
+    "Armenia",
+    "Austria",
+    "Azerbaijan",
+    "Portugal",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Egypt",
+    "Estonia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Kosovo",
+    "Latvia",
+    "Lebanon",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Morocco",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Palestine",
+    "Poland",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Syria",
+    "Tunisia",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "yes",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": 0,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "AWO Soziale Dienste Bruchsal",
+   "topics": [
+    "Inclusion & Diversity",
+    "Youth Work & Learning"
+   ],
+   "description": "One year of European Solidarity Corps volunteering at Kita Campulino, an inclusive day care centre for 115 children aged 1–6 in Philippsburg near Karlsruhe. Volunteers support educators in a group of 3–6 year olds with play, creative and outdoor activities. Accommodation is a private room in a…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "ai": {
+    "summary_az": "Almaniyanın Filipsburq şəhərində yerləşən Kita Campulino uşaq bağçasında 1 illik Avropa Həmrəylik Korpusu (ESC) könüllülük layihəsidir. Könüllülər 3-6 yaşlı uşaqların oyun, yaradıcılıq və açıq hava fəaliyyətlərində tərbiyəçilərə dəstək olacaqlar. Yaşayış və qida xərcləri tam qarşılanır, səyahət xərcləri isə kompensasiya edilir.",
+    "documents": [
+     "Onlayn müraciət forması"
+    ],
+    "requirements": [
+     "18-30 yaş aralığında olmaq",
+     "Siyahıdakı 52 uyğun ölkədən birində (o cümlədən Azərbaycanda) yaşamaq"
+    ],
+    "selection_process": "İştirakçılar onlayn müraciət forması əsasında ev sahibi təşkilat (AWO Soziale Dienste Bruchsal) tərəfindən seçilir.",
+    "competition": "medium",
+    "competition_reason": "Müraciət çoxlu ölkə üçün açıqdır və iştirakçılar ev sahibi təşkilat tərəfindən fərdi şəkildə seçilir.",
+    "required_english": null,
+    "experience_required": false,
+    "model": "gemini-3.6-flash",
+    "analyzed_at": "2026-11-24"
+   },
+   "flashcards": [
+    {
+     "q": "Layihəyə kimlər müraciət edə bilər?",
+     "a": "Azərbaycan da daxil olmaqla, müəyyən edilmiş 52 ölkədən olan 18-30 yaş arası gənclər."
+    },
+    {
+     "q": "Son müraciət tarixi nə vaxtdır?",
+     "a": "5 dekabr 2026-cı il."
+    },
+    {
+     "q": "Xərclər necə qarşılanır?",
+     "a": "Yaşayış və qida xərcləri tam qarşılanır, yol xərcləri isə kompensasiya olunur."
+    },
+    {
+     "q": "Harada yaşayacaqsınız?",
+     "a": "Paylaşılan mənzildə şəxsi otaqla təmin olunacaqsınız."
+    },
+    {
+     "q": "Necə müraciət etmək lazımdır?",
+     "a": "Google Form vasitəsilə onlayn müraciət formasını dolduraraq."
+    }
+   ],
+   "analysis": "ai",
+   "score": {
+    "total": 47,
+    "chance": 47,
+    "fit": 48,
+    "label": "Aşağı",
+    "eligible": true,
+    "factors": [
+     {
+      "k": "chance",
+      "d": 0,
+      "t": "Başlanğıc bal: ESC könüllülük (50)"
+     },
+     {
+      "k": "chance",
+      "d": -8,
+      "t": "52 ölkədən müraciət qəbul olunur"
+     },
+     {
+      "k": "chance",
+      "d": 5,
+      "t": "Maraq sahənə uyğundur: inclusion, solidarity"
+     },
+     {
+      "k": "fit",
+      "d": -25,
+      "t": "Müddət uzundur: 366 gün"
+     },
+     {
+      "k": "fit",
+      "d": 10,
+      "t": "Yaşayış və yemək ödənilir"
+     },
+     {
+      "k": "fit",
+      "d": 8,
+      "t": "Yol xərci sonradan qaytarılır"
      },
      {
       "k": "fit",
@@ -9126,91 +10135,6 @@
    "status": "expired"
   },
   {
-   "id": "6fd5126181f8",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/dog-shelter-volunteering-in-arese",
-   "title": "Dog Shelter Volunteering in Arese",
-   "type": "esc_volunteering",
-   "type_label": "Volunteering",
-   "host_country": "Italy",
-   "city": "Arese",
-   "start_date": "2027-01-08",
-   "end_date": "2027-05-31",
-   "duration_days": 144,
-   "deadline": "2026-11-20",
-   "eligible_countries": [
-    "Austria",
-    "Belgium",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Latvia",
-    "Liechtenstein",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Netherlands",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden"
-   ],
-   "eligible_note": null,
-   "az_eligible": "no",
-   "age_min": 18,
-   "age_max": 30,
-   "costs": {
-    "accommodation_food": "covered",
-    "travel": "reimbursed",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": "Vitadacani (via NO BORDERS)",
-   "topics": [
-    "Environment & Climate",
-    "Arts & Creativity",
-    "Health & Food"
-   ],
-   "description": "A placement at Vitadacani's dog shelter near Milan. Volunteers feed, walk and clean the dogs and help the organisation promote animal protection.",
-   "detail": true,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
-   "notified_at": null,
-   "reminded": false,
-   "score": {
-    "total": 0,
-    "chance": 0,
-    "fit": 0,
-    "label": "Uyğun deyil",
-    "eligible": false,
-    "factors": [
-     {
-      "k": "gate",
-      "d": 0,
-      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
-     }
-    ]
-   },
-   "status": "expired"
-  },
-  {
    "id": "d3a1645b3b06",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/other-music-academy-weimar",
@@ -11165,85 +12089,6 @@
    "status": "expired"
   },
   {
-   "id": "81432a1b0a0d",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/birdwatching-and-biodiversity-at-lipu-massaciuccoli-oasis",
-   "title": "Birdwatching and Biodiversity at LIPU Massaciuccoli Oasis",
-   "type": "esc_volunteering",
-   "type_label": "Volunteering",
-   "host_country": "Italy",
-   "city": "Massaciuccoli",
-   "start_date": "2026-11-30",
-   "end_date": "2027-05-31",
-   "duration_days": 183,
-   "deadline": "2026-11-24",
-   "eligible_countries": [
-    "Austria",
-    "Belgium",
-    "Bulgaria",
-    "Croatia",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Ireland",
-    "Latvia",
-    "Lithuania",
-    "Netherlands",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Slovakia",
-    "Slovenia",
-    "Sweden"
-   ],
-   "eligible_note": null,
-   "az_eligible": "no",
-   "age_min": 18,
-   "age_max": 30,
-   "costs": {
-    "accommodation_food": "covered",
-    "travel": "reimbursed",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": "LIPU (via NO BORDERS)",
-   "topics": [
-    "Environment & Climate",
-    "Arts & Creativity",
-    "Health & Food"
-   ],
-   "description": "A six-month placement at a nature reserve in Tuscany between Lucca, Pisa and Viareggio. Volunteers support bird monitoring, habitat conservation, wildlife care, environmental education and the biodiversity garden.",
-   "detail": true,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
-   "notified_at": null,
-   "reminded": false,
-   "score": {
-    "total": 0,
-    "chance": 0,
-    "fit": 0,
-    "label": "Uyğun deyil",
-    "eligible": false,
-    "factors": [
-     {
-      "k": "gate",
-      "d": 0,
-      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
    "id": "bbebe28aa458",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/christmas-task-force-in-barcelos",
@@ -12093,6 +12938,153 @@
    "status": "open"
   },
   {
+   "id": "cd3ccc413766",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/stages-of-belonging-community-theatre-osterholz-scharmbeck",
+   "title": "Stages of Belonging: Community Theatre for Connection and Inclusion",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Germany",
+   "city": "Osterholz-Scharmbeck",
+   "start_date": "2027-01-08",
+   "end_date": "2027-01-16",
+   "duration_days": 9,
+   "deadline": "2026-11-25",
+   "eligible_countries": [
+    "Germany",
+    "North Macedonia",
+    "Bulgaria",
+    "Italy",
+    "Spain",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Arts & Creativity",
+    "Inclusion & Diversity",
+    "Culture & Heritage"
+   ],
+   "description": "A youth exchange in Osterholz-Scharmbeck that uses community theatre to explore identity, belonging, prejudice and inclusion. Participants work with improvisation, storytelling, role-play and movement, and together…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "6fd5126181f8",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/dog-shelter-volunteering-in-arese",
+   "title": "Dog Shelter Volunteering in Arese",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Arese",
+   "start_date": "2027-01-08",
+   "end_date": "2027-05-31",
+   "duration_days": 144,
+   "deadline": "2026-11-26",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Vitadacani (via NO BORDERS)",
+   "topics": [
+    "Environment & Climate",
+    "Arts & Creativity",
+    "Health & Food"
+   ],
+   "description": "A placement at Vitadacani's dog shelter near Milan. Volunteers feed, walk and clean the dogs and help the organisation promote animal protection.",
+   "detail": true,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "0a983a4e22b7",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/sport-oriented-kindergarten-wellenreiter-brandenburg-an-der-havel",
@@ -12554,6 +13546,175 @@
    "status": "open"
   },
   {
+   "id": "ac6917b4d75e",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/eco-volunteering-at-hostel-monte-barro-galbiate",
+   "title": "Eco-Volunteering at Hostel Monte Barro",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Galbiate",
+   "start_date": "2027-01-08",
+   "end_date": "2027-05-31",
+   "duration_days": 144,
+   "deadline": "2026-11-27",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Legambiente Lecco (via NO BORDERS)",
+   "topics": [
+    "Environment & Climate",
+    "Youth Work & Learning"
+   ],
+   "description": "Five months of European Solidarity Corps volunteering at Ostello Monte Barro in a nature park near Lecco. Two volunteers help run the hostel, upcycle materials, inform guests about hiking and the area, and run environmental education workshops for primary school pupils. They share a double room in…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "07f1958a2e82",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/workshop-for-people-with-disabilities-lebenshilfe-aurich",
+   "title": "Workshop for People with Disabilities – Lebenshilfe Aurich",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Germany",
+   "city": "Aurich",
+   "start_date": "2027-08-01",
+   "end_date": "2028-07-31",
+   "duration_days": 366,
+   "deadline": "2026-11-27",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Portugal",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Lebenshilfe Aurich-Wittmund (via Paritätischer Niedersachsen)",
+   "topics": [
+    "Inclusion & Diversity",
+    "Health & Food"
+   ],
+   "description": "One-year European Solidarity Corps volunteering at Lebenshilfe Aurich-Wittmund's sheltered workshop in Aurich, which supports over 200 people with disabilities in vocational training and work. Volunteers assist the professional staff with individual support and occupational activities and live…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "af1038648c07",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/where-cultures-meet-poznan",
@@ -12756,6 +13917,175 @@
    "description": "A placement at the Farfalle nella Testa butterfly house in Bordano. The volunteer supports communication: photographing animals and plants, editing videos, publishing content and maintaining the photo archive.",
    "detail": true,
    "first_seen": "2026-11-18",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "d74ad55070d6",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/stide-stronger-together-tides-of-inclusion-ravenna",
+   "title": "STIDE: Stronger Together, Tides of Inclusion",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Italy",
+   "city": "Ravenna",
+   "start_date": "2027-01-16",
+   "end_date": "2027-01-25",
+   "duration_days": 10,
+   "deadline": "2026-11-28",
+   "eligible_countries": [
+    "Bosnia and Herzegovina"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Inclusion & Diversity",
+    "Culture & Heritage",
+    "Communication & Storytelling"
+   ],
+   "description": "A youth exchange near Ravenna about young people with migrant backgrounds who still feel invisible or left out in their communities. Through dialogue, storytelling, intercultural communication and community action,…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "62bfd0e71ffb",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/connect-intercultural-learning-youth-work-berlin",
+   "title": "CONNECT – Intercultural Learning Through Youth Work",
+   "type": "training_course",
+   "type_label": "Training Course",
+   "host_country": "Germany",
+   "city": "Berlin",
+   "start_date": "2027-01-23",
+   "end_date": "2027-01-31",
+   "duration_days": 9,
+   "deadline": "2026-11-28",
+   "eligible_countries": [
+    "Armenia"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Inclusion & Diversity",
+    "Culture & Heritage",
+    "Communication & Storytelling"
+   ],
+   "description": "A training course in Berlin organised by KulturNetz e.V. for youth workers, trainers, youth leaders and active volunteers, bringing together 34 participants from 11 countries. Participants gain practical tools for…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "1e0915ec2c6c",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/water-wise-youth-exchange-szczecin",
+   "title": "WATER WISE",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Poland",
+   "city": "Szczecin",
+   "start_date": "2027-02-15",
+   "end_date": "2027-02-23",
+   "duration_days": 9,
+   "deadline": "2026-11-28",
+   "eligible_countries": [
+    "Bosnia and Herzegovina"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Environment & Climate"
+   ],
+   "description": "A youth exchange in Szczecin about how we use water and how to conserve it. Participants test water-saving ideas in workshops on rainwater harvesting, greywater reuse and water footprints, take part in an eco-hackathon…",
+   "detail": false,
+   "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "notified_at": null,
    "reminded": false,
@@ -13418,6 +14748,853 @@
     "Solidarity & Community"
    ],
    "description": "A one-year placement at a hands-on science centre in Gdynia with interactive exhibitions and science shows. The volunteer helps run workshops and activities that make science fun for visitors of all ages.",
+   "detail": true,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "7dd483061546",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/project-assistant-for-social-inclusion-in-belgrade",
+   "title": "Project Assistant for Social Inclusion in Belgrade",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Serbia",
+   "city": "Belgrade",
+   "start_date": "2027-01-01",
+   "end_date": "2028-08-31",
+   "duration_days": 609,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "ADRA Serbia",
+   "topics": [
+    "Inclusion & Diversity",
+    "Human Rights & Peace"
+   ],
+   "description": "European Solidarity Corps volunteering with ADRA Serbia in Belgrade, supporting projects for homeless people, ethnic minorities and care leavers. The volunteer helps the project manager with communication, timelines and administration and joins awareness-raising activities. Accommodation is…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "147466380e61",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/social-programme-assistant-in-novi-pazar",
+   "title": "Social Programme Assistant in Novi Pazar",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Serbia",
+   "city": "Novi Pazar",
+   "start_date": "2027-01-01",
+   "end_date": "2028-12-30",
+   "duration_days": 730,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Merhamet Sandžak (via ADRA)",
+   "topics": [
+    "Inclusion & Diversity",
+    "Solidarity & Community"
+   ],
+   "description": "European Solidarity Corps volunteering with Merhamet Sandžak, a humanitarian organisation supporting vulnerable people and families in the Sandžak region of Serbia. The volunteer helps plan and run social inclusion activities, community outreach and educational activities. All costs, including a…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "97723596c34c",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/digital-empowerment-trainer-in-kampala",
+   "title": "Digital Empowerment Trainer in Kampala",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Uganda",
+   "city": "Kampala",
+   "start_date": "2027-01-01",
+   "end_date": "2028-12-30",
+   "duration_days": 730,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Uganda Pioneers Association (via ADRA)",
+   "topics": [
+    "Digital & Media",
+    "Youth Work & Learning"
+   ],
+   "description": "European Solidarity Corps volunteering with Uganda Pioneers Association in Kampala, building digital skills among youth workers and local communities. The volunteer runs training on digital communication and marketing and shares creative tools with the team. Accommodation is a private room in a…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "c4f817be5032",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/education-and-teacher-development-volunteer-in-kampala",
+   "title": "Education and Teacher Development Volunteer in Kampala",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Uganda",
+   "city": "Kampala",
+   "start_date": "2027-01-01",
+   "end_date": "2028-12-30",
+   "duration_days": 730,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Uganda Pioneers Association (via ADRA)",
+   "topics": [
+    "Youth Work & Learning"
+   ],
+   "description": "European Solidarity Corps volunteering with Uganda Pioneers Association in a Kampala community school. The volunteer supports learners in class, helps plan co-curricular activities and introduces learner-centred teaching methods to the staff. Accommodation is a private room in a shared volunteer…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "d7ad052b6240",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/entrepreneurship-trainer-displaced-youth-tserovani",
+   "title": "Entrepreneurship Trainer for Displaced Youth and Women in Georgia",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Georgia",
+   "city": "Tserovani",
+   "start_date": "2027-01-01",
+   "end_date": "2028-12-30",
+   "duration_days": 730,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "ADRA Mtskheta-Mtianeti Regional Hub",
+   "topics": [
+    "Inclusion & Diversity",
+    "Entrepreneurship & Skills"
+   ],
+   "description": "European Solidarity Corps volunteering with ADRA in the Tserovani settlement near Mtskheta, training internally displaced young people and women in business planning, financial literacy and small enterprise. The aim is to help participants start and sustain their own ventures. Accommodation is a…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "ac4995352c7a",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/inclusive-education-care-special-needs-kampala",
+   "title": "Inclusive Education and Care for Children with Special Needs in Kampala",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Uganda",
+   "city": "Kampala",
+   "start_date": "2027-01-01",
+   "end_date": "2028-12-30",
+   "duration_days": 730,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Uganda Pioneers Association (via ADRA)",
+   "topics": [
+    "Inclusion & Diversity",
+    "Youth Work & Learning",
+    "Health & Food"
+   ],
+   "description": "European Solidarity Corps volunteering with Uganda Pioneers Association in Kampala, supporting the daily care of children with special needs. The volunteer helps children develop life skills and gives basic early childhood development lessons, challenging stigma around disability. Accommodation is…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "da3959cf918d",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/communication-fundraising-officer-idp-tserovani",
+   "title": "Communication and Fundraising Officer for IDP Communities in Georgia",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Georgia",
+   "city": "Tserovani",
+   "start_date": "2027-01-01",
+   "end_date": "2028-12-31",
+   "duration_days": 731,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "ADRA Mtskheta-Mtianeti Regional Hub",
+   "topics": [
+    "Communication & Storytelling",
+    "Solidarity & Community"
+   ],
+   "description": "European Solidarity Corps volunteering with ADRA in the Tserovani settlement for internally displaced people near Mtskheta. The volunteer creates content, manages social media and supports fundraising for organisations working with displaced communities. Accommodation is a house in the settlement…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "37a6f1557ae0",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/media-and-communication-assistant-in-novi-pazar",
+   "title": "Media and Communication Assistant in Novi Pazar",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Serbia",
+   "city": "Novi Pazar",
+   "start_date": "2027-01-01",
+   "end_date": "2028-12-30",
+   "duration_days": 730,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Merhamet Sandžak (via ADRA)",
+   "topics": [
+    "Digital & Media",
+    "Communication & Storytelling"
+   ],
+   "description": "European Solidarity Corps volunteering with Merhamet Sandžak in Novi Pazar, Serbia, supporting the organisation's visibility and public engagement. The volunteer creates content, manages social media and documents activities in photo and video. All costs, including a return flight, are covered.",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "58c7889e47f3",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/butterfly-house-greenhouses-in-bordano",
+   "title": "Butterfly House Greenhouses in Bordano",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Bordano",
+   "start_date": "2027-02-01",
+   "end_date": "2027-05-31",
+   "duration_days": 120,
+   "deadline": "2026-11-29",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Latvia",
+    "Lithuania",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Farfalle nella Testa (via Joint)",
+   "topics": [
+    "Environment & Climate",
+    "Youth Work & Learning"
+   ],
+   "description": "Four months of European Solidarity Corps volunteering at the Butterfly House museum in Bordano, Friuli. The volunteer helps maintain the tropical greenhouses, care for insects and plants, and supports guided tours, educational workshops and events. Accommodation is a shared room in a house with a…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "81432a1b0a0d",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/birdwatching-and-biodiversity-at-lipu-massaciuccoli-oasis",
+   "title": "Birdwatching and Biodiversity at LIPU Massaciuccoli Oasis",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Massaciuccoli",
+   "start_date": "2027-01-19",
+   "end_date": "2027-05-31",
+   "duration_days": 133,
+   "deadline": "2026-11-30",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Latvia",
+    "Lithuania",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "LIPU (via NO BORDERS)",
+   "topics": [
+    "Environment & Climate",
+    "Arts & Creativity",
+    "Health & Food"
+   ],
+   "description": "A six-month placement at a nature reserve in Tuscany between Lucca, Pisa and Viareggio. Volunteers support bird monitoring, habitat conservation, wildlife care, environmental education and the biodiversity garden.",
    "detail": true,
    "first_seen": "2026-11-18",
    "last_seen": "2026-11-24",
@@ -16233,6 +18410,217 @@
    "status": "open"
   },
   {
+   "id": "5530800709d0",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/repair-cafes-fablab-messejana",
+   "title": "Repair Cafés and Digital Fabrication in a Rural FabLab",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Portugal",
+   "city": "Messejana",
+   "start_date": "2027-02-01",
+   "end_date": "2027-07-31",
+   "duration_days": 181,
+   "deadline": "2026-11-30",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Buinho Associação",
+   "topics": [
+    "Environment & Climate",
+    "Digital & Media",
+    "Youth Work & Learning"
+   ],
+   "description": "Six months of European Solidarity Corps volunteering at Buinho, a creative hub and FabLab in the Alentejo village of Messejana. The volunteer organises community repair cafés and helps run the FabLab (3D printers, laser cutter, electronics) and hands-on activities with local schools. Accommodation…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "e9c5d29467c1",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/solidarity-and-community-engagement-with-ciss-in-palermo",
+   "title": "Solidarity and Community Engagement with CISS in Palermo",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Palermo",
+   "start_date": "2027-04-01",
+   "end_date": "2027-09-01",
+   "duration_days": 154,
+   "deadline": "2026-11-30",
+   "eligible_countries": [
+    "Belgium",
+    "France",
+    "Germany",
+    "Greece",
+    "Luxembourg",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Spain"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Inclusion & Diversity",
+    "Human Rights & Peace",
+    "Solidarity & Community"
+   ],
+   "description": "Five months of European Solidarity Corps volunteering in Palermo with CISS, an NGO working on human rights, migration, women's rights and children's education. Three volunteers support social and community projects,…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "9c81671fec00",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/terra-franca-confiscated-mafia-land-palermo",
+   "title": "Terra Franca – Short-Term Volunteering on Confiscated Mafia Land",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Palermo",
+   "start_date": "2027-04-01",
+   "end_date": "2027-05-31",
+   "duration_days": 61,
+   "deadline": "2026-11-30",
+   "eligible_countries": [
+    "Belgium",
+    "France",
+    "Germany",
+    "Greece",
+    "Luxembourg",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Spain"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Environment & Climate",
+    "Solidarity & Community"
+   ],
+   "description": "Two months of European Solidarity Corps volunteering in Palermo at Terra Franca, land confiscated from the Mafia and returned to community use. Two volunteers help with outdoor work, local projects, community events…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "0ce69037fc7b",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/sport-inclusion-ankara-2026",
@@ -16590,6 +18978,145 @@
    "status": "open"
   },
   {
+   "id": "2218643eeec5",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/education-ambassador-at-serve-the-city-belgium-brussels",
+   "title": "Education Ambassador at Serve the City Belgium",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Belgium",
+   "city": "Brussels",
+   "start_date": "2027-01-07",
+   "end_date": "2027-06-30",
+   "duration_days": 175,
+   "deadline": "2026-12-01",
+   "eligible_countries": [
+    "France",
+    "Netherlands"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Arts & Creativity",
+    "Inclusion & Diversity",
+    "Democracy & Citizenship"
+   ],
+   "description": "A six-month placement in Brussels supporting Serve the City's educational activities with adults and children. The volunteer works with the education programme manager and project leaders and gains practical experience…",
+   "detail": false,
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "c72c7f0c576c",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/food-outreach-volunteer-at-serve-the-city-brussels",
+   "title": "Food Outreach Volunteer at Serve the City Brussels",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Belgium",
+   "city": "Brussels",
+   "start_date": "2027-01-07",
+   "end_date": "2027-06-30",
+   "duration_days": 175,
+   "deadline": "2026-12-01",
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Serve the City ASBL",
+   "topics": [
+    "Inclusion & Diversity",
+    "Solidarity & Community"
+   ],
+   "description": "European Solidarity Corps volunteering with Serve the City Belgium, fighting food insecurity and homelessness in Brussels. The volunteer joins regular food distributions, supports coordination and creates awareness content such as articles and interviews. The organisation helps find accommodation…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "e7b569d98cb5",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/essentials-peacebuilding-pullach",
@@ -16822,6 +19349,176 @@
    "status": "open"
   },
   {
+   "id": "5ca3b4e22526",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/eu-motion-20-27-community-activities-and-logistics-in-lisbon",
+   "title": "EU.Motion 20.27 – Community Activities and Logistics in Lisbon",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Portugal",
+   "city": "Lisbon",
+   "start_date": "2027-01-11",
+   "end_date": "2027-07-31",
+   "duration_days": 202,
+   "deadline": "2026-12-02",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Associação Mais Cidadania",
+   "topics": [
+    "Democracy & Citizenship",
+    "Culture & Heritage",
+    "Solidarity & Community"
+   ],
+   "description": "Seven months of European Solidarity Corps volunteering with Associação Mais Cidadania in Lisbon on citizenship, youth participation and cultural diversity. The volunteer helps plan community activities and handles project logistics. Accommodation, pocket money, food allowance and insurance are…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "7eab2cebf72f",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/eu-motion-20-27-communication-and-social-media-in-lisbon",
+   "title": "EU.Motion 20.27 – Communication and Social Media in Lisbon",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Portugal",
+   "city": "Lisbon",
+   "start_date": "2027-01-11",
+   "end_date": "2027-07-31",
+   "duration_days": 202,
+   "deadline": "2026-12-02",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Associação Mais Cidadania",
+   "topics": [
+    "Democracy & Citizenship",
+    "Culture & Heritage",
+    "Communication & Storytelling"
+   ],
+   "description": "Seven months of European Solidarity Corps volunteering with Associação Mais Cidadania in Lisbon on citizenship, youth participation and cultural diversity. The volunteer joins the office team and takes an active role in communication and digital media. Accommodation, pocket money, food allowance…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "9df7537685be",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/against-racism-sexism-and-lgbtqia-phobia-in-caen",
@@ -17028,6 +19725,64 @@
    "description": "A winter training course in Soriano nel Cimino for 18 youth workers and trainers on adventure, outdoor and experiential learning for personal growth and wellbeing. Accommodation, meals and activities are covered and…",
    "detail": false,
    "first_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "65001bf2d76b",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/social-media-organiser-in-jekabpils",
+   "title": "Social Media Organiser in Jēkabpils",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Latvia",
+   "city": "Jēkabpils",
+   "start_date": "2026-12-17",
+   "end_date": "2027-01-31",
+   "duration_days": 46,
+   "deadline": "2026-12-05",
+   "eligible_countries": [
+    "France",
+    "Latvia",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Digital & Media",
+    "Communication & Storytelling"
+   ],
+   "description": "A short European Solidarity Corps volunteering with the Vidusdaugava NGO Centre in Jēkabpils for two volunteers. They create videos and short stories about local people and NGOs, produce content for social media and…",
+   "detail": false,
+   "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "notified_at": null,
    "reminded": false,
@@ -17355,6 +20110,171 @@
    "status": "open"
   },
   {
+   "id": "226ccc3a88cd",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/l-e-a-d-2027-communication-and-events-in-sofia",
+   "title": "L.E.A.D. 2027 – Communication and Events in Sofia",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Bulgaria",
+   "city": "Sofia",
+   "start_date": "2027-01-18",
+   "end_date": "2027-09-11",
+   "duration_days": 237,
+   "deadline": "2026-12-06",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Synergy Bulgaria",
+   "topics": [
+    "Digital & Media",
+    "Communication & Storytelling"
+   ],
+   "description": "Eight months of European Solidarity Corps volunteering with Synergy Bulgaria in Sofia for three volunteers. Depending on interests, volunteers work on project and event management, social media, photo and video, or graphic design, and take part in local and international youth events. Travel,…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "3c82bf674270",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/long-term-volunteering-at-allianssi-youth-exchanges-vantaa",
+   "title": "Long-Term Volunteering at Allianssi Youth Exchanges",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Finland",
+   "city": "Vantaa",
+   "start_date": "2027-02-01",
+   "end_date": "2027-12-31",
+   "duration_days": 334,
+   "deadline": "2026-12-06",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Allianssi Youth Exchanges",
+   "topics": [
+    "Environment & Climate",
+    "Youth Work & Learning",
+    "Culture & Heritage"
+   ],
+   "description": "Eleven months of European Solidarity Corps volunteering in the Vantaa office of Allianssi Youth Exchanges, which runs international volunteering and learning mobility programmes. The volunteer supports intercultural, environmental and climate-justice activities with young people. Applications go…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "07d763c69b59",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/regenerate-the-future-gran-canaria",
@@ -17573,6 +20493,91 @@
    "status": "open"
   },
   {
+   "id": "3d2a32364aa4",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/rooted-in-belonging-w-ve-v-in-cremona",
+   "title": "Rooted in Belonging – W@VE V in Cremona",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Cremona",
+   "start_date": "2027-01-12",
+   "end_date": "2027-10-12",
+   "duration_days": 274,
+   "deadline": "2026-12-08",
+   "eligible_countries": [
+    "Albania",
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Cooperativa Nazareth (with Comune di Cremona)",
+   "topics": [
+    "Environment & Climate",
+    "Sport & Outdoor",
+    "Inclusion & Diversity"
+   ],
+   "description": "Nine months of European Solidarity Corps volunteering for two volunteers at the Giona youth centre and Rigenera organic farm in Cremona. Volunteers support educational activities for foreign minors, sports and creative activities for children, community events and sustainable farming. They live in…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "8aaacf684106",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/rural-life-youth-exchange-sierra-de-fuentes",
@@ -17697,6 +20702,121 @@
    "description": "A training course in Alicante for youth workers and leaders who want to run high-quality Erasmus+ youth exchanges. Participants learn methods and tools to facilitate youth exchanges through experiential learning and peer sharing. Accommodation (single or double rooms) and three meals a day are…",
    "detail": true,
    "first_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "2feb38b22345",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/social-and-cultural-volunteering-in-orta-nova",
+   "title": "Social and Cultural Volunteering in Orta Nova",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Orta Nova",
+   "start_date": "2027-01-04",
+   "end_date": "2027-08-04",
+   "duration_days": 213,
+   "deadline": "2026-12-10",
+   "eligible_countries": [
+    "Poland"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Culture & Heritage",
+    "Solidarity & Community"
+   ],
+   "description": "Seven months of European Solidarity Corps volunteering with Beyond Borders in Orta Nova, Apulia, on social and cultural activities. Volunteers should be 18–30 and communicate in English. This application form is for…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "5405d5e044d7",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/one-stage-many-voices-sudislav-nad-orlici",
+   "title": "One Stage, Many Voices!",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Czech Republic",
+   "city": "Sudislav nad Orlicí",
+   "start_date": "2027-01-05",
+   "end_date": "2027-01-15",
+   "duration_days": 11,
+   "deadline": "2026-12-11",
+   "eligible_countries": [
+    "Czechia",
+    "Romania",
+    "Latvia"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Arts & Creativity",
+    "Culture & Heritage",
+    "Communication & Storytelling"
+   ],
+   "description": "A theatre-based youth exchange in Sudislav nad Orlicí for young people aged 16–20 from Czechia, Romania and Latvia. Over nine days participants build confidence, voice and teamwork through movement, improvisation,…",
+   "detail": false,
+   "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "notified_at": null,
    "reminded": false,
@@ -18580,6 +21700,135 @@
    "status": "open"
   },
   {
+   "id": "7977455122c5",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/non-formal-education-agricultural-high-school-mauleon",
+   "title": "Non-Formal Education in an Agricultural High School in Mauléon",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "France",
+   "city": "Mauléon-Licharre",
+   "start_date": "2027-01-01",
+   "end_date": "2027-06-30",
+   "duration_days": 181,
+   "deadline": "2026-12-15",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Cyprus",
+    "Estonia",
+    "Finland",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Spain"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Lycée Agricole de Soule (via Pistes Solidaires)",
+   "topics": [
+    "Youth Work & Learning",
+    "Culture & Heritage"
+   ],
+   "description": "Six months of European Solidarity Corps volunteering at the agricultural high school in Mauléon, in the French Basque Country. The volunteer creates an intercultural environment with students and teachers, runs extracurricular activities and assists with Spanish language classes. Accommodation is…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "55234d7a1f4b",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/permaculture-and-rural-life-in-catalonia-caseres",
+   "title": "Permaculture and Rural Life in Catalonia",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Spain",
+   "city": "Caseres",
+   "start_date": "2027-01-11",
+   "end_date": "2027-06-11",
+   "duration_days": 152,
+   "deadline": "2026-12-16",
+   "eligible_countries": [
+    "France"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Environment & Climate"
+   ],
+   "description": "Five months of European Solidarity Corps volunteering for two volunteers on permaculture projects in the Catalan countryside, including Mas La Llum and Anoha Forest Garden. Volunteers garden, take part in natural…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "476cabfa67db",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/ai-and-it-tools-youth-workers-cadca",
@@ -19313,6 +22562,255 @@
    "status": "open"
   },
   {
+   "id": "e59ee1f63d81",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/short-term-volunteering-with-efm-poland-in-bystrzyca-klodzka",
+   "title": "Short-Term Volunteering with EFM Poland in Bystrzyca Kłodzka",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Poland",
+   "city": "Bystrzyca Kłodzka",
+   "start_date": "2027-01-08",
+   "end_date": "2027-03-05",
+   "duration_days": 57,
+   "deadline": "2026-12-21",
+   "eligible_countries": [
+    "Albania",
+    "Austria",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Europejskie Forum Młodzieży",
+   "topics": [
+    "Inclusion & Diversity",
+    "Democracy & Citizenship",
+    "Youth Work & Learning"
+   ],
+   "description": "Two months of European Solidarity Corps volunteering with the European Youth Forum association in the Kłodzko region, promoting education, equality, citizenship and inclusion. Volunteers support office work and local projects, write articles, prepare school visits and help with youth activities.…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "6cf94f48234d",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/building-an-inclusive-future-with-vale-near-granada-durcal",
+   "title": "Building an Inclusive Future with VALE near Granada",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Spain",
+   "city": "Dúrcal",
+   "start_date": "2027-01-11",
+   "end_date": "2027-10-10",
+   "duration_days": 273,
+   "deadline": "2026-12-21",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Poland",
+    "Portugal",
+    "Slovakia",
+    "Slovenia",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Asociación VALE",
+   "topics": [
+    "Arts & Creativity",
+    "Sport & Outdoor",
+    "Inclusion & Diversity"
+   ],
+   "description": "Nine months of European Solidarity Corps volunteering with VALE, an association for people with intellectual disabilities in Dúrcal near Granada. Volunteers support creative workshops, sports, leisure and community activities at day and residential centres. They live in an international shared…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "8280ef675802",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/regenerate-land-water-community-almenara-vejer",
+   "title": "Regenerate Land, Water and Community in Almenara",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Spain",
+   "city": "Vejer de la Frontera",
+   "start_date": "2027-02-01",
+   "end_date": "2027-12-19",
+   "duration_days": 322,
+   "deadline": "2026-12-21",
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Asociación Almenara Culturas Regenerativas",
+   "topics": [
+    "Environment & Climate",
+    "Solidarity & Community"
+   ],
+   "description": "Eleven months of European Solidarity Corps volunteering at Almenara, an ecological community near Vejer de la Frontera in Cádiz that uses permaculture and sociocracy. Volunteers work on water retention, soil and native woodland, a tree nursery, the food garden and shared buildings, and help…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "943cf8a53e83",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/beach-volleyball-volunteering-hamburg",
@@ -19360,6 +22858,67 @@
    "description": "A two-month summer ESC volunteering placement with a beach-volleyball club in Hamburg. The volunteer supports trainings, events and community activities; volleyball experience is recommended but not required.",
    "detail": true,
    "first_seen": "2026-11-14",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "48e433dce082",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/urban-act-2027-agualva-cacem",
+   "title": "Urban Act 2027 – Community Sustainability Projects",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Portugal",
+   "city": "Agualva-Cacém",
+   "start_date": "2027-01-01",
+   "end_date": "2027-05-31",
+   "duration_days": 151,
+   "deadline": "2026-12-30",
+   "eligible_countries": [
+    "Belgium",
+    "France",
+    "Italy",
+    "Portugal",
+    "Spain"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Environment & Climate",
+    "Youth Work & Learning",
+    "Solidarity & Community"
+   ],
+   "description": "Five months of European Solidarity Corps volunteering with YouthCoop in Agualva-Cacém near Lisbon, supporting community education projects on environmental sustainability and the circular economy. Volunteers help…",
+   "detail": false,
+   "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "notified_at": null,
    "reminded": false,
@@ -20455,6 +24014,148 @@
    "status": "open"
   },
   {
+   "id": "4f573dc5334e",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/design-your-volunteer-experience-signal-of-solidarity-in-witten",
+   "title": "Design Your Volunteer Experience – Signal of Solidarity in Witten",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Germany",
+   "city": "Witten",
+   "start_date": "2027-04-01",
+   "end_date": "2028-03-31",
+   "duration_days": 366,
+   "deadline": "2027-01-31",
+   "eligible_countries": [
+    "Armenia",
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "France",
+    "Georgia",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden",
+    "Türkiye",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Signal of Solidarity e.V. and migration_miteinander e.V.",
+   "topics": [
+    "Inclusion & Diversity",
+    "Culture & Heritage"
+   ],
+   "description": "One year of European Solidarity Corps volunteering in Witten with organisations working on intercultural living and the professional integration of migrants, especially women and mothers. Volunteers support sewing courses and other activities and help shape their own role. They share an apartment…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "e1078bc36564",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/skills4life-outdoor-youth-exchange-sovata",
+   "title": "SKILLS4LIFE",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Romania",
+   "city": "Sovata",
+   "start_date": "2027-03-08",
+   "end_date": "2027-03-19",
+   "duration_days": 12,
+   "deadline": "2027-02-01",
+   "eligible_countries": [
+    "Portugal",
+    "Greece",
+    "Lithuania",
+    "Romania"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Environment & Climate",
+    "Mental Health & Wellbeing",
+    "Communication & Storytelling"
+   ],
+   "description": "A youth exchange at the Outward Bound youth centre in Sovata focused on assertiveness, teamwork, physical engagement and compassion. The programme includes team-building, a ropes course, daily reflection circles and a…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
    "id": "b1691c79546d",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/green-roots-in-salzedas",
@@ -20876,9 +24577,9 @@
    "type_label": "Volunteering",
    "host_country": "Poland",
    "city": "Starogard Gdański",
-   "start_date": "2026-11-02",
-   "end_date": "2027-10-30",
-   "duration_days": 363,
+   "start_date": "2027-01-02",
+   "end_date": "2027-03-03",
+   "duration_days": 61,
    "deadline": null,
    "eligible_countries": [
     "Austria",
@@ -21258,8 +24959,8 @@
    "type_label": "Volunteering",
    "host_country": "Romania",
    "city": "Reșița",
-   "start_date": "2026-12-10",
-   "end_date": "2027-12-10",
+   "start_date": "2027-01-10",
+   "end_date": "2028-01-10",
    "duration_days": 366,
    "deadline": null,
    "eligible_countries": [
@@ -26326,64 +30027,6 @@
    "status": "open"
   },
   {
-   "id": "2218643eeec5",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/education-ambassador-at-serve-the-city-belgium-brussels",
-   "title": "Education Ambassador at Serve the City Belgium",
-   "type": "esc_volunteering",
-   "type_label": "Volunteering",
-   "host_country": "Belgium",
-   "city": "Brussels",
-   "start_date": "2026-11-30",
-   "end_date": "2027-01-28",
-   "duration_days": 60,
-   "deadline": null,
-   "eligible_countries": [
-    "France",
-    "Netherlands"
-   ],
-   "eligible_note": null,
-   "az_eligible": "no",
-   "age_min": null,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "unknown",
-    "travel": "unknown",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": null,
-   "topics": [
-    "Arts & Creativity",
-    "Inclusion & Diversity",
-    "Democracy & Citizenship"
-   ],
-   "description": "A two-month placement in Brussels supporting Serve the City's educational activities with adults and children. The volunteer works with the education programme manager and project leaders and gains practical experience…",
-   "detail": false,
-   "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
-   "notified_at": null,
-   "reminded": false,
-   "score": {
-    "total": 0,
-    "chance": 0,
-    "fit": 0,
-    "label": "Uyğun deyil",
-    "eligible": false,
-    "factors": [
-     {
-      "k": "gate",
-      "d": 0,
-      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
    "id": "106256e4873b",
    "source": "finderasmus",
    "url": "https://finderasmus.eu/projects/volunteering-with-elderly-people-in-bischwiller",
@@ -29041,6 +32684,933 @@
    "description": "A study visit in Tbilisi for 18 youth workers from six countries on the link between young people's mental health and vulnerability to radicalisation. Participants learn practical tools for stress, trauma and emotional…",
    "detail": false,
    "first_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "a2a645f7b3e7",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/anti-discrimination-arts-crafts-opole",
+   "title": "Anti-Discrimination Work Through Arts & Crafts",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Poland",
+   "city": "Opole",
+   "start_date": "2026-12-04",
+   "end_date": "2026-12-10",
+   "duration_days": 7,
+   "deadline": null,
+   "eligible_countries": [
+    "Lithuania"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Arts & Creativity",
+    "Inclusion & Diversity",
+    "Human Rights & Peace"
+   ],
+   "description": "A youth exchange in Opole that uses arts and crafts to explore stereotypes, prejudice and discrimination in everyday life. Participants join collage, upcycling and peer-led craft workshops, a photo walk and study…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "3bfd03a48a58",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/inclusive-methods-non-formal-education-opole",
+   "title": "Inclusive Methods in Non-Formal Education",
+   "type": "training_course",
+   "type_label": "Training Course",
+   "host_country": "Poland",
+   "city": "Opole",
+   "start_date": "2026-12-11",
+   "end_date": "2026-12-17",
+   "duration_days": 7,
+   "deadline": null,
+   "eligible_countries": [
+    "Lithuania"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Inclusion & Diversity",
+    "Youth Work & Learning"
+   ],
+   "description": "A training course in Opole for youth workers, educators and volunteers, especially beginners, who want to make learning spaces more inclusive. Participants try simulations, inclusive games, art-based tools and Open…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "3301a97b863f",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/podcasts-and-media-volunteering-at-42-foundation-in-sofia",
+   "title": "Podcasts and Media Volunteering at 42 Foundation in Sofia",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Bulgaria",
+   "city": "Sofia",
+   "start_date": "2026-12-15",
+   "end_date": "2028-02-29",
+   "duration_days": 442,
+   "deadline": null,
+   "eligible_countries": [
+    "Belgium",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Estonia",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Ukraine"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Foundation Forty Two",
+   "topics": [
+    "Digital & Media",
+    "Democracy & Citizenship",
+    "Communication & Storytelling"
+   ],
+   "description": "European Solidarity Corps volunteering with the Forty Two Foundation in Sofia, which produces podcasts and media content encouraging young people to be active citizens. Volunteers help create video and audio content and support the team at events. Accommodation, pocket money, food and local…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "5f5e2102232c",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/dragonfly-day-centre-fewer-opportunities-modigliana",
+   "title": "Dragonfly Day Centre – Short Volunteering for Fewer Opportunities",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Italy",
+   "city": "Modigliana",
+   "start_date": "2027-01-01",
+   "end_date": "2027-03-31",
+   "duration_days": 90,
+   "deadline": null,
+   "eligible_countries": [
+    "Finland",
+    "Latvia",
+    "Lithuania",
+    "Poland"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Arts & Creativity",
+    "Inclusion & Diversity",
+    "Health & Food"
+   ],
+   "description": "A two-week European Solidarity Corps volunteering in Modigliana for young people with fewer opportunities, who can come with an accompanying person. Volunteers join creative, cooking, drawing and sports activities with…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "dcee4f2df5fc",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/paint-your-path-murals-and-community-work-in-szeged",
+   "title": "Paint Your Path – Murals and Community Work in Szeged",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Hungary",
+   "city": "Szeged",
+   "start_date": "2027-01-04",
+   "end_date": "2027-02-28",
+   "duration_days": 56,
+   "deadline": null,
+   "eligible_countries": [
+    "Albania",
+    "Austria",
+    "Belgium",
+    "Croatia",
+    "Czechia",
+    "Estonia",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Iceland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Talentum Foundation",
+   "topics": [
+    "Arts & Creativity",
+    "Solidarity & Community"
+   ],
+   "description": "Two months of European Solidarity Corps volunteering in Szeged, painting murals and pictures in social and community spaces. Volunteers also give presentations in high schools and organise activities in elderly clubs and care homes. The project can be extended until the end of April 2027.",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "d9c13caa02f9",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/english-immersion-camp-3-0-in-siirt",
+   "title": "English Immersion Camp 3.0 in Siirt",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Türkiye",
+   "city": "Siirt",
+   "start_date": "2027-01-05",
+   "end_date": "2027-03-04",
+   "duration_days": 59,
+   "deadline": null,
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "CEDID Association",
+   "topics": [
+    "Youth Work & Learning",
+    "Culture & Heritage"
+   ],
+   "description": "Two months of European Solidarity Corps volunteering with the CEDID Association in Siirt, south-eastern Türkiye. Volunteers support English-language, cultural and educational activities, youth work and local community events, and can run activities based on their own ideas.",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "ef51824e6a40",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/activate-disability-support-malagon",
+   "title": "ACTIVATE – Volunteering Supporting People with Disabilities",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Spain",
+   "city": "Malagón (Ciudad Real)",
+   "start_date": "2027-01-11",
+   "end_date": "2027-07-31",
+   "duration_days": 202,
+   "deadline": null,
+   "eligible_countries": [
+    "Albania",
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": 3,
+   "organizer": null,
+   "topics": [
+    "Inclusion & Diversity",
+    "Solidarity & Community"
+   ],
+   "description": "An ESC volunteering placement for three volunteers with an organisation supporting people with disabilities in central Spain. Volunteers raise awareness of disability and support inclusive activities; good Spanish is required.",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "0bcdb40a69a9",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/volunteering-at-generation-for-change-cy-in-nicosia",
+   "title": "Volunteering at Generation for Change CY in Nicosia",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Cyprus",
+   "city": "Nicosia",
+   "start_date": "2027-01-11",
+   "end_date": "2028-07-31",
+   "duration_days": 568,
+   "deadline": null,
+   "eligible_countries": [
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Latvia",
+    "Liechtenstein",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Generation for Change CY",
+   "topics": [
+    "Inclusion & Diversity",
+    "Human Rights & Peace",
+    "Solidarity & Community"
+   ],
+   "description": "European Solidarity Corps volunteering with Generation for Change CY, a grassroots organisation supporting refugees, migrants and people in poverty in Nicosia. Volunteers support humanitarian aid, empowerment and intercultural activities and advocacy for social justice. A 400 EUR monthly allowance…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "66a20ba9dab9",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/project-management-fundraising-migrant-support-san-jose",
+   "title": "Project Management and Fundraising for Migrant Support in Costa Rica",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Costa Rica",
+   "city": "San José",
+   "start_date": "2027-01-11",
+   "end_date": "2027-11-22",
+   "duration_days": 316,
+   "deadline": null,
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Servicio Jesuita para Migrantes Costa Rica (via Fundación Alboan)",
+   "topics": [
+    "Inclusion & Diversity",
+    "Human Rights & Peace"
+   ],
+   "description": "European Solidarity Corps volunteering with the Jesuit Service for Migrants in San José, supporting project monitoring, evaluation and fundraising for programmes with migrant and refugee populations. The volunteer works alongside the core team with continuous guidance. Travel, visa, vaccines,…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "6a7e5f1a4bcc",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/socio-legal-support-migrants-refugees-san-jose",
+   "title": "Socio-Legal Support for Migrants and Refugees in Costa Rica",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Costa Rica",
+   "city": "San José",
+   "start_date": "2027-01-11",
+   "end_date": "2027-12-20",
+   "duration_days": 344,
+   "deadline": null,
+   "eligible_countries": [
+    "Austria",
+    "Portugal",
+    "Belgium",
+    "Bulgaria",
+    "Spain",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "North Macedonia",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Slovenia",
+    "Sweden",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": 18,
+   "age_max": 30,
+   "costs": {
+    "accommodation_food": "covered",
+    "travel": "reimbursed",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": "Servicio Jesuita para Migrantes Costa Rica (via Fundación Alboan)",
+   "topics": [
+    "Inclusion & Diversity",
+    "Human Rights & Peace"
+   ],
+   "description": "European Solidarity Corps volunteering with the Jesuit Service for Migrants in San José, supporting the team that helps migrants and refugees with international protection, regularisation and access to rights. The volunteer also prepares information materials and runs workshops, with supervision…",
+   "detail": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "2c116ab6f520",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/re-frame-changing-the-migration-story-valdemoro",
+   "title": "RE-FRAME: Changing the Migration Story",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Spain",
+   "city": "Valdemoro",
+   "start_date": "2027-01-25",
+   "end_date": "2027-02-02",
+   "duration_days": 9,
+   "deadline": null,
+   "eligible_countries": [
+    "Greece"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Arts & Creativity",
+    "Inclusion & Diversity",
+    "Human Rights & Peace"
+   ],
+   "description": "A youth exchange in Valdemoro (Madrid region) that uses audiovisual artivism and documentary filmmaking to amplify migrant voices, promote social inclusion and challenge stereotypes and hate speech. Accommodation and…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "5c27efc83741",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/breaking-barriers-building-futures-amasya",
+   "title": "Breaking Barriers, Building Futures",
+   "type": "youth_exchange",
+   "type_label": "Youth Exchange",
+   "host_country": "Turkey",
+   "city": "Amasya",
+   "start_date": "2027-01-31",
+   "end_date": "2027-02-08",
+   "duration_days": 9,
+   "deadline": null,
+   "eligible_countries": [
+    "Bulgaria",
+    "Germany",
+    "Italy",
+    "Romania",
+    "Türkiye"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Arts & Creativity",
+    "Inclusion & Diversity",
+    "Culture & Heritage"
+   ],
+   "description": "A youth exchange in Amasya on art and inclusion that brings together young people of different abilities and backgrounds. Participants work with art, rhythm, handicrafts and non-formal education to challenge…",
+   "detail": false,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "notified_at": null,
+   "reminded": false,
+   "score": {
+    "total": 0,
+    "chance": 0,
+    "fit": 0,
+    "label": "Uyğun deyil",
+    "eligible": false,
+    "factors": [
+     {
+      "k": "gate",
+      "d": 0,
+      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
+     }
+    ]
+   },
+   "status": "open"
+  },
+  {
+   "id": "ae18de20f2d5",
+   "source": "finderasmus",
+   "url": "https://finderasmus.eu/projects/teaching-assistant-chios-schools-september-2027",
+   "title": "Teaching Assistant in Chios Schools from September 2027",
+   "type": "esc_volunteering",
+   "type_label": "Volunteering",
+   "host_country": "Greece",
+   "city": "Vrontados (Chios)",
+   "start_date": "2027-09-01",
+   "end_date": "2028-06-30",
+   "duration_days": 304,
+   "deadline": null,
+   "eligible_countries": [
+    "Germany",
+    "Italy",
+    "Portugal",
+    "Spain"
+   ],
+   "eligible_note": null,
+   "az_eligible": "no",
+   "age_min": null,
+   "age_max": null,
+   "costs": {
+    "accommodation_food": "unknown",
+    "travel": "unknown",
+    "travel_limit_eur": null,
+    "fee_eur": null,
+    "fee_note": null
+   },
+   "spots_per_country": null,
+   "spots_total": null,
+   "organizer": null,
+   "topics": [
+    "Sport & Outdoor",
+    "Youth Work & Learning",
+    "Culture & Heritage"
+   ],
+   "description": "European Solidarity Corps volunteering in primary schools and kindergartens on Chios island for the 2027–2028 school year. Volunteers help teachers with educational, cultural, sports, environmental and new-technology…",
+   "detail": false,
+   "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "notified_at": null,
    "reminded": false,
