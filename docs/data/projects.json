@@ -3,7 +3,7 @@
   "home_country": "Azerbaijan",
   "ai_enabled": true,
   "profile_set": true,
-  "updated_at": "2026-11-24T19:11:10Z"
+  "updated_at": "2026-11-25T01:27:38Z"
  },
  "projects": [
   {
@@ -48,7 +48,7 @@
    "description": "A youth exchange in Siófok on Lake Balaton about digital literacy, online safety and emotional resilience. Through role-play, scenario-based learning and digital storytelling, participants learn to evaluate online content, protect personal data, manage their digital footprint and respond to…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-24",
    "reminded": false,
    "ai": {
@@ -220,7 +220,7 @@
    "description": "A four-day training course in Azerbaijan (venue to be confirmed) on intergenerational solidarity: how youth workers and other professionals can foster meaningful contact between people of different ages and counter ageism. Participation fee: costs are covered by the National Agencies involved,…",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-18",
    "reminded": false,
    "analysis": "ai",
@@ -378,9 +378,9 @@
    "description": "A European Solidarity Corps volunteering team with the Türkiye Taekwondo Federation at national-team training camps in Çanakkale and post-camp activities in Ankara. Volunteers help with training areas, equipment, logistics, athlete support and cultural exchange activities. Accommodation is…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-24",
-   "reminded": false,
+   "reminded": true,
    "ai": {
     "summary_az": "Türkiyənin Çanakkale şəhərində keçiriləcək bu ESC könüllülük layihəsi Türkiyə Taekvondo Federasiyasının təlim düşərgələrinə dəstək göstərmək məqsədi daşıyır. Könüllülər məşq sahələrinin hazırlanması, logistika, idmançılara dəstək və mədəni mübadilə fəaliyyətlərində iştirak edəcəklər. Yaşayış və qidalanma xərcləri qarşılanır, yol xərcləri isə kompensasiya olunur.",
     "documents": [
@@ -550,7 +550,7 @@
    "description": "A beginner training course in Bergen showing how volunteering in the European Solidarity Corps can include young people from disadvantaged backgrounds. Participants explore funding and inclusion support and learn to design a volunteering project step by step. Participation fee: costs are covered…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-15",
    "reminded": false,
    "analysis": "ai",
@@ -723,7 +723,7 @@
    "description": "A training course in Antwerp on social sport, using football to build community and develop competences. Participants explore Freirean pedagogy on the pitch, learn to develop social-emotional skills in young people and in themselves, and share practice with peers from across Europe and…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-15",
    "reminded": false,
    "analysis": "ai",
@@ -885,7 +885,7 @@
    "description": "A training course in Guriezo, Cantabria, for 22 youth workers, leaders and activists on conflict transformation and emotional literacy for building resilient, inclusive communities. Participants learn to read conflict as a message rather than only a problem to solve. Accommodation and food are…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-21",
    "reminded": false,
    "ai": {
@@ -1055,7 +1055,7 @@
    "description": "A 30-day team project for ten volunteers who receive training on disaster preparedness and climate change and run awareness activities in the community. Accommodation, meals, travel, insurance and pocket money are covered by the European Solidarity Corps.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-18",
    "reminded": false,
    "ai": {
@@ -1236,7 +1236,7 @@
    "description": "A training course and partnership building activity for youth workers who want to get involved in Erasmus+ youth worker mobility projects (KA153). Participants learn to design better-quality projects and meet potential partners.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": "2026-11-15",
    "reminded": true,
    "analysis": "ai",
@@ -1359,7 +1359,7 @@
    "description": "The Young European Ambassadors (YEAs) invite youth organisations from EU Member States and Eastern Partnership countries to an online Partnership Building Activity on Thursday, 3 December 2026, betw…",
    "detail": false,
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -1527,7 +1527,7 @@
    "description": "One year of European Solidarity Corps volunteering with the Aktions- und Zirkusbüro, which runs circus pedagogy, parkour and play spaces in a Karlsruhe city park. Volunteers help prepare educational activities, festivals and events for children and young people with and without special needs. They…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -1705,7 +1705,7 @@
    "description": "One year of European Solidarity Corps volunteering at a bilingual, inclusive day care centre for 90 children aged 1–6 in Karlsruhe. Volunteers support educators with role play, sport and arts, join excursions and can run their own small project with the children. They live in a shared house with…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -1882,7 +1882,7 @@
    "description": "One year of European Solidarity Corps volunteering at the Specht open youth centre in Ettlingen, near Karlsruhe. Volunteers welcome and spend time with children and young people, help with games, learning and leisure activities and can bring their own ideas. Accommodation is a private room in a…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -2059,7 +2059,7 @@
    "description": "One year of European Solidarity Corps volunteering at Kita Campulino, an inclusive day care centre for 115 children aged 1–6 in Philippsburg near Karlsruhe. Volunteers support educators in a group of 3–6 year olds with play, creative and outdoor activities. Accommodation is a private room in a…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -2219,7 +2219,7 @@
    "description": "A one-year placement at two neighbourhood community centres in the Lend district of Graz that offer counselling, community-building and inclusive activities for all residents. Note: applications are accepted only through the external link given on the European Youth Portal page.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -2392,7 +2392,7 @@
    "description": "A one-year placement at Zō, a multidisciplinary contemporary-culture centre in Catania that produces theatre, dance, concerts, cinema, festivals and workshops. The volunteer supports cultural programming, education and social-innovation activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -2560,7 +2560,7 @@
    "description": "A six-month ESC volunteering placement with a youth association in central Türkiye. Volunteers help with workshops, language clubs, sports events and awareness campaigns, and create social media and video content.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -2731,7 +2731,7 @@
    "description": "A training course near Tortosa, in rural Catalonia, for future leaders of youth exchanges who want to put sustainability and nature at the heart of their projects. Participants share good practices and build the skills to lead a youth exchange with a strong green focus.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -2888,7 +2888,7 @@
    "description": "A volunteering placement with Art Center Karnolsky between Kardzhali and Sofia focused on community engagement, intercultural learning and solidarity. The project puts a strong emphasis on including young people with fewer opportunities and on green travel.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -3047,7 +3047,7 @@
    "description": "Volunteering at Sunnahof, a biodynamic farm and social organisation in Götzis where people with and without disabilities live and work together. Volunteers gain experience working with people with intellectual disabilities on the farm and in daily life. Apply by email to esc-application@aha.or.at…",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -3215,7 +3215,7 @@
    "description": "A three-month placement at a rehabilitation centre for people with disabilities. The volunteer organises socio-cultural activities for patients, such as culture presentations, English conversation sessions and cooking or board-game workshops.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -3386,7 +3386,7 @@
    "description": "A study visit in Cairo for 10 youth workers exploring movement, music and cultural heritage as tools for intercultural dialogue, with visits to cultural spaces and instrument makers. Participation fee: €150, covering six nights of shared accommodation, meals and the programme. Travel is not…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -3576,7 +3576,7 @@
    "description": "A six-month ESC volunteering project in Larnaca using sport, outdoor activities and environmental education for community engagement. Volunteers organise inclusive activities and support people with disabilities and young people with fewer opportunities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -3686,7 +3686,7 @@
    "description": "With the support of the EU and the International Renaissance Foundation, the Ukrainian Institute and EdEra (Ukrainian online education studio) have developed an online course on, ‘Ukrainian Culture…",
    "detail": false,
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -3837,7 +3837,7 @@
    "description": "A six-month European Solidarity Corps volunteering project in Kozani, Greece, for six volunteers aged 18–30. Volunteers support climate education, clean energy and recycling activities, digital storytelling and social inclusion. Accommodation, a food allowance and travel support are provided.",
    "detail": true,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -3970,7 +3970,7 @@
    "description": "Facing major changes, most of the traditional media organisations have started deep changes in the way of doing journalism, of interacting with their audience, in the method of producing and broadca…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -4113,7 +4113,7 @@
    "description": "An ESC volunteering placement for three volunteers at a castle-based European youth forum in Styria. Volunteers help organise international events on European identity, diversity and migration.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -4228,7 +4228,7 @@
    "description": "Applications are now open for the Asia House Fellowship 2027/2028, an exciting opportunity for early-career professionals and researchers interested in international affairs, geopolitics, economics, trade, technology, and policy developments across Asia and the Middle East. Organised by Asia…",
    "detail": false,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -4339,7 +4339,7 @@
    "description": "The Johan Huizinga Fellowship 2027–2028 at the Rijksmuseum in Amsterdam, Netherlands, is an excellent opportunity for early-career scholars, MA graduates, PhD students, and postdoctoral researchers interested in conducting advanced historical research into objects held in the Rijksmuseum…",
    "detail": false,
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -4508,7 +4508,7 @@
    "description": "Twelve months at a renowned theatre laboratory in Holstebro for two volunteers. You support performances, workshops, festivals and co-creation projects with refugees, seniors, migrants and LGBTQIA+ groups, help with production and communication, and can develop your own project.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -4629,7 +4629,7 @@
    "description": "The Eastern Partnership Civil Society Facility has launched a call for applications for its 2027 Civil Society Fellowship Programme. The programme is open to civil society activists from Armenia, Az…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -4847,7 +4847,7 @@
    "description": "The American Chemical Society (ACS) is inviting applications for its 2027 Public Policy Fellowships and WISE Summer Internship Program, offering scientists, engineers, graduate degree holders, and undergraduate students opportunities to contribute their scientific knowledge to public policy and…",
    "detail": false,
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -4975,7 +4975,7 @@
    "description": "A six-month ESC volunteering placement with a social cooperative near Genoa. Volunteers support a nursery for children aged 0-3 and a community house for women and the LGBTQI+ community.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -5032,7 +5032,7 @@
    "description": "A training course in Pervolia, near Larnaca, for youth workers who want to tackle plastic pollution with young people. Through workshops, simulations, exchange of good practice and digital content creation,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -5237,7 +5237,7 @@
    "description": "A two-module training course for youth workers on body-based and theatre methods for youth mental health, with local practice and online supervision between modules. Attendance at both modules is required: 28 February - 7 March and 18-25 April 2027.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -5481,7 +5481,7 @@
    "description": "An ESC team volunteering project in rural northern Germany combining practical outdoor work, community life and leadership training. Volunteers aged 18-30 maintain the landscape, work with wood and take part in leadership workshops.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -5618,7 +5618,7 @@
    "description": "A long-term ESC volunteering project in Bucharest for four young people who are not in employment, education or training. Volunteers plan and run monthly awareness campaigns on discrimination, youth opportunities and active citizenship.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -5746,7 +5746,7 @@
    "description": "An 8-week ESC volunteering placement in Ankara using sport as a tool for a healthy and inclusive life. Volunteers take part in planned activities that match their interests and help raise awareness in the local community.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -5832,7 +5832,7 @@
    "description": "An ESC Humanitarian Aid volunteering placement supporting a school in a market area of Quito. Volunteers provide classroom and tutoring support and help run skills workshops; completion of the Humanitarian Aid training is required.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -5914,7 +5914,7 @@
    "description": "An ESC volunteering placement at a women's centre in Thessaloniki supporting refugee, migrant and local women. Volunteers facilitate creative and recreational activities; as it is a safe space for women, only female applicants are accepted.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6001,7 +6001,7 @@
    "description": "An ESC team volunteering project for young people aged 18-30 spending Christmas in a small rural village in Southern Italy. Volunteers plant agroforestry lines, prepare planting areas, compost and create biodiversity habitats, and help build a traditional nativity scene with the local community.…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6058,7 +6058,7 @@
    "description": "A youth exchange in Eskişehir on sport as a safe place where young people can learn, grow and belong, with participants from Türkiye, Ukraine, Belgium, Spain and Romania. Participants work on trauma-informed…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6141,7 +6141,7 @@
    "description": "Volunteering in Panciu, eastern Romania, at a day centre for disadvantaged children aged 3–16, many from the Roma community. Volunteers lead crafts with recycled materials, sports, cinema, theatre and music sessions, organise celebrations and help with photos, videos and social media.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6200,7 +6200,7 @@
    "description": "An ESC team volunteering project for young people aged 18-30 with a local branch of the Portuguese Red Cross in a rural community. After training, volunteers run disaster-preparedness workshops for children and help…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6283,7 +6283,7 @@
    "description": "Volunteering at Askov, a Danish folk high school and boarding school in Vejen, from January to June 2027. Full details of the role and the application process are on the school's own website, linked from the portal page.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6361,7 +6361,7 @@
    "description": "A year at Gimle in Roskilde, a music venue and youth culture café run by volunteers. You help run the café and events – from bartending to catering for bands – and can organise your own concerts and activities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6444,7 +6444,7 @@
    "description": "Seven weeks of winter in a small Finnish municipality for two volunteers. You plan seasonal events with locals, work at the library and youth house, run activities for children and young people and can carry out your own ideas.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6506,7 +6506,7 @@
    "description": "A training course for youth workers interested in sustainability and game-based learning. Participants design, prototype and test educational games that engage young people in environmental issues.",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6591,7 +6591,7 @@
    "description": "Volunteering at a centre in Ostrava for older people with memory disorders. Volunteers spend time with residents one-to-one and in groups – reading, puzzles, conversation and simple activities – building trust with people who may face disorientation or mobility problems.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6676,7 +6676,7 @@
    "description": "Volunteering at a residential home for people aged 65+ in the village of Komorní Lhotka. Volunteers help residents with their daily routines and keep them company, supporting them to live with dignity and stay as independent as possible.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6759,7 +6759,7 @@
    "description": "Volunteering in Karviná at a centre offering day care, social activation and early care counselling for people with disabilities. Volunteers support users in daily activities and assist in therapy programmes such as equine therapy, canistherapy and ergotherapy.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6844,7 +6844,7 @@
    "description": "Volunteering at a centre in the village of Komorní Lhotka for adults with mental or combined disabilities. Volunteers help clients with tasks matched to their needs and join trips, swimming and other activities that bring joy and connection.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -6927,7 +6927,7 @@
    "description": "Volunteering in Nový Jičín with adults aged 25–70 with mental and multiple disabilities living in sheltered housing. Volunteers give personal support, share free time, go with clients to concerts and cafés, and help with cooking, shopping and everyday errands.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7011,7 +7011,7 @@
    "description": "A varied placement based in Český Těšín: three days a week you visit different social services – workshops, children's clubs, sheltered housing, day centres and schools – and two days you volunteer long-term at one centre. Tasks can include photos, videos and social media.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7095,7 +7095,7 @@
    "description": "Volunteering at a Slezská diakonie kindergarten and school in Bohumín for children and young adults with disabilities. Volunteers support pupils in morning circles, practical tasks, movement, relaxation, music and art therapy and assist the teachers.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7180,7 +7180,7 @@
    "description": "Volunteering at a day centre in Ostrava for adults with mental, physical and combined disabilities. Volunteers work directly with users in group and individual activities that help them stay as independent and self-sufficient as possible.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7265,7 +7265,7 @@
    "description": "Volunteering at a Slezská diakonie school in Český Těšín for students with mental and physical disabilities. Volunteers learn positioning and relaxation techniques, help during meals and performances, and take part in music therapy with drums, guitars and other instruments.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7350,7 +7350,7 @@
    "description": "Volunteering at a Slezská diakonie school in Ostrava for children and young adults with mental and physical disabilities. Volunteers give personal support in morning circles, practical exercises, physical activities, music and art therapy and snoezelen sessions.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7435,7 +7435,7 @@
    "description": "Volunteering in Bohumín with children and young people up to 26 with mental, physical and combined disabilities, including autism. Volunteers work directly with users in development, leisure and educational activities tailored to each person's needs.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7520,7 +7520,7 @@
    "description": "Volunteering at a centre in Třinec for adults who have gone through psychiatric treatment. Volunteers take part in daily activities and morning meetings with clients, helping them live independently and challenging stigma around mental illness.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7605,7 +7605,7 @@
    "description": "Volunteering at a centre in Český Těšín that helps adults with mental and combined disabilities build work and social skills. Volunteers join workshops in knitting, sewing, ceramics and woodwork, and accompany clients to sports, cultural events and trips.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7691,7 +7691,7 @@
    "description": "Long-term volunteering at a socio-therapeutic workshop in Krnov where adults with mental and multiple disabilities build work habits and independence. Volunteers support ceramics, candle- and soap-making and textile sessions, and join gardening, cooking and relaxation activities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7776,7 +7776,7 @@
    "description": "An ESC volunteering placement at a kindergarten, primary and secondary school for children with special educational needs. Volunteers aged 18-30 assist with creative activities and everyday school life.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7832,7 +7832,7 @@
    "description": "A youth exchange in Madrid about discovering European history and cultural heritage. This call is for participants from Italy (contact: europeancampus@hotmail.it).",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7914,7 +7914,7 @@
    "description": "Six months in Genoa's historic centre with young people aged 6–18, most of them from migrant families. Volunteers help with after-school support and Italian language, share meals at the canteen and join educational and leisure activities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -7994,7 +7994,7 @@
    "description": "Six months in Genoa with a social cooperative running residential centres for young girls and for mothers with children. Volunteers support staff in preparing activities and help residents on their path to independence.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8079,7 +8079,7 @@
    "description": "An ESC humanitarian aid volunteering team of 15 young people aged 18-35 helping to create a youth vocational education centre in Namayumba, Uganda. Volunteers assist local builders, set up a greenhouse and vegetable garden, learn rainwater collection and engage children at a local primary school.…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8186,7 +8186,7 @@
    "description": "Three weeks with a local youth association in the Hungarian village of Nagyvázsony before Christmas. Volunteers build benches for the village, cook for community events, prepare games and gifts for children and help…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8247,7 +8247,7 @@
    "description": "A training course in Kaunas for youth workers who want to use video in their work. Participants learn filming, editing and storytelling and use digital media to explore social issues, encourage active citizenship and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8330,7 +8330,7 @@
    "description": "A short-term ESC volunteering placement at a youth organisation near The Hague. Volunteers help prepare games and after-school programmes together with Dutch and international volunteers.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8537,7 +8537,7 @@
    "description": "An ESC team volunteering project in an international community in the French countryside, for young people aged 18-30. Volunteers learn basic woodworking by making wooden shutters, work in a permaculture garden,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8593,7 +8593,7 @@
    "description": "A training course by the sea in Kiato, Greece, for youth workers and youth leaders who want to address gender topics with more confidence. Participants explore how gender inequality is created and maintained, practise…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8707,7 +8707,7 @@
    "description": "An experiential training in Rome on building projects through real cooperation between young people, youth workers and organisations, so that youth participation becomes shared responsibility. It is a networking…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -8765,7 +8765,7 @@
    "description": "A training course in Alviano Scalo, Umbria, for youth workers who want to look after their own wellbeing and prevent burnout. Participants share good practices, reflect on the challenges of youth work in rural areas…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9034,7 +9034,7 @@
    "description": "A two-month placement (1 December 2026 – 28 January 2027) for four volunteers who design, film or edit. Volunteers create content for EVEC Athens, which teaches young people to grow microgreens and eat better.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9090,7 +9090,7 @@
    "description": "A youth exchange in Sicily about sustainable farming and traditional agriculture, built around tomato growing. Young people from Italy, Greece, Spain, France and Portugal meet local experts, work hands-on and develop…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9187,7 +9187,7 @@
    "description": "A practical training course in Cairo for youth workers on using games to help young people participate, take initiative and turn ideas into community action. It combines game-based learning, inclusive facilitation and social entrepreneurship. Participation fee: 150 EUR covers accommodation, meals…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -9298,7 +9298,7 @@
    "description": "A long-term ESC volunteering project with a local development association in rural Alentejo. Volunteers support Mediterranean forest conservation and community activities that promote sustainability and quality of life.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9368,7 +9368,7 @@
    "description": "A year in Rosà, north-east Italy, with an organisation supporting young people and others facing difficulties. Volunteers act as the team's reporter – photos, videos, texts, website, social media and web radio – and promote EU opportunities for young people.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9427,7 +9427,7 @@
    "description": "A six-day training in Bilbao/Getxo on citizen journalism and storytelling for people working in youth work, education and civil society. Places are awarded through an online competition, and selected participants…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9520,7 +9520,7 @@
    "description": "A two-month team volunteering project in Sofia promoting human rights, diversity and inclusion. Volunteers prepare and run workshops in schools, create educational materials and social media content on discrimination and hate speech, and take part in public campaigns.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9605,7 +9605,7 @@
    "description": "Three weeks in Satriano di Lucania helping prepare one of southern Italy's oldest carnivals, where people dressed in ivy become 'walking bushes'. Volunteers make traditional costumes, document the preparations in photos and video, and support the green side of the festival. Be ready for a small…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9663,7 +9663,7 @@
    "description": "A hands-on training near Bremen for practitioners who want to run social and emotional learning with a card-based method. Participants practise facilitating the deck themselves and prepare to use it with young people…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9861,7 +9861,7 @@
    "description": "A placement at Vita da cani's 40,000 m² animal park in Magnago, home to more than 200 rescued animals, mostly farm animals. Volunteers care for the animals and help raise awareness about their protection.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -9946,7 +9946,7 @@
    "description": "A placement with Diapason Cooperative supporting a shelter for about ten young people aged 8–18 who have been removed from their families, plus community centres for minors. Accommodation, meals, travel, insurance and pocket money are covered by the European Solidarity Corps.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10031,7 +10031,7 @@
    "description": "A placement with Diapason Cooperative split between a centre for people with disabilities (three days a week) and educational centres for children and teenagers (two days a week). Accommodation, meals, travel, insurance and pocket money are covered by the European Solidarity Corps.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10115,7 +10115,7 @@
    "description": "A placement at a Milan youth centre for 8- to 18-year-olds, many with a multicultural background. Volunteers help with after-school activities, games and educational support alongside educators.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10222,7 +10222,7 @@
    "description": "A year-long ESC volunteering placement with a music organisation in Weimar that runs international youth exchanges for musicians. The volunteer supports project planning, grant writing and participant support.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "ai",
@@ -10464,7 +10464,7 @@
    "description": "A one-year placement in Floriana supporting a campaign on food systems, biodiversity, policy advocacy and community action. The volunteer helps with research, events and outreach for the right to safe and nutritious food.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -10643,7 +10643,7 @@
    "description": "Eight months in Athens for two volunteers with an NGO promoting intercultural dialogue and non-formal education. Volunteers support local organisations such as a social kitchen and a multicultural library, run workshops and create online awareness campaigns.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10708,7 +10708,7 @@
    "description": "A training course in Warsaw for youth workers who support young refugees, displaced youth and mixed groups. Participants explore trauma-sensitive youth work, intercultural dialogue and creative non-formal methods, then…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10791,7 +10791,7 @@
    "description": "Almost a year with a fair-trade NGO in Pamplona that raises awareness of global inequality. Volunteers help with awareness activities, the fair-trade shop and fair stalls, social media and the website, and carry out a personal project of their own.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10847,7 +10847,7 @@
    "description": "A training of trainers in Brașov for 32 youth workers from eight countries on gender equality and inclusion. Participants practise Theatre of the Oppressed, Living Library and digital counter-narratives, and learn the…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10923,7 +10923,7 @@
    "description": "An ESC volunteering placement in Sicily supporting educators in a shelter for boys aged 14-18 on a path to social inclusion. Volunteers help with homework, language lessons and educational workshops; experience in social work is an advantage.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -10979,7 +10979,7 @@
    "description": "A youth exchange in Hagen on critical media literacy, misinformation, AI-generated content and safe behaviour online. Participants practise evaluating information, protecting their privacy and becoming responsible…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11067,7 +11067,7 @@
    "description": "A six-month placement in a kindergarten for children aged 2–6. Volunteers support teachers, play with children and bring non-formal and intercultural activities into daily kindergarten life.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11154,7 +11154,7 @@
    "description": "A six-month placement at the library and Multicentrum in Kwidzyn. Volunteers help with daily library work and organise events and activities for local residents; independence and initiative are expected.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11240,7 +11240,7 @@
    "description": "A six-month placement supporting teachers and staff working with children and young people with intellectual disabilities, autism and multiple disabilities. Tasks include help in class, daily routines and creative activities and games.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11308,7 +11308,7 @@
    "description": "An eight-month placement with the Red Cross delegation in Cucujães. Volunteers support the food bank, activities in an elderly nursing home and other community work with vulnerable people.",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11391,7 +11391,7 @@
    "description": "A year-long ESC volunteering placement with a social organisation in Rochefort that runs a shelter, a food bank and a second-hand shop. Volunteers support people whose basic needs are not met.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11476,7 +11476,7 @@
    "description": "A year-long ESC volunteering placement for two volunteers at a homework club and youth centre in southern Belgium. Volunteers support children and young people in learning, culture and active citizenship.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11557,7 +11557,7 @@
    "description": "A placement at the Lužánky leisure centre in Brno, assisting mainly in hobby clubs for children at the Labyrint workplace. Clubs include theatre, sports, art and activities for pre-schoolers, and tasks are matched to the volunteer's skills and interests.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11637,7 +11637,7 @@
    "description": "A nine-month ESC placement for two volunteers with the youth network Zagor in Zabok, Croatia. One volunteer writes for the online magazine, runs workshops in high schools and organises intercultural events; the other works on photography, video and the podcast. Each volunteer has a private…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11816,7 +11816,7 @@
    "description": "A training course in the Polish mountain village of Korbielów for youth workers, facilitators and beginner trainers aged 20 and over. Participants challenge common myths about learning, explore group dynamics and learning spaces, and practise running classic training activities with feedback from…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11872,7 +11872,7 @@
    "description": "A theatre youth exchange hosted by a Norwegian youth theatre with partners from Sweden and Latvia. Participants work with dance, theatre and acrobatics and perform together for a public audience. This call is for…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -11928,7 +11928,7 @@
    "description": "A youth exchange in Tbilisi for 24 young people and six group leaders from Greece, Portugal, Croatia, Ukraine, Georgia and Armenia. Participants work on misinformation, fact-checking, responsible use of AI and digital…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12012,7 +12012,7 @@
    "description": "A placement for two volunteers working either in youth centres (non-formal activities, promoting EU mobility) or in educational services such as after-school centres. Accommodation, meals, travel, insurance and pocket money are covered by the European Solidarity Corps.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12069,7 +12069,7 @@
    "description": "A youth exchange in Dortmund about what inclusion means in everyday life, using the social model of disability to recognise and challenge barriers. Participants work on empathy, emotional awareness, inclusive…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12158,7 +12158,7 @@
    "description": "A two-week team project (9–22 December 2026) with SOPRO, an NGO supporting hundreds of families in need. Volunteers help with supermarket food collections, sorting donations, preparing and delivering Christmas baskets and visiting elderly people.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12175,7 +12175,7 @@
      }
     ]
    },
-   "status": "open"
+   "status": "expired"
   },
   {
    "id": "90e84a114b70",
@@ -12242,7 +12242,7 @@
    "description": "A placement in Mechelen with AFS Low Lands, promoting intercultural understanding and global competences. The volunteer co-designs and runs intercultural workshops for schools and organisations and supports AFS exchange programmes.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12259,7 +12259,7 @@
      }
     ]
    },
-   "status": "open"
+   "status": "expired"
   },
   {
    "id": "f21a8fe75bfd",
@@ -12299,7 +12299,7 @@
    "description": "A training course in Demänovská dolina near Liptovský Mikuláš on burnout prevention and mental health in youth work. The programme uses practical workshops, mindfulness and relaxation techniques, outdoor activities and…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12316,7 +12316,7 @@
      }
     ]
    },
-   "status": "open"
+   "status": "expired"
   },
   {
    "id": "d3d23369c951",
@@ -12382,7 +12382,7 @@
    "description": "A year-long ESC volunteering placement in Dortmund with an organisation supporting people with migration backgrounds. Volunteers help with youth groups, family activities, holiday camps and workshops.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12438,7 +12438,7 @@
    "description": "A youth exchange in a Portuguese mountain village for young people not in education, employment or training. Participants discover their potential, build an entrepreneurial mindset and learn the basics of budgeting and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12497,7 +12497,7 @@
    "description": "A practical training course in Haapsalu for youth workers who want new creative facilitation tools. Participants try LEGO Serious Play, design thinking, graphic facilitation and intercultural learning methods, then…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12557,7 +12557,7 @@
    "description": "A youth exchange in northern Portugal that combines trekking in Montesinho Natural Park with intercultural dialogue and traditional mask workshops during the Vinhais carnival. Participants join the local devils parade…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12628,7 +12628,7 @@
    "description": "An introductory training course in Poznań for young people who have already taken part in an Erasmus+ Youth or European Solidarity Corps project. Participants learn about the EuroPeers network, build communication and facilitation skills and learn to run their own activities that share European…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12713,7 +12713,7 @@
    "description": "A six-month placement supporting the Youth Information Centre, social media, local and international projects and the activities of the local youth centre. Accommodation, meals, travel, insurance and pocket money are covered by the European Solidarity Corps.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12796,7 +12796,7 @@
    "description": "A placement for two volunteers in the seaside town of Raahe, Finland. Volunteers work with local youth to create activities, take part in youth work and use multimedia to increase young people's involvement.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12851,7 +12851,7 @@
    "description": "A youth exchange in Nyíregyháza on learning skills and personal development. Young participants aged 18–24 and a group leader aged 21–30 explore how they learn and how to keep developing. This application form is for…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12918,7 +12918,7 @@
    "description": "Becoming a EuroPeer – International Introductory Training Course for young people who have taken part in European Solidarity Corps or Erasmus+ Youth projects and want to share their European experiences with their peers.",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -12980,7 +12980,7 @@
    "description": "A youth exchange in Osterholz-Scharmbeck that uses community theatre to explore identity, belonging, prejudice and inclusion. Participants work with improvisation, storytelling, role-play and movement, and together…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13065,7 +13065,7 @@
    "description": "A placement at Vitadacani's dog shelter near Milan. Volunteers feed, walk and clean the dogs and help the organisation promote animal protection.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13147,7 +13147,7 @@
    "description": "A placement for one volunteer at a sport- and health-oriented kindergarten in Brandenburg an der Havel. The volunteer supports educators in daily activities built around movement, sport and a healthy lifestyle.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13211,7 +13211,7 @@
    "description": "Six-day training in Bergen aan Zee, the Netherlands, for young people who have experienced non-formal education as participants and are ready to take their first steps as group leaders, facilitators or trainers.",
    "detail": false,
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13276,7 +13276,7 @@
    "description": "A 14-day ESC team volunteering project for 12 young people aged 18-30 focused on sustainability and biodiversity. Volunteers restore habitats, maintain ponds, control invasive plants, plant trees and run awareness…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13361,7 +13361,7 @@
    "description": "A five- to six-month placement at an independent youth training centre near Cologne and Bonn with 100 beds, a high-ropes course and a climbing wall. The volunteer supports seminars on social, political and personal development and the life of the house; this call is for a female volunteer.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13443,7 +13443,7 @@
    "description": "A five-week team project for up to 15 international volunteers at the European Youth Education Centre Magdeburg. Volunteers get to know and support all areas of the centre's work, from the kitchen and hospitality to reception and educational activities in a multi-generational house.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13526,7 +13526,7 @@
    "description": "A two-week volunteering team in the eastern suburbs of Naples with Noi@Europe. Volunteers join environmental clean-ups, handcraft workshops, social events and activities with local associations, learning how grassroots events are organised. Food (three meals a day) and accommodation are provided…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13610,7 +13610,7 @@
    "description": "Five months of European Solidarity Corps volunteering at Ostello Monte Barro in a nature park near Lecco. Two volunteers help run the hostel, upcycle materials, inform guests about hiking and the area, and run environmental education workshops for primary school pupils. They share a double room in…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13695,7 +13695,7 @@
    "description": "One-year European Solidarity Corps volunteering at Lebenshilfe Aurich-Wittmund's sheltered workshop in Aurich, which supports over 200 people with disabilities in vocational training and work. Volunteers assist the professional staff with individual support and occupational activities and live…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13782,7 +13782,7 @@
    "description": "A three-week team volunteering project in Poznań where six volunteers run creative intercultural workshops for children and adults inspired by their own traditions. The project ends with a community gathering for local people to exchange cultures and build connections.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13838,7 +13838,7 @@
    "description": "A training course in Monemvasia, Greece, that helps youth workers recognise work-related stress and early signs of burnout. Participants share experiences, build practical self-care and workload strategies and design…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13917,7 +13917,7 @@
    "description": "A placement at the Farfalle nella Testa butterfly house in Bordano. The volunteer supports communication: photographing animals and plants, editing videos, publishing content and maintaining the photo archive.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -13974,7 +13974,7 @@
    "description": "A youth exchange near Ravenna about young people with migrant backgrounds who still feel invisible or left out in their communities. Through dialogue, storytelling, intercultural communication and community action,…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14031,7 +14031,7 @@
    "description": "A training course in Berlin organised by KulturNetz e.V. for youth workers, trainers, youth leaders and active volunteers, bringing together 34 participants from 11 countries. Participants gain practical tools for…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14086,7 +14086,7 @@
    "description": "A youth exchange in Szczecin about how we use water and how to conserve it. Participants test water-saving ideas in workshops on rainwater harvesting, greywater reuse and water footprints, take part in an eco-hackathon…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14147,7 +14147,7 @@
    "description": "A training course at the AntoniQ training centre in Mühlhausen on visual thinking and graphic facilitation for youth workers, educators and trainers. Participants learn to make communication and learning more creative…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14237,7 +14237,7 @@
    "description": "An ESC team volunteering project in Bucharest for young people aged 18-30, supporting young Ukrainian refugees. Volunteers run non-formal education, mentoring and community activities focused on social inclusion, language barriers and employability. Design, writing, digital or research skills are…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14323,7 +14323,7 @@
    "description": "An 8-week ESC volunteering placement in Gaziantep. Volunteers support educational activities with local students or work in a media centre on video, photography and digital storytelling.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14409,7 +14409,7 @@
    "description": "An 8-week ESC volunteering placement with an education and solidarity foundation in Gaziantep. Volunteers support activities with students, media work and humanitarian aid distribution.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14495,7 +14495,7 @@
    "description": "Two months in northern Slovakia for six short-term volunteers with a Catholic youth NGO. Volunteers help maintain the youth centre, work at camps and community centres and prepare and lead activities for young people.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14580,7 +14580,7 @@
    "description": "A placement at the Anne Frank House in Amsterdam assisting the Anne Frank Youth Network and the 'Stories that Move' programme with educational activities. Applications with CV and motivation letter must be sent both via the portal and to esc@annefrank.nl.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14665,7 +14665,7 @@
    "description": "A one-year placement for two volunteers in Gdynia's neighbourhood centres, where residents meet, share hobbies and create initiatives together. Volunteers help run activities and build intergenerational connections.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14750,7 +14750,7 @@
    "description": "A one-year placement at a hands-on science centre in Gdynia with interactive exhibitions and science shows. The volunteer helps run workshops and activities that make science fun for visitors of all ages.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14836,7 +14836,7 @@
    "description": "European Solidarity Corps volunteering with ADRA Serbia in Belgrade, supporting projects for homeless people, ethnic minorities and care leavers. The volunteer helps the project manager with communication, timelines and administration and joins awareness-raising activities. Accommodation is…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -14922,7 +14922,7 @@
    "description": "European Solidarity Corps volunteering with Merhamet Sandžak, a humanitarian organisation supporting vulnerable people and families in the Sandžak region of Serbia. The volunteer helps plan and run social inclusion activities, community outreach and educational activities. All costs, including a…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15008,7 +15008,7 @@
    "description": "European Solidarity Corps volunteering with Uganda Pioneers Association in Kampala, building digital skills among youth workers and local communities. The volunteer runs training on digital communication and marketing and shares creative tools with the team. Accommodation is a private room in a…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15093,7 +15093,7 @@
    "description": "European Solidarity Corps volunteering with Uganda Pioneers Association in a Kampala community school. The volunteer supports learners in class, helps plan co-curricular activities and introduces learner-centred teaching methods to the staff. Accommodation is a private room in a shared volunteer…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15179,7 +15179,7 @@
    "description": "European Solidarity Corps volunteering with ADRA in the Tserovani settlement near Mtskheta, training internally displaced young people and women in business planning, financial literacy and small enterprise. The aim is to help participants start and sustain their own ventures. Accommodation is a…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15266,7 +15266,7 @@
    "description": "European Solidarity Corps volunteering with Uganda Pioneers Association in Kampala, supporting the daily care of children with special needs. The volunteer helps children develop life skills and gives basic early childhood development lessons, challenging stigma around disability. Accommodation is…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15352,7 +15352,7 @@
    "description": "European Solidarity Corps volunteering with ADRA in the Tserovani settlement for internally displaced people near Mtskheta. The volunteer creates content, manages social media and supports fundraising for organisations working with displaced communities. Accommodation is a house in the settlement…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15438,7 +15438,7 @@
    "description": "European Solidarity Corps volunteering with Merhamet Sandžak in Novi Pazar, Serbia, supporting the organisation's visibility and public engagement. The volunteer creates content, manages social media and documents activities in photo and video. All costs, including a return flight, are covered.",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15518,7 +15518,7 @@
    "description": "Four months of European Solidarity Corps volunteering at the Butterfly House museum in Bordano, Friuli. The volunteer helps maintain the tropical greenhouses, care for insects and plants, and supports guided tours, educational workshops and events. Accommodation is a shared room in a house with a…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15597,7 +15597,7 @@
    "description": "A six-month placement at a nature reserve in Tuscany between Lucca, Pisa and Viareggio. Volunteers support bird monitoring, habitat conservation, wildlife care, environmental education and the biodiversity garden.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15660,7 +15660,7 @@
    "description": "A training course at Pinarella di Cervia on the Adriatic coast for youth workers who want to use digital tools in their work. Participants explore digital storytelling, gamification, virtual facilitation, online safety…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15746,7 +15746,7 @@
    "description": "Six months in northern Ghana, where farming communities face drought, erratic rain and flooding. Volunteers help with climate vulnerability assessments, practical adaptation measures and local training on energy saving and recycling.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15832,7 +15832,7 @@
    "description": "Six months in rural Upper East Ghana helping school children and community members learn French, a useful skill in a region bordering French-speaking Burkina Faso and Togo. A grassroots placement with a community development organisation.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -15918,7 +15918,7 @@
    "description": "Six months in Zugdidi, western Georgia, helping communities understand environmental risks and prepare for floods and extreme weather. Volunteers help organise workshops, awareness events and small community initiatives.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16004,7 +16004,7 @@
    "description": "Six months at community resource centres in Kisumu County, western Kenya, helping young people and vulnerable children gain digital skills for education and jobs. The centres also offer climate-smart agriculture and early childhood education.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16090,7 +16090,7 @@
    "description": "Six months with a rural community school in Uganda. Volunteers lead workshops for teachers on practical teaching methods, support subject teachers, organise extracurricular activities and help build up the school library.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16176,7 +16176,7 @@
    "description": "Six months in Zugdidi, Georgia, running youth programmes for children and young people aged 8–25, including at-risk youth. Volunteers raise awareness of domestic violence, facilitate workshops and help develop clubs and creative projects.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16263,7 +16263,7 @@
    "description": "Six months in northern Ghana helping women's groups use digital tools and build financial literacy. Volunteers train members, help groups keep financial records to access credit and support the monitoring of the project.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16349,7 +16349,7 @@
    "description": "Six months in Uganda training staff and partner organisations in digital skills, communication and social media marketing. Volunteers also manage and upgrade the organisation's online platforms.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16435,7 +16435,7 @@
    "description": "Six months in northern Ghana coordinating vocational training that helps young people find work or start their own business. Volunteers work with trainees, trainers and local training institutions and provide career guidance.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16521,7 +16521,7 @@
    "description": "Six months at a Kampala primary school for 100 children with physical disabilities such as cerebral palsy. Volunteers support teaching, sports, arts and vocational activities that help pupils become more independent.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16607,7 +16607,7 @@
    "description": "Six months in northern Ghana strengthening an NGO's digital presence and its community digital inclusion work. Volunteers manage social media, give basic IT support and run regular digital skills training for staff.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16693,7 +16693,7 @@
    "description": "Six months in rural Upper East Ghana with a grassroots community development organisation. Volunteers help school children and the wider community build computer skills and support the use of ICT in teaching and learning.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16787,7 +16787,7 @@
    "description": "A training course for sport educators and youth organisations that use sport as a tool for inclusion. It focuses on diversity in sport, gender equality and youth empowerment through non-formal education.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16869,7 +16869,7 @@
    "description": "Six months in Rzeszów for one volunteer specialising in photography. You support youth activities, workshops, school visits and local events and document the project in photos and videos. Dates are fixed: 11 January – 30 June 2027.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -16948,7 +16948,7 @@
    "description": "Six months at a small democratic school near Rzeszów, south-east Poland, for two international volunteers. You help with educational, creative, intercultural and organisational tasks in a family-like school community and gain hands-on experience working with children.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17036,7 +17036,7 @@
    "description": "A training and co-creation lab in Berlin for youth workers, educators and facilitators on strengthening girls' and young women's agency and responding to anti-feminist narratives from the manosphere. Participants develop practical approaches and tools for their work with young people.…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17119,7 +17119,7 @@
    "description": "A two-month team volunteering project in Krosno, south-east Poland, for six international volunteers. Volunteers take on creative, promotional and organisational tasks with the local art gallery BWA Krosno, and the project especially welcomes young people with little international experience.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17202,7 +17202,7 @@
    "description": "A two-month team project in Rzeszów for six international volunteers. The team supports youth activities, workshops, school visits and local events and helps with promotion and organisation. Dates are fixed: 27 January – 24 March 2027.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17258,7 +17258,7 @@
    "description": "A youth exchange in Wrocław on how blockchain can support digital democracy, the environment and social justice. The programme includes a hackathon, debates, digital voting simulations and a public event. This call is…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17346,7 +17346,7 @@
    "description": "A training course on shared governance and power dynamics in youth organisations. Participants learn from an organisation coordinated by its own employees and explore new ways of organising.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17412,7 +17412,7 @@
    "description": "A seven-day residential lab near San Sebastián for experienced youth workers who lead their organisations. Fifteen decision-makers from organisations with several years of Erasmus+ KA2 experience work on strategy and…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17470,7 +17470,7 @@
    "description": "An international week in Viljandi, Estonia, for students of youth work and young youth workers from Belgium (Flanders), Estonia, Finland and Hungary. Participants exchange ideas on the European dimension of youth work…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17531,7 +17531,7 @@
    "description": "A training course in Morga, in the Basque Country, for youth workers, volunteers and aspiring facilitators on turning educational activities into engaging and inclusive games. Through board games, group challenges and…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17587,7 +17587,7 @@
    "description": "Two months with KEAN in Athens on solidarity, social inclusion and environmental protection – from workshops and gardening to food distribution, activities with children and animal care. This call is open only to…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17644,7 +17644,7 @@
    "description": "A one-year placement with Rinascita Sociale – Salam House promoting social inclusion, intercultural dialogue and youth participation through community activities. Start in December 2026 or January 2027; this call is…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17699,7 +17699,7 @@
    "description": "A placement with the city of Cottbus to develop its partnership with the Slovak city of Košice, twinned since 1978. The volunteer builds networks in both cities, organises local events and researches links in history,…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17776,7 +17776,7 @@
    "description": "A ten-month placement for three volunteers at Tartu Youth Work Centre. Each volunteer has a home youth centre, leads at least one club based on their own interests and takes part in local youth work.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17854,7 +17854,7 @@
    "description": "Individual European Solidarity Corps volunteering in Korça, Albania's 'city of serenades', from January to March 2027 with the youth organisation Përtej Barrierave. Tasks and conditions are described in the infopack linked on the European Youth Portal page.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -17916,7 +17916,7 @@
    "description": "An eight-day training course in Rimini for youth workers and volunteering mentors interested in creative mentoring methods. Participants use artistic and non-formal approaches to express themselves and explore how…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18000,7 +18000,7 @@
    "description": "A ten-month placement with ANFFAS Cremona. Volunteers help organise workshops and activities that increase the independence of people with intellectual disabilities, support the 'Spazio Amico' family helpdesk and assist with events and sports.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18083,7 +18083,7 @@
    "description": "A one-year placement at a children's, youth and family centre in the Schinkel district of Osnabrück, a diverse neighbourhood meeting place. The volunteer supports open youth work, activities for children and intercultural community events.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18165,7 +18165,7 @@
    "description": "A one-year placement at Kulturladen Hamm in Hamburg, a neighbourhood meeting place with courses, self-organised groups and events such as cabaret, music, readings and programmes for children and seniors. The volunteer helps plan and run cultural activities with visitors.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18247,7 +18247,7 @@
    "description": "A one-year placement with a socio-cultural centre in Hamburg that runs music, art, theatre and cultural-education programmes to bring neighbours together. The volunteer helps organise events and community activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18329,7 +18329,7 @@
    "description": "A training course at the European Youth Education Centre Magdeburg for 25 youth workers, leaders, trainers and volunteers on gender equality in everyday youth work. Participants reflect on stereotypes, discrimination and their own practice and develop tools to make youth work more…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18390,7 +18390,7 @@
    "description": "A training course in Habří near Moravecké Pavlovice that introduces youth workers to creative, poetry-based methods for their work with young people. It brings together 21 participants from six countries, both…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18470,7 +18470,7 @@
    "description": "Six months of European Solidarity Corps volunteering at Buinho, a creative hub and FabLab in the Alentejo village of Messejana. The volunteer organises community repair cafés and helps run the FabLab (3D printers, laser cutter, electronics) and hands-on activities with local schools. Accommodation…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18536,7 +18536,7 @@
    "description": "Five months of European Solidarity Corps volunteering in Palermo with CISS, an NGO working on human rights, migration, women's rights and children's education. Three volunteers support social and community projects,…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18601,7 +18601,7 @@
    "description": "Two months of European Solidarity Corps volunteering in Palermo at Terra Franca, land confiscated from the Mafia and returned to community use. Two volunteers help with outdoor work, local projects, community events…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18675,7 +18675,7 @@
    "description": "Two months in Ankara using sport as a tool for healthy and inclusive community life. Volunteers take part in activities matched to their interests and help raise local interest in amateur sports.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18764,7 +18764,7 @@
    "description": "A study visit at Metsäkartano, one of Finland's national youth centres, for professionals who work with young parents under 30 and their families. Youth workers, family support and social workers exchange experiences and develop practical methods to strengthen young parents' participation, agency…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18844,7 +18844,7 @@
    "description": "A placement with the DCTR cultural association focused on social inclusion, education, culture and community engagement. Volunteers support educational and intercultural initiatives, inclusive artistic activities and environmental actions.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18901,7 +18901,7 @@
    "description": "A one-year placement with Anazitites Theatrou combining theatre, creativity and community work. Volunteers support theatre workshops, creative drama sessions and cultural events for children, young people and local…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -18958,7 +18958,7 @@
    "description": "A one-year placement with MeatingHub promoting youth empowerment, social inclusion, intercultural dialogue and active citizenship through non-formal education and cultural activities. This call is for participants from…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19016,7 +19016,7 @@
    "description": "A six-month placement in Brussels supporting Serve the City's educational activities with adults and children. The volunteer works with the education programme manager and project leaders and gains practical experience…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19097,7 +19097,7 @@
    "description": "European Solidarity Corps volunteering with Serve the City Belgium, fighting food insecurity and homelessness in Brussels. The volunteer joins regular food distributions, supports coordination and creates awareness content such as articles and interviews. The organisation helps find accommodation…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19157,7 +19157,7 @@
    "description": "A training course near Munich for youth workers, educators and activists who want to bring peacebuilding into their work. It explores peace on three levels – within ourselves, in relationships and in communities – with…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19242,7 +19242,7 @@
    "description": "A 90-day placement at an eco-social farm near Cegléd and a creative community upcycling workshop. Volunteers help develop the farm, look after animals, plant gardens and support craft and community activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19329,7 +19329,7 @@
    "description": "A partnership-building activity at the European Youth Education Centre Magdeburg for 15–30 youth workers, leaders and project managers. Participants exchange ideas and develop new European projects on human rights, democracy and European values. Accommodation and meals are covered and travel is…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19414,7 +19414,7 @@
    "description": "Seven months of European Solidarity Corps volunteering with Associação Mais Cidadania in Lisbon on citizenship, youth participation and cultural diversity. The volunteer helps plan community activities and handles project logistics. Accommodation, pocket money, food allowance and insurance are…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19499,7 +19499,7 @@
    "description": "Seven months of European Solidarity Corps volunteering with Associação Mais Cidadania in Lisbon on citizenship, youth participation and cultural diversity. The volunteer joins the office team and takes an active role in communication and digital media. Accommodation, pocket money, food allowance…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19573,7 +19573,7 @@
    "description": "An eleven-month placement with the Ligue de l'enseignement de Normandie, supporting projects that fight discrimination and promote equality. The volunteer raises awareness among young people aged 11–17, develops tools against racism and runs activities challenging gender stereotypes.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19659,7 +19659,7 @@
    "description": "A placement at a youth house for young people with disabilities and additional support needs. The volunteer plans and runs group activities, takes part in informal conversations and peer support, and builds relationships with the young people.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19725,7 +19725,7 @@
    "description": "A winter training course in Soriano nel Cimino for 18 youth workers and trainers on adventure, outdoor and experiential learning for personal growth and wellbeing. Accommodation, meals and activities are covered and…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19783,7 +19783,7 @@
    "description": "A short European Solidarity Corps volunteering with the Vidusdaugava NGO Centre in Jēkabpils for two volunteers. They create videos and short stories about local people and NGOs, produce content for social media and…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19847,7 +19847,7 @@
    "description": "A training course on the north coast of Spain for youth workers who want to help young people deal with misinformation, polarisation and complexity. Participants practise critical and systemic thinking from the Inner…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -19918,7 +19918,7 @@
    "description": "A five-month placement with LUG Open Factory in Lugo, Galicia, helping young people in rural areas build digital skills. Volunteers use design thinking, technology and prototyping to develop entrepreneurial ideas for rural challenges.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20002,7 +20002,7 @@
    "description": "A one-year placement with La Vidalenca, which is turning the former industrial colony Cal Vidal into an intergenerational ecovillage. Volunteers support sustainability, local development and community life.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20090,7 +20090,7 @@
    "description": "A partnership-building activity on Madeira for 15 staff members of youth organisations who want to help young people think critically and resist online manipulation. Participants build partnerships and plan Erasmus+ projects on media and digital literacy, extremism and polarisation. Food,…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20172,7 +20172,7 @@
    "description": "Eight months of European Solidarity Corps volunteering with Synergy Bulgaria in Sofia for three volunteers. Depending on interests, volunteers work on project and event management, social media, photo and video, or graphic design, and take part in local and international youth events. Travel,…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20255,7 +20255,7 @@
    "description": "Eleven months of European Solidarity Corps volunteering in the Vantaa office of Allianssi Youth Exchanges, which runs international volunteering and learning mobility programmes. The volunteer supports intercultural, environmental and climate-justice activities with young people. Applications go…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20317,7 +20317,7 @@
    "description": "A 28-day team volunteering project at an eco-campus in Arteara, Gran Canaria. Volunteers work on upcycling, sustainable building, biodiversity restoration, gardening and clean-ups, and can create photos and videos to…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20387,7 +20387,7 @@
    "description": "A short-term placement with Fundação Eugénio de Almeida in Évora in its community-intervention volunteering projects. Volunteers take part in social and cultural activities in the local community.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20473,7 +20473,7 @@
    "description": "A training course in the Catalan Pyrenees for youth workers, trainers, educators, artists and performers who want to use theatre and movement in their work. Participants try clowning, improvisation, movement and site-specific theatre and learn to design creative group processes; applicants must be…",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20558,7 +20558,7 @@
    "description": "Nine months of European Solidarity Corps volunteering for two volunteers at the Giona youth centre and Rigenera organic farm in Cremona. Volunteers support educational activities for foreign minors, sports and creative activities for children, community events and sustainable farming. They live in…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20615,7 +20615,7 @@
    "description": "A youth exchange in the village of Sierra de Fuentes in Extremadura on rural development, responsible consumption and sustainable economy. Young people from Italy, Spain, Bulgaria and Egypt join practical workshops and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20702,7 +20702,7 @@
    "description": "A training course in Alicante for youth workers and leaders who want to run high-quality Erasmus+ youth exchanges. Participants learn methods and tools to facilitate youth exchanges through experiential learning and peer sharing. Accommodation (single or double rooms) and three meals a day are…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20758,7 +20758,7 @@
    "description": "Seven months of European Solidarity Corps volunteering with Beyond Borders in Orta Nova, Apulia, on social and cultural activities. Volunteers should be 18–30 and communicate in English. This application form is for…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20817,7 +20817,7 @@
    "description": "A theatre-based youth exchange in Sudislav nad Orlicí for young people aged 16–20 from Czechia, Romania and Latvia. Over nine days participants build confidence, voice and teamwork through movement, improvisation,…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -20905,7 +20905,7 @@
    "description": "A four-day residential training in Sloup v Čechách for 17 trainers, educators and youth workers on communicating ethically, standing up for one's values while staying in dialogue. Participants practise approaching conflicts with understanding and keeping healthy boundaries. Accommodation and food…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21085,7 +21085,7 @@
    "description": "A team volunteering project in Baia Mare and nearby villages working with children, parents and older people. Volunteers design and run \"Lessons of Love\" parent-child workshops that strengthen family bonds and create safe, positive environments for children, with training in child development,…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21170,7 +21170,7 @@
    "description": "Eight months living and working in the Ängsbacka course and community centre in rural Sweden, learning practical skills for sustainable community life. Applications are accepted only through the organisation's own website.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21225,7 +21225,7 @@
    "description": "A two-month placement with the Train of Future association in Larache, Morocco. Volunteers support creative and educational activities for children, inclusive sports and intercultural activities; this call is for…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21310,7 +21310,7 @@
    "description": "A seven-month placement at Poznań's homeless animal shelter. Volunteers play with and socialise cats, clean their spaces, make toys and may also help with dogs, rabbits and educational activities on animal welfare.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21386,7 +21386,7 @@
    "description": "A placement in southern Italy with a social cooperative running a sustainable-tourism hostel in historic Crotone. Volunteers help at reception and with hostel work and support local trips and educational activities for young people.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21443,7 +21443,7 @@
    "description": "A four-month placement for three volunteers at Sund Folkehøgskole, an alternative education centre in Trøndelag, Norway. Volunteers support educational, cultural and artistic workshops and community activities; this…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21527,7 +21527,7 @@
    "description": "A team volunteering project at an international physical-theatre festival in Frankfurt focused on climate change and the environmental crisis. Volunteers support the festival through cooking, stage building, technical support, artist care and welcoming audiences, and can join artistic workshops.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21620,7 +21620,7 @@
    "description": "A placement on a sustainable initiative farm in Slovenia showing low-footprint rural living. Volunteers learn by doing in permaculture, gardening and other sustainable practices.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21680,7 +21680,7 @@
    "description": "A training course in Bușteni for 25 trainers, educators and facilitators who will test and shape educational activities built on GreenComp, the European sustainability competence framework. Board and lodging in shared…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21754,7 +21754,7 @@
    "description": "Six months of European Solidarity Corps volunteering at the agricultural high school in Mauléon, in the French Basque Country. The volunteer creates an intercultural environment with students and teachers, runs extracurricular activities and assists with Spanish language classes. Accommodation is…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21809,7 +21809,7 @@
    "description": "Five months of European Solidarity Corps volunteering for two volunteers on permaculture projects in the Catalan countryside, including Mas La Llum and Anoha Forest Garden. Volunteers garden, take part in natural…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21897,7 +21897,7 @@
    "description": "A practical training course in Čadca, Slovakia, for youth workers, trainers and project coordinators. Expert input on artificial intelligence and useful digital tools is followed by hands-on workshops where participants test the tools and share how they use them in daily youth work. Applications…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -21982,7 +21982,7 @@
    "description": "A three-month placement for a group of six volunteers on a 6,000 m² farm on La Palma in the Canary Islands. The programme offers permaculture education, practical ecological farm work and a multicultural community experience.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22050,7 +22050,7 @@
    "description": "A practical training course for youth workers on circus and physical theatre as tools for non-formal education. Participants explore accessible activities that build creativity, confidence, cooperation and social connection.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22129,7 +22129,7 @@
    "description": "A 6- or 12-month placement with Rota Jovem, a youth association in Cascais running local and international youth activities since 1992. Volunteers support youth projects, non-formal education and their own initiatives with the team's support.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22217,7 +22217,7 @@
    "description": "A training course near Barcelona for European Solidarity Corps mentors who want to strengthen their mentoring practice. Participants work on building trust with volunteers, supporting their integration, facilitating learning and encouraging personal growth. Applications go through the SALTO page.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22277,7 +22277,7 @@
    "description": "A training course in Cabo de Gata (Almería) on \"living well\" in harmony with community and land, bringing Andean values into youth work. Participants use Andean music, movement, intercultural and community-based…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22364,7 +22364,7 @@
    "description": "A two-part training course for 25 youth workers and educators: 1–7 March 2027 in Weimar and 28 June – 4 July 2027 in Tauchen, Austria. It treats evaluation as a way to understand and improve one's own practice rather than only reporting to funders. Participation fee: the organiser Stiftung EJBW…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22418,7 +22418,7 @@
    "description": "Applicants from Moldova and Ukraine, alongside up to 62 municipalities or local authorities, their groupings or local public entities aggregating municipalities from the EU, can apply for lump-sum g…",
    "detail": false,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -22542,7 +22542,7 @@
    "description": "A training course in the rural village of Cornus for 26 youth workers on how gender is used in political discourse, including links between masculinist movements and the far right. Participants explore polarisation among young people and ways to respond in youth work. Accommodation is in a rustic…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22633,7 +22633,7 @@
    "description": "Two months of European Solidarity Corps volunteering with the European Youth Forum association in the Kłodzko region, promoting education, equality, citizenship and inclusion. Volunteers support office work and local projects, write articles, prepare school visits and help with youth activities.…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22708,7 +22708,7 @@
    "description": "Nine months of European Solidarity Corps volunteering with VALE, an association for people with intellectual disabilities in Dúrcal near Granada. Volunteers support creative workshops, sports, leisure and community activities at day and residential centres. They live in an international shared…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22791,7 +22791,7 @@
    "description": "Eleven months of European Solidarity Corps volunteering at Almenara, an ecological community near Vejer de la Frontera in Cádiz that uses permaculture and sociocracy. Volunteers work on water retention, soil and native woodland, a tree nursery, the food garden and shared buildings, and help…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22858,7 +22858,7 @@
    "description": "A two-month summer ESC volunteering placement with a beach-volleyball club in Hamburg. The volunteer supports trainings, events and community activities; volleyball experience is recommended but not required.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22919,7 +22919,7 @@
    "description": "Five months of European Solidarity Corps volunteering with YouthCoop in Agualva-Cacém near Lisbon, supporting community education projects on environmental sustainability and the circular economy. Volunteers help…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -22972,7 +22972,7 @@
    "description": "The European Training Foundation invites Ukrainians to visit its information hub created specially for refugees. Through this hub, Ukrainian refugees can get the information they need to co…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
@@ -23088,7 +23088,7 @@
    "description": "An eight-month placement at the youth and cultural centre (MJC) of Quintin, a small town in rural Brittany offering more than 40 creative, cultural and sports activities. The volunteer helps run out-of-school activities for teenagers aged 11–17 and supports local projects.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23160,7 +23160,7 @@
    "description": "A six-month placement at a rural vocational high school in Beaumont-de-Lomagne for pupils aged 13–20. The volunteer promotes international mobility and intercultural learning through informal activities with students.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23349,7 +23349,7 @@
    "description": "An ESC team volunteering project running winter camps for children in Leszno. Volunteers lead creative workshops, sports and cultural activities and take part in school programmes on human rights, diversity and wellbeing.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23433,7 +23433,7 @@
    "description": "A one-year placement from August 2027 in Mechelen with AFS Low Lands, promoting intercultural understanding and global competences. The volunteer co-designs and runs intercultural workshops for schools and organisations and supports AFS exchange programmes.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23522,7 +23522,7 @@
    "description": "A training course in Piégros-la-Clastre for 26 youth workers where Theatre of the Oppressed meets introspective practices. Participants explore their own inner journey and turn it into collective tools for youth work. Food and accommodation are fully covered, travel is reimbursed up to the…",
    "detail": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23601,7 +23601,7 @@
    "description": "Five months in Sofia with a fire theatre and community arts foundation. Volunteers support fire mime and theatre for children and families, community art and cultural heritage activities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23686,7 +23686,7 @@
    "description": "An ESC humanitarian aid volunteering team of 15 young people aged 18-35 supporting rural communities in Vietnam for about six weeks. Working with residents, volunteers may contribute to water, education, housing, environment, agriculture and women's and youth empowerment initiatives. Volunteers…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23781,7 +23781,7 @@
    "description": "Five weeks on the Veles permaculture farm in the Slovenian hills with a team of eight volunteers. You will help with permaculture farming, natural building, water and energy work and DIY projects, living simply in tents and cooking vegetarian meals together. The farm is far from public transport,…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23857,7 +23857,7 @@
    "description": "A year-long ESC volunteering placement at an international scout and outdoor centre in Denmark for young people aged 18-26. Tasks are mainly practical and outdoors, working alongside Danish and international volunteers; you do not need to be a scout.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23920,7 +23920,7 @@
    "description": "Two and a half weeks in the village of Salzedas with an international volunteer team. You will work on gardening, sustainable farming, environmental actions, educational workshops and activities with older people that…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -23994,7 +23994,7 @@
    "description": "Almost a year in the Sibillini Mountains with an association supporting people with intellectual and developmental disabilities. Volunteers join recreational, sports and training activities, an educational garden and community events and markets.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24076,7 +24076,7 @@
    "description": "One year of European Solidarity Corps volunteering in Witten with organisations working on intercultural living and the professional integration of migrants, especially women and mothers. Volunteers support sewing courses and other activities and help shape their own role. They share an apartment…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24136,7 +24136,7 @@
    "description": "A youth exchange at the Outward Bound youth centre in Sovata focused on assertiveness, teamwork, physical engagement and compassion. The programme includes team-building, a ropes course, daily reflection circles and a…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24201,7 +24201,7 @@
    "description": "A summer placement (20 June – 8 August 2027) combining sustainable agriculture, environmental protection and rural development in the Douro region. Volunteers take part in gardening, farming, educational workshops and…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24283,7 +24283,7 @@
    "description": "Long-term volunteering in Pécs with a foundation supporting adults with intellectual disabilities in a day care centre and supported homes. Volunteers help clients develop skills through leisure activities and join inclusive programmes with university students.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24351,7 +24351,7 @@
    "description": "An ESC volunteering placement in the Pyrenees with an association supporting adults with functional diversity and hospitality students. Volunteers support inclusion, personal development and community activities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24538,7 +24538,7 @@
    "description": "A six-month placement at Tähesära kindergarten in Võru, South Estonia. The volunteer supports teachers with games, creative activities, outdoor play and daily routines with young children.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "analysis": "rules",
@@ -24634,7 +24634,7 @@
    "description": "A long-term ESC volunteering placement with a sports club and youth centre in Pomerania. Volunteers support football and other sports sections, inclusive sport for seniors and people with disabilities, and creative activities in kindergartens.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24689,7 +24689,7 @@
    "description": "An ESC team volunteering project in Carcassonne protecting nature and biodiversity. Volunteers plant trees and hedges, care for natural spaces and run environmental awareness activities. This application is for…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24770,7 +24770,7 @@
    "description": "An ESC team volunteering project supporting communities affected by the 2024 floods in Spain. Volunteers form a small music band and support local initiatives; musicians, photo/video makers and sound technicians are especially welcome.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24850,7 +24850,7 @@
    "description": "A long-term ESC volunteering placement near Bucharest. Volunteers run after-school activities for children aged 7-10 and workshops in local schools.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -24931,7 +24931,7 @@
    "description": "Almost a year supporting the staff of a home in Forlì where 12 people with disabilities live. Volunteers help with recreational and educational group activities, everyday life and getting to know the neighbourhood and local community.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25008,66 +25008,7 @@
    "description": "Six to twelve months in Reșița, western Romania, with an NGO working on social inclusion, non-formal education and youth empowerment. Volunteers support educational and social activities for children in nurseries, kindergartens and primary schools.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
-   "notified_at": null,
-   "reminded": false,
-   "score": {
-    "total": 0,
-    "chance": 0,
-    "fit": 0,
-    "label": "Uyğun deyil",
-    "eligible": false,
-    "factors": [
-     {
-      "k": "gate",
-      "d": 0,
-      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
-   "id": "80b4b69649c2",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/building-europe-rimini",
-   "title": "Building Europe",
-   "type": "training_course",
-   "type_label": "Training Course",
-   "host_country": "Italy",
-   "city": "Rimini",
-   "start_date": "2026-11-16",
-   "end_date": "2026-11-24",
-   "duration_days": 9,
-   "deadline": null,
-   "eligible_countries": [
-    "Italy",
-    "Belgium",
-    "Portugal",
-    "Greece",
-    "Hungary"
-   ],
-   "eligible_note": null,
-   "az_eligible": "no",
-   "age_min": null,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "unknown",
-    "travel": "unknown",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": null,
-   "topics": [
-    "Democracy & Citizenship"
-   ],
-   "description": "A training course in Rimini for 25 young people and youth workers from Italy, Belgium, Portugal, Greece and Hungary. Through interactive workshops and structured debate challenges, participants learn how EU decisions…",
-   "detail": false,
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25139,7 +25080,7 @@
    "description": "A one-month team project for five volunteers in Saint-Étienne around the Festival of Solidarity. The team helps local associations, schools and citizen groups run events that encourage people of all ages to act for a fairer, more inclusive and sustainable world.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25197,63 +25138,7 @@
    "description": "A youth exchange in Malta on environmental sustainability, resource management and the circular economy. Participants gain practical skills for eco-friendly living and work in mixed international teams.",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
-   "notified_at": null,
-   "reminded": false,
-   "score": {
-    "total": 0,
-    "chance": 0,
-    "fit": 0,
-    "label": "Uyğun deyil",
-    "eligible": false,
-    "factors": [
-     {
-      "k": "gate",
-      "d": 0,
-      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
-   "id": "5633beb1ecf6",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/volunteer-wave-paphos",
-   "title": "Volunteer Wave",
-   "type": "youth_exchange",
-   "type_label": "Youth Exchange",
-   "host_country": "Cyprus",
-   "city": "Paphos",
-   "start_date": "2026-11-18",
-   "end_date": "2026-11-24",
-   "duration_days": 7,
-   "deadline": null,
-   "eligible_countries": [
-    "Poland"
-   ],
-   "eligible_note": null,
-   "az_eligible": "no",
-   "age_min": null,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "unknown",
-    "travel": "unknown",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": null,
-   "topics": [
-    "Inclusion & Diversity",
-    "Solidarity & Community"
-   ],
-   "description": "A youth exchange in Paphos about volunteering, inclusion and personal growth. Through creative workshops and teamwork, participants discover how to get involved in their communities and connect with peers from other…",
-   "detail": false,
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25317,64 +25202,7 @@
    "description": "A 7-day training course in Lecce bringing together 27 youth workers, educators and motivated young people (18+) from nine European countries. Participants explore how personal stories can inspire stronger, more…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
-   "notified_at": null,
-   "reminded": false,
-   "score": {
-    "total": 0,
-    "chance": 0,
-    "fit": 0,
-    "label": "Uyğun deyil",
-    "eligible": false,
-    "factors": [
-     {
-      "k": "gate",
-      "d": 0,
-      "t": "Azerbaijan iştirakçı ölkələr siyahısında yoxdur"
-     }
-    ]
-   },
-   "status": "open"
-  },
-  {
-   "id": "97cee1aa8d5c",
-   "source": "finderasmus",
-   "url": "https://finderasmus.eu/projects/echo-youth-voices-svelgen",
-   "title": "E.C.H.O – Amplifying Youth Voices for a Stronger Europe",
-   "type": "youth_exchange",
-   "type_label": "Youth Exchange",
-   "host_country": "Norway",
-   "city": "Svelgen",
-   "start_date": "2026-11-18",
-   "end_date": "2026-11-24",
-   "duration_days": 7,
-   "deadline": null,
-   "eligible_countries": [
-    "Lithuania"
-   ],
-   "eligible_note": null,
-   "az_eligible": "no",
-   "age_min": null,
-   "age_max": null,
-   "costs": {
-    "accommodation_food": "unknown",
-    "travel": "unknown",
-    "travel_limit_eur": null,
-    "fee_eur": null,
-    "fee_note": null
-   },
-   "spots_per_country": null,
-   "spots_total": null,
-   "organizer": null,
-   "topics": [
-    "Digital & Media",
-    "Democracy & Citizenship",
-    "Communication & Storytelling"
-   ],
-   "description": "A youth exchange in Svelgen, on Norway's west coast, on digital democracy and youth participation. Participants learn to spot misinformation, build counter-narratives to fake news and use digital platforms to advocate…",
-   "detail": false,
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25446,7 +25274,7 @@
    "description": "A three-week team volunteering project in Gdańsk focused on sustainability, recycling and preventing food waste. Eleven international volunteers cook meals for community fridges, help run a local pre-Christmas initiative, host an intercultural evening and take part in creative upcycling activities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25505,7 +25333,7 @@
    "description": "A youth exchange in Kaunas for young people unsure about their career path. Participants explore different careers, assess their skills, challenge career stereotypes and draw up short- and long-term development plans.…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25565,7 +25393,7 @@
    "description": "A youth exchange in Antalya on democracy and youth participation for young people from six countries. Selected participants are expected to contribute to follow-up activities in their communities after the exchange.",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25647,7 +25475,7 @@
    "description": "Eight months in Laval for two volunteers at the local House of Europe. Volunteers run workshops in schools and youth organisations about the EU, languages and cultures, the environment, digital transition and democracy. They also promote ESC, Erasmus+ and other mobility programmes and help…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25734,7 +25562,7 @@
    "description": "A partnership building activity in Warsaw for people working with young people in NGOs from Erasmus+ programme countries. Participants share good practices on youth mental health, identify common challenges and develop ideas for joint international projects. Each organisation can send 2-3…",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25791,7 +25619,7 @@
    "description": "A training course in Amsterdam for youth workers that combines theatre, storytelling and digital awareness, including AI and misinformation. Participants practise forum theatre and creative facilitation, explore…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25848,7 +25676,7 @@
    "description": "A youth exchange in the Orlické mountains focused on media literacy and critical thinking for Gen Z. Through non-formal learning, participants explore how to evaluate information and take an active part in their…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25904,7 +25732,7 @@
    "description": "A training course in Braga for youth workers, trainers and project coordinators who want to turn real youth needs into strong Erasmus+ cooperation partnership ideas. Participants work on needs analysis, project logic,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -25960,7 +25788,7 @@
    "description": "A youth exchange in Hagen where young people use Forum Theatre, Theatre of the Oppressed and image theatre to talk about discrimination and build empathy. The international group finishes the week with a public theatre…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26016,7 +25844,7 @@
    "description": "A training course in Plovdiv for youth workers and trainers who want to use game mechanics in non-formal education. Participants from eight countries explore why gamification works, swap their own games and methods,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26072,7 +25900,7 @@
    "description": "A youth exchange on the Abruzzo coast about decent work and fair, safe and transparent working conditions for young people. Partners come from Italy, Bulgaria, Romania and Spain. This call, published on Instagram by…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26128,7 +25956,7 @@
    "description": "A partnership-building activity in Florence that brings together representatives of seven European organisations. Participants exchange good practices on youth participation and active citizenship, visit local…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26188,7 +26016,7 @@
    "description": "A training course for youth workers aged 19-45 on applying AI and digital tools in real youth work. The programme also covers project and NGO management, social entrepreneurship and inclusion of young people with fewer…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26245,7 +26073,7 @@
    "description": "A youth exchange in Ayia Napa where young people use art to raise awareness against discrimination. Participants express themselves creatively and exchange ideas with peers from different countries. This application…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26301,7 +26129,7 @@
    "description": "A youth exchange in northern Germany on mindful eating and healthy lifestyles. This application form is for participants from North Macedonia.",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26359,7 +26187,7 @@
    "description": "A youth exchange at La Buona Terra near Lake Trasimeno that uses body movement and non-formal education to strengthen youth participation. Participants are selected through sending organisations in Germany, Italy and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26420,7 +26248,7 @@
    "description": "A youth exchange by Lake Głębokie in western Poland about digital wellbeing, social media addiction and mental health. Participants explore mindfulness and healthy offline habits, and the project especially welcomes…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26476,7 +26304,7 @@
    "description": "A youth exchange near Thessaloniki for 28 young people from Greece, Hungary, Georgia and Azerbaijan about creativity in the age of artificial intelligence. Participants combine creative workshops, storytelling and AI…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26532,7 +26360,7 @@
    "description": "A training course in Kolín on media literacy and digital safety for youth workers. Participants learn to spot disinformation and AI-generated content and to design non-formal education sessions on these topics. This…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26588,7 +26416,7 @@
    "description": "An international youth exchange in eastern Hungary where young people work together on environmental protection and get to know each other's cultures. This call, published on Instagram by the sending organisation, is…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26648,7 +26476,7 @@
    "description": "A youth exchange in Freudenstadt for 40 young people on digital well-being, mental health and meaningful offline connection. Through storytelling, theatre, art and outdoor challenges, participants explore their digital…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26704,7 +26532,7 @@
    "description": "A training course in Palermo for youth workers and youth leaders on gender equality and social justice, including the roles of women inside mafia structures and in the resistance against them. Workshops, local meetings…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26790,7 +26618,7 @@
    "description": "Six months of ESC humanitarian aid with rural communities in Nepal on child development and protection, women's empowerment, life skills, education and digital literacy. Volunteers do not enter restricted flood-disaster areas.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26876,7 +26704,7 @@
    "description": "Nine months in Jerada and the Al Haouz region supporting children affected by the earthquake. Two volunteers prepare and run creative, educational activities in schools and communities and help evaluate their impact.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26932,7 +26760,7 @@
    "description": "A youth exchange in the Thuringian forest near Ilmenau about digital wellbeing and healthy technology habits. Participants look at how social media affects emotions and relationships, learn to spot manipulation and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -26988,7 +26816,7 @@
    "description": "A youth exchange in Lithuania on using artificial intelligence critically, ethically and responsibly. In international teams participants create videos, podcasts and digital stories and take part in games and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27044,7 +26872,7 @@
    "description": "A youth exchange in the Polish mountains that makes artificial intelligence accessible to complete beginners, especially young people with limited digital opportunities. Participants learn to use AI tools for studying,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27117,7 +26945,7 @@
    "description": "An ESC volunteering placement with a non-profit in Athens working on non-formal education and educational games. Volunteers run workshops for people with disabilities, seniors, refugees and young people and help create games.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27174,7 +27002,7 @@
    "description": "A youth worker mobility in central Ankara linking environmental protection and mental wellbeing in youth work. Accommodation in a guest house and all meals are covered, and travel is reimbursed up to the Erasmus+…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27230,7 +27058,7 @@
    "description": "A training course in Oroslavje, Croatia, about recognising and responding to the real needs of local communities. This call is for participants from Spain (contact: infomaditerranea@gmail.com); details are in the…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27286,7 +27114,7 @@
    "description": "A training course in Malta on financial education, a skill rarely taught at school, and how to bring it into youth work. Participants stay in a hotel in Qawra. This call is for participants from Spain (contact:…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27342,7 +27170,7 @@
    "description": "A training course in the Drôme countryside for people working with youth on how to build groups and communities that are resilient, caring and just. Participants share collaborative methods, games and awareness…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27398,7 +27226,7 @@
    "description": "A youth exchange in Wisła, Poland, on democracy, human rights and active citizenship, with participants from seven countries. Through debates, group work, field games and creative methods, young people explore how…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27459,7 +27287,7 @@
    "description": "A regional youth exchange in Prishtina for young people from the Western Balkans, held during Human Rights Week in Kosovo. Participants discuss human rights and youth activism, meet activists and human rights…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27514,7 +27342,7 @@
    "description": "A youth exchange in Malta on the environmental, social and economic sides of sustainability. Participants design their own small eco-actions and share ideas with peers from other countries. This call is for…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27571,7 +27399,7 @@
    "description": "Two months at a community and volunteer centre in a rural post-war region of Croatia. Volunteers run after-school activities, tutoring, crafts, games and sports for children and help with eco-gardening and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27626,7 +27454,7 @@
    "description": "A youth exchange in Sicily about optimism and motivation. Each national team has six participants and one group leader. This call, published on Instagram by the sending organisation, is for participants from Hungary.",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27690,7 +27518,7 @@
    "description": "A hands-on media training for youth workers, NGO staff and volunteers who want to tell their organisations' stories on video. In the first part, at a seminar house on the Elbe near Hamburg, participants learn…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27746,7 +27574,7 @@
    "description": "A training course in Kraków for youth workers, community educators and NGO representatives who want stronger leadership, communication and teamwork skills. Through role-play, case studies and group exercises,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27806,7 +27634,7 @@
    "description": "A youth exchange in Pesaro bringing together 36 young people to explore greenwashing, sustainability and critical thinking. Participants learn to recognise misleading environmental claims, verify information and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27862,7 +27690,7 @@
    "description": "A youth exchange in Łódź that explores an entrepreneurial mindset as a way to build confidence, resilience and motivation. Through non-formal education, practical challenges and community activities, participants learn…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -27948,7 +27776,7 @@
    "description": "An ESC Humanitarian Aid volunteering placement with a women's rights organisation in El Alto, Bolivia. The volunteer supports fundraising and project development; a background in business, project management or development is expected.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28003,7 +27831,7 @@
    "description": "A training course in Bansko on the conscious use of artificial intelligence and digital tools in youth work. Food and accommodation are covered and travel is reimbursed up to the Erasmus+ limit. This call is for…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28089,7 +27917,7 @@
    "description": "An ESC Humanitarian Aid volunteering placement with a feminist organisation in El Alto, Bolivia. The volunteer helps document and communicate the organisation's work and its impact on the lives of women.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28153,7 +27981,7 @@
    "description": "A training course in Kornos, Cyprus, for youth workers who want to use nature and outdoor activities to support young people's mental health. The programme mixes hiking, orienteering, bouldering and a biofarm visit…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28240,7 +28068,7 @@
    "description": "Five months near Kathmandu on women's empowerment, disaster resilience and sustainable farming. Volunteers run workshops on digital and financial literacy with women's groups, support disaster awareness and drills, and work on permaculture, composting and seed saving.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28327,7 +28155,7 @@
    "description": "A year in Quito with an organisation protecting vulnerable children at risk of child labour and dropping out of school. Volunteers help with homework, meals, educational workshops and recreational activities at the organisation's reference centres.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28414,7 +28242,7 @@
    "description": "A year of volunteering in Hanoi within an ESC initiative linking sustainability, digital skills and inclusion. Volunteers support non-formal education for marginalised youth, climate action, recycling and community greening, and digital storytelling.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28501,7 +28329,7 @@
    "description": "A year of volunteering in Sarajevo supporting the inclusion of refugees, migrants, unaccompanied minors and disadvantaged youth. Volunteers run non-formal learning on language, digital literacy and life skills and help with community and intergenerational activities.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28589,7 +28417,7 @@
    "description": "Volunteering in Zagreb with an organisation supporting refugees and asylum seekers. Volunteers assist teachers in classes and workshops, teach English and digital skills, share information with beneficiaries, help with small events and create social media content.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28644,7 +28472,7 @@
    "description": "An ESC volunteering placement with a youth foundation's international team in Istanbul. The volunteer supports international partnerships, drafts materials in English and collects stories of volunteering. This…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28704,7 +28532,7 @@
    "description": "A youth exchange near Madrid where 25 young people use board and role-playing games to talk about democracy, extremism and hope for the future. Participants play, debate and co-create simple game-based learning…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28767,7 +28595,7 @@
    "description": "Five months on the Greek island of Chios supporting local primary schools and kindergartens. Volunteers help with educational, environmental, cultural, sports and new-technology activities for children.",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28824,7 +28652,7 @@
    "description": "A training course in Sardinia on communication as a tool for empathy, inclusion and dialogue, with partners from nine countries. This link is the call for participants from Serbia; participants from Spain apply through…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28881,7 +28709,7 @@
    "description": "A youth exchange in a former monastery near Barcelona about underground culture, creative self-expression and young people's connection with their social and natural surroundings. 42 young people aged 15–30 from six…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28942,7 +28770,7 @@
    "description": "A two-month team volunteering project in Timișoara supporting young people affected by displacement, including refugee youth. Volunteers help develop a Ukrainian Educational Hub through non-formal education workshops,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -28998,7 +28826,7 @@
    "description": "A training course in Kaunas for youth workers on using immersive technologies such as VR, 360° environments and educational games to make non-formal education more inclusive. Participants design learning activities and…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29074,7 +28902,7 @@
    "description": "A year of volunteering in Antalya's public social service centres, supporting staff who provide protective and supportive services to disadvantaged people. The organisers are looking for 3 male volunteers with studies in a related field.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29135,7 +28963,7 @@
    "description": "A training course for youth workers and aspiring youth workers aged 18-30 on ICT and social media skills for youth participation. Participants practise digital content creation, critical media thinking and gamified…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29197,7 +29025,7 @@
    "description": "A youth exchange in Osterholz-Scharmbeck, near Bremen, built on the idea that moving your body can change your mind. Through daily movement sessions, creative workshops, reflection circles and real-life challenges,…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29258,7 +29086,7 @@
    "description": "A two-month team project in Timișoara supporting young people affected by displacement, including refugee youth, at a Ukrainian Educational Hub. Volunteers run non-formal workshops, intercultural exchanges, creative…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29314,7 +29142,7 @@
    "description": "A youth exchange in Sicily about the labels we put on others and on ourselves. Through art, theatre, improvisation and storytelling, participants discuss prejudice, bias and mental health. This call is for participants…",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29407,7 +29235,7 @@
    "description": "A year at Rubicon in Vsetín, a low-threshold club for children and teenagers. Volunteers run leisure activities, help with school preparation – especially English – and organise club and extracurricular activities based on their interests.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29501,7 +29329,7 @@
    "description": "A year at Harmony Home in Vsetín, a residence for older people with complex care needs. Volunteers keep residents company, play music, read and talk with them, and help with group activities, walks and outings.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29587,7 +29415,7 @@
    "description": "A six-month ESC Humanitarian Aid volunteering placement in Hanoi. Volunteers deliver global and environmental education in schools and community centres, including language teaching and discussions on climate change.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29673,7 +29501,7 @@
    "description": "A six-month ESC Humanitarian Aid volunteering placement in rural Ecuador. Volunteers take part in the daily life of local families through agricultural and fieldwork and community dialogue.",
    "detail": true,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29728,7 +29556,7 @@
    "description": "A training course in Luxembourg on using research and data to plan and improve youth work. This call is for participants from Spain (contact: infomaditerranea@gmail.com).",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29784,7 +29612,7 @@
    "description": "A youth exchange in rural Romania for young people taking part in Erasmus+ for the first time, about understanding the next generation. This call is for a team from Spain (contact: infomaditerranea@gmail.com).",
    "detail": false,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29840,7 +29668,7 @@
    "description": "A seminar in the French Alps for people who lead, or plan to lead, international youth exchanges and workcamps. Through discussions, role-play and practical tools, participants explore intercultural learning, group…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29896,7 +29724,7 @@
    "description": "An introductory training course in Cantabria that gives youth workers a practical overview of permaculture, AI tools and Erasmus+ opportunities. The week includes workshops, a permaculture farm visit, a cultural day…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -29952,7 +29780,7 @@
    "description": "A youth exchange in two parts with participants from Türkiye, Italy and North Macedonia: the first mobility takes place in Manisa (13–20 December 2026) and the second in Rome (3–10 April 2027). Read the infopack before…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30007,7 +29835,7 @@
    "description": "A youth exchange in the Umbrian countryside for 36 young people and group leaders from six countries who want to turn eco-anxiety into action. Participants learn about climate change, biodiversity, circular economy and…",
    "detail": false,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30097,7 +29925,7 @@
    "description": "A placement in a retirement home near Strasbourg. The volunteer creates and runs activities such as music, creative workshops, games and outings and spends time talking with residents.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30185,7 +30013,7 @@
    "description": "A placement in a nursing home where the volunteer takes part in music, creative workshops, games and gymnastics, helps residents in daily life and accompanies them on outings. The mission is up to 33 hours a week.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30267,7 +30095,7 @@
    "description": "A placement at a residential centre supporting inclusion, creativity and well-being. Volunteers assist with adapted creative workshops such as ceramics and painting, support residents during meals and take part in therapeutic and educational activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30325,7 +30153,7 @@
    "description": "A 12-month placement with Pi Youth Association, which runs youth activities in ten districts of İzmir. Volunteers support workshops, language clubs and youth activities on personal development and healthy lifestyles;…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30404,7 +30232,7 @@
    "description": "A 2- to 9-month placement in rural Latvia supporting children aged 1.5–6 in daily preschool life and outdoor forest activities. The project focuses on sustainability, inclusion and creative use of digital tools.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30486,7 +30314,7 @@
    "description": "A six-month placement supporting the well-being and education of unaccompanied asylum-seeking boys. The volunteer plans and runs informal and non-formal educational activities and helps raise awareness about asylum issues in the local community.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30573,7 +30401,7 @@
    "description": "A long-term placement with Fundación Munasim Kullakita, which protects girls aged 10–17 affected by human trafficking and sexual exploitation. Working alongside the psychologist and care team, the volunteer supports individual and group sessions and follow-up activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30660,7 +30488,7 @@
    "description": "A long-term volunteering placement with NCCS Albania in Tirana, an NGO supporting vulnerable communities through social services, employment help and community development. The volunteer helps run awareness campaigns on human rights, gender equality and anti-discrimination and supports civic…",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30731,7 +30559,7 @@
    "description": "A one-year placement with Solidarity Tracks supporting the YES HUB e-learning platform, which offers free courses and tools for young people and aspiring social entrepreneurs. The volunteer helps develop and promote the platform and its content.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30788,7 +30616,7 @@
    "description": "A youth exchange in Berlin for young LGBTQ+ people and allies about self-discovery, emotional wellbeing and creative expression. Through theatre, music, photography, mindfulness and storytelling, participants explore…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30845,7 +30673,7 @@
    "description": "A two-month project with organic farming, permaculture, organising a youth fair and daily guided visits at a historic estate in Galicia. This call is for participants from Türkiye.",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -30919,7 +30747,7 @@
    "description": "A one-year placement for three volunteers in kindergartens in Gdańsk, supporting children aged 3–6. Volunteers help teachers with routines, learning and play.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31014,7 +30842,7 @@
    "description": "An eight-month placement at IZUM, a mobile youth learning centre in Tallinn active since 1994. The volunteer helps run non-formal education activities for young people aged 11 and over, including theatre, music, dance and other youth-culture projects.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31108,7 +30936,7 @@
    "description": "A six-month placement at Paide Youth Centre in Estonia, which offers young people a safe space for learning, creativity and participation. The volunteer supports youth work, the town's large skatepark and outdoor activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31195,7 +31023,7 @@
    "description": "A long-term placement in Gyumri with the Youth Initiative Centre, an Armenian NGO working on youth empowerment, international volunteering and community development. The volunteer helps develop projects, look for funding and support youth activities in the organisation's centres.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31280,7 +31108,7 @@
    "description": "A placement caring for about 110 cats and several dogs in a rescue centre, village house and garden in Sinop. Tasks include feeding, cleaning, giving medication and parasite treatments, and enriching the animals' environment.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31358,7 +31186,7 @@
    "description": "A ten-month placement with a social cooperative near Vicenza. Volunteers take part in inclusive, community-based activities that promote solidarity and active citizenship.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31414,7 +31242,7 @@
    "description": "A youth exchange in Madrid on road safety, speed management and responsible behaviour on the roads, with young people from Spain, Italy, Hungary, Kosovo and Türkiye. Through peer learning and meetings with local…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31470,7 +31298,7 @@
    "description": "A youth exchange in the Czech village of Želiv where young people from seven countries use arts and theatre to challenge stereotypes about mental health. This call, published on Instagram by the sending organisation,…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31550,7 +31378,7 @@
    "description": "A five-month placement with the Local Action Group Banat-Vest, discovering how European projects are created and how a rural development programme is managed. The volunteer takes part in the group's everyday work and community activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31637,7 +31465,7 @@
    "description": "A three-month placement in Sumgait, Azerbaijan, with an organisation working with young people, students, refugees and internally displaced persons. The volunteer supports activities on civic responsibility, human rights, inclusion, healthy lifestyles and environmental awareness.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31726,7 +31554,7 @@
    "description": "A four-month placement (1 February – 4 June 2027) with Active Bulgarian Society. Volunteers organise youth activities, environmental actions and creative events and help promote Erasmus+ and European Solidarity Corps opportunities in the community.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31783,7 +31611,7 @@
    "description": "A 100-day placement for one young person from Hungary at an eco-social farm near Cegléd and a creative upcycling workshop in town. The volunteer works alongside two international volunteers on farm work, community…",
    "detail": false,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31866,7 +31694,7 @@
    "description": "A six-month placement with the cooperative Nexes Interculturals. The volunteer supports local and international projects on peace culture and global justice, including intercultural learning, anti-racism, gender and climate.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -31956,7 +31784,7 @@
    "description": "A two-week team volunteering project with ALA in Sabina, near Rome, focused on sustainability, nature and the local community. Volunteers take part in practical outdoor work and community activities.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32030,7 +31858,7 @@
    "description": "A placement with the town council of Frómista, a small town working for rural development. Volunteers support youth participation, cultural activities and wellbeing initiatives for local residents.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32106,7 +31934,7 @@
    "description": "A two-month team project (from 15 February 2027) for up to 16 volunteers at Park Istra in Slovenia. Volunteers help people in need with renovation work, support local NGOs and farmers, and work with children and in elderly homes.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32195,7 +32023,7 @@
    "description": "An eight-month placement with ALA in Roccantica, 40 km from Rome, focused on food, sustainability and cultural activities in rural life. Volunteers live and work with local and international people and help build an inclusive educational community.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32277,7 +32105,7 @@
    "description": "An 8- or 12-month placement in the garden team of Sieben Linden ecovillage, which grows more than 50 kinds of vegetables, fruit and herbs. Starting in spring, volunteers experience a full growing season from seedlings to harvest and learn different organic growing techniques.",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32359,7 +32187,7 @@
    "description": "A six-month placement for two volunteers in nature-conservation and environmental-education programmes of Green Circle (Friends of the Earth Hungary) in Bodrogolaszi, Sárospatak and Bodrogkeresztúr. Accommodation, meals, travel, insurance and pocket money are covered by the European Solidarity…",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32445,7 +32273,7 @@
    "description": "One-year placements from September 2027 with GPS, which provides social services for children, young people and adults with disabilities. The European Youth Portal lists six separate positions: a residential group home (Gulfhof), a sheltered workshop, residential groups for children and young…",
    "detail": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32501,7 +32329,7 @@
    "description": "A training course in the Dordogne for youth workers who host, mentor or coordinate long-term international volunteers. Participants work through the whole volunteering journey, from the first welcome to helping…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32559,7 +32387,7 @@
    "description": "A seven-day educational programme in Herten built around a four-day live-action role-play set aboard a generational starship, exploring solarpunk ideas of sustainable futures. It is organised by Waldritter (Germany)…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32622,7 +32450,7 @@
    "description": "A training course in Blansko for youth workers and aspiring entrepreneurs aged 18–40 from seven countries, with a field trip to innovation centres in Brno. The programme covers business model development, AI tools,…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32684,7 +32512,7 @@
    "description": "A study visit in Tbilisi for 18 youth workers from six countries on the link between young people's mental health and vulnerability to radicalisation. Participants learn practical tools for stress, trauma and emotional…",
    "detail": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32741,7 +32569,7 @@
    "description": "A youth exchange in Opole that uses arts and crafts to explore stereotypes, prejudice and discrimination in everyday life. Participants join collage, upcycling and peer-led craft workshops, a photo walk and study…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32797,7 +32625,7 @@
    "description": "A training course in Opole for youth workers, educators and volunteers, especially beginners, who want to make learning spaces more inclusive. Participants try simulations, inclusive games, art-based tools and Open…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32874,7 +32702,7 @@
    "description": "European Solidarity Corps volunteering with the Forty Two Foundation in Sofia, which produces podcasts and media content encouraging young people to be active citizens. Volunteers help create video and audio content and support the team at events. Accommodation, pocket money, food and local…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -32934,7 +32762,7 @@
    "description": "A two-week European Solidarity Corps volunteering in Modigliana for young people with fewer opportunities, who can come with an accompanying person. Volunteers join creative, cooking, drawing and sports activities with…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33015,7 +32843,7 @@
    "description": "Two months of European Solidarity Corps volunteering in Szeged, painting murals and pictures in social and community spaces. Volunteers also give presentations in high schools and organise activities in elderly clubs and care homes. The project can be extended until the end of April 2027.",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33091,7 +32919,7 @@
    "description": "Two months of European Solidarity Corps volunteering with the CEDID Association in Siirt, south-eastern Türkiye. Volunteers support English-language, cultural and educational activities, youth work and local community events, and can run activities based on their own ideas.",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33177,7 +33005,7 @@
    "description": "An ESC volunteering placement for three volunteers with an organisation supporting people with disabilities in central Spain. Volunteers raise awareness of disability and support inclusive activities; good Spanish is required.",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33261,7 +33089,7 @@
    "description": "European Solidarity Corps volunteering with Generation for Change CY, a grassroots organisation supporting refugees, migrants and people in poverty in Nicosia. Volunteers support humanitarian aid, empowerment and intercultural activities and advocacy for social justice. A 400 EUR monthly allowance…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33347,7 +33175,7 @@
    "description": "European Solidarity Corps volunteering with the Jesuit Service for Migrants in San José, supporting project monitoring, evaluation and fundraising for programmes with migrant and refugee populations. The volunteer works alongside the core team with continuous guidance. Travel, visa, vaccines,…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33433,7 +33261,7 @@
    "description": "European Solidarity Corps volunteering with the Jesuit Service for Migrants in San José, supporting the team that helps migrants and refugees with international protection, regularisation and access to rights. The volunteer also prepares information materials and runs workshops, with supervision…",
    "detail": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33490,7 +33318,7 @@
    "description": "A youth exchange in Valdemoro (Madrid region) that uses audiovisual artivism and documentary filmmaking to amplify migrant voices, promote social inclusion and challenge stereotypes and hate speech. Accommodation and…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33551,7 +33379,7 @@
    "description": "A youth exchange in Amasya on art and inclusion that brings together young people of different abilities and backgrounds. Participants work with art, rhythm, handicrafts and non-formal education to challenge…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33611,7 +33439,7 @@
    "description": "European Solidarity Corps volunteering in primary schools and kindergartens on Chios island for the 2027–2028 school year. Volunteers help teachers with educational, cultural, sports, environmental and new-technology…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "score": {
@@ -33662,7 +33490,7 @@
    "description": "Applications are now invited for the seventh cohort of the African Futures Research Leadership Program, a competitive visiting scholar and professional development initiative organised by the Alliance for African Partnership (AAP) at Michigan State University (MSU). The programme is designed to…",
    "detail": false,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "notified_at": null,
    "reminded": false,
    "ai": {
